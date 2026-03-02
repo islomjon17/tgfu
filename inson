@@ -1,0 +1,720 @@
+1. 
+Inson-kompyuter o‘zaro ta’siri fanining asosiy maqsadi nima? 
+.A) Foydalanuvchi samaradorlik oshirish 
+B) Dastur tezlik maksimal qilish 
+C) Xotira sarf kamaytirish 
+D) Kod murakkablik kamaytirish 
+2. 
+HCI fanining asosiy komponentlari qaysilar? 
+A) Dastur va apparat 
+.B) Inson, kompyuter, o‘zaro ta’sir 
+C) Tarmoq va server 
+D) Kod va algoritm 
+3. 
+Yuzabiliti tushunchasi nimani bildiradi? 
+A) Grafik interfeys chiroyli ko‘rinish 
+B) Tizim xavfsizlik daraja 
+.C) Foydalanish qulaylik daraja 
+D) Dastur bajarilish tezlik 
+4. 
+Yuzabilitining asosiy o‘lchovi qaysi? 
+A) Xotira sarf miqdor 
+B) Kod satr son 
+C) Algoritm murakkablik 
+.D) Samaradorlik, tezlik, qoniqish 
+5. 
+Foydalanuvchi markazli dizayn nimani anglatadi? 
+.A) Dizayn foydalanuvchiga yo‘naltirish 
+B) Dizayn dasturchiga yo‘naltirish 
+C) Dizayn serverga yo‘naltirish 
+D) Dizayn tarmoqqa yo‘naltirish 
+6. 
+Norman modelidagi asosiy bosqichlardan biri qaysi? 
+A) Kod yozish bosqichi 
+.B) Amal bajarish baholash 
+C) Server sozlash bosqichi 
+D) Tarmoq tekshirish bosqichi 
+7. 
+Feedback tushunchasi nimani bildiradi? 
+A) Kod kompilyatsiya jarayon 
+B) Xotira tekshirish jarayon 
+.C) Tizim javob axboroti 
+D) Tarmoq uzatish jarayon 
+8. 
+Affordance nima? 
+A) Algoritm murakkablik ko‘rsatkich 
+B) Xotira sarf ko‘rsatkich 
+C) Tarmoq tezlik ko‘rsatkich 
+.D) Amal bajarish imkon belgisi 
+9. 
+Heuristik baholash usuli nimaga asoslanadi? 
+.A) Ekspert qoidalar tekshirish 
+B) Kod test avtomat 
+C) Server monitoring tizim 
+D) Tarmoq sinov vosita 
+10. 
+Nielsenning bir tamoyili qaysi? 
+A) Kod optimallashtirish 
+.B) Xatolikni oldini olish 
+C) Tarmoq kengaytirish 
+D) Server xavfsizlik 
+11. 
+Foydalanuvchi tajribasi (UX) nimani bildiradi? 
+A) Dastur ichki tuzilish 
+B) Algoritm ishlash tezlik 
+.C) Foydalanuvchi umumiy hissiy tajriba 
+D) Server apparat konfiguratsiya 
+12. 
+Interfeys minimalizm tamoyili nimani anglatadi? 
+A) Ko‘p funksiyalar qo‘shish 
+B) Ko‘p rang ishlatish 
+C) Ko‘p menyu joylashtirish 
+.D) Keraksiz elementlarni kamaytirish 
+13. 
+Prototiplash bosqichi nimaga xizmat qiladi? 
+.A) Dizayn g‘oya sinov 
+B) Kod optimallashtirish 
+C) Tarmoq sozlash 
+D) Server monitoring 
+14. 
+Wireframe nima? 
+A) Ishlaydigan yakuniy dastur 
+.B) Interfeys skelet maket 
+C) Tarmoq diagramma 
+D) Algoritm oqim jadval 
+15. 
+Usability test nimani o‘lchaydi? 
+A) Server yuklama daraja 
+B) Tarmoq uzatish tezlik 
+C) Kod murakkablik daraja 
+.D) Foydalanish qulaylik daraja 
+16. 
+Accessibility nimani bildiradi? 
+A) Kod modullik daraja 
+B) Tarmoq ulanish daraja 
+C) Server xavfsizlik daraja 
+.D) Nogiron foydalanuvchi moslik 
+17. 
+HCI da mental model nima? 
+.A) Foydalanuvchi ichki tushuncha 
+B) Kod ichki struktura 
+C) Server ichki konfiguratsiya 
+D) Tarmoq ichki topologiya 
+18. 
+Interfeys izchillik tamoyili nimani anglatadi? 
+A) Rang doim o‘zgarish 
+.B) Elementlar bir xil ishlash 
+C) Tugmalar joyini o‘zgartirish 
+D) Menyu tartibini almashtirish 
+19. 
+Emotsional dizayn nimaga qaratilgan? 
+A) Algoritm samaradorlik 
+B) Kod tezlik oshirish 
+C) Tarmoq barqarorlik 
+.D) Foydalanuvchi hissiy ta’sir 
+20. 
+Jamoaviy o‘zaro ta’sir tizimi nimani ta’minlaydi? 
+A) Yakka foydalanuvchi boshqaruv 
+B) Lokal kompyuter ishlash 
+C) Server ichki sozlash 
+.D) Bir nechta foydalanuvchi hamkorlik 
+21. 
+GOMS modeli nimani tahlil qiladi? 
+.A) Foydalanuvchi vazifa tuzilish 
+B) Server yuklama holat 
+C) Kod bajarilish tezlik 
+D) Tarmoq uzatish sifati 
+22. 
+GOMS qisqartmasidagi “M” nimani bildiradi? 
+A) Model 
+.B) Method 
+C) Memory 
+D) Machine 
+23. 
+KLM modeli nimani hisoblaydi? 
+A) Server ishlash tezlik 
+B) Tarmoq signal kuch 
+.C) Amal bajarish vaqt 
+D) Kod satr uzunlik 
+24. 
+Fitts qonuni nimani tavsiflaydi? 
+A) Rang tanlash qoidasi 
+B) Xotira sig‘imi cheklovi 
+C) Kognitiv yuklama oshishi 
+.D) Nishonga yetish vaqti 
+25. 
+Fitts qonunidagi asosiy omillar qaysilar? 
+.A) Masofa va nishon o‘lcham 
+B) Rang va kontrast daraja 
+C) Server va tarmoq tezlik 
+D) Kod va algoritm murakkablik 
+26. 
+Kognitiv yuklama nimani bildiradi? 
+A) Server xotira bandlik 
+.B) Inson aqliy zo‘riqish 
+C) Tarmoq trafik daraja 
+D) Kod bajarilish yuk 
+27. 
+O‘zaro ta’sir modellashtirish maqsadi nima? 
+A) Kod optimallashtirish 
+B) Tarmoq konfiguratsiya 
+.C) Foydalanuvchi xatti prognoz 
+D) Server xavfsizlik 
+28. 
+Kontekstli so‘rov (contextual inquiry) nimaga asoslanadi? 
+A) Avtomatik log tahlil 
+B) Server monitoring tizim 
+C) Algoritm test sinov 
+.D) Real muhit kuzatuv 
+29. 
+Persona yaratish nimani anglatadi? 
+.A) Foydalanuvchi tip modeli 
+B) Server model yaratish 
+C) Kod model yaratish 
+D) Tarmoq model yaratish 
+30. 
+Scenario nima? 
+A) Kod yozish qoidasi 
+.B) Foydalanish vaziyat tavsif 
+C) Server ishlash jadval 
+D) Tarmoq yuklama jadval 
+31. 
+Think-aloud usuli nimani o‘lchaydi? 
+A) Tarmoq tezlik 
+B) Server barqarorlik 
+.C) Foydalanuvchi fikr jarayon 
+D) Kod bajarilish tezlik 
+32. 
+Usability testda samaradorlik nimani bildiradi? 
+A) Rang uyg‘unlik daraja 
+B) Dizayn chiroy daraja 
+C) Server tezlik daraja 
+.D) Vazifa bajarish tezlik 
+33. 
+Effectiveness nimani anglatadi? 
+.A) Vazifa to‘g‘ri bajarish 
+B) Kod tez yozish 
+C) Tarmoq tez uzatish 
+D) Server tez ishlash 
+34. 
+Efficiency nimani bildiradi? 
+A) Rang moslik daraja 
+.B) Vaqt va resurs tejalish 
+C) Server bandlik daraja 
+D) Tarmoq signal kuch 
+35. 
+Satisfaction nimani anglatadi? 
+A) Algoritm aniqlik daraja 
+B) Kod optimal daraja 
+C) Server yuk kamayish 
+.D) Foydalanuvchi qoniqish daraja 
+36. 
+Heuristik baholash kim tomonidan bajariladi? 
+A) Tasodifiy foydalanuvchi 
+B) Server administrator 
+C) Dastur avtomat tizim 
+.D) Tajribali ekspert guruh 
+37. 
+Error prevention tamoyili nimani anglatadi? 
+.A) Xatoni oldindan kamaytirish 
+B) Kod tez tuzatish 
+C) Server xato yashirish 
+D) Tarmoq xato uzatish 
+38. 
+Visibility of system status nimani bildiradi? 
+A) Server ichki log ko‘rsatish 
+.B) Tizim holatni ko‘rsatish 
+C) Kod jarayon yashirish 
+D) Tarmoq trafik yashirish 
+39. 
+Consistency tamoyili nimani ta’minlaydi? 
+A) Rang doim o‘zgarish 
+B) Tugma joy o‘zgarish 
+.C) Element ishlash bir xillik 
+D) Menyu nom o‘zgarish 
+40. 
+User-centered design jarayonida birinchi bosqich nima? 
+A) Kod yozish 
+B) Server sozlash 
+C) Prototip tayyorlash 
+.D) Foydalanuvchi tahlil 
+41. 
+Emotsional dizaynning asosiy maqsadi nima? 
+.A) Hissiy ta’sir shakllantirish 
+B) Kod tezlik oshirish 
+C) Server yuk kamaytirish 
+D) Tarmoq barqarorlik oshirish 
+42. 
+Normanning emotsional dizayn darajalaridan biri qaysi? 
+A) Strukturaviy daraja 
+.B) Visseral daraja 
+C) Texnik daraja 
+D) Algoritmik daraja 
+43. 
+Reflektiv daraja nimani anglatadi? 
+A) Rang tanlash mexanizm 
+B) Tezlik boshqarish mexanizm 
+.C) Ongli baholash daraja 
+D) Kod optimallashtirish daraja 
+44. 
+Multimodal interfeys nimani bildiradi? 
+A) Faqat grafik boshqaruv 
+B) Faqat klaviatura boshqaruv 
+C) Faqat ovoz boshqaruv 
+.D) Bir nechta kirish kanali 
+45. 
+Haptic feedback nimani anglatadi? 
+.A) Teginish orqali javob 
+B) Ovoz orqali javob 
+C) Matn orqali javob 
+D) Rang orqali javob 
+46. 
+Voice User Interface asosiy elementi nima? 
+A) Grafik tugma panel 
+.B) Nutq aniqlash modul 
+C) Tarmoq signal kuch 
+D) Server xotira hajm 
+47. 
+AR interfeys nimani birlashtiradi? 
+A) Faqat virtual muhit 
+B) Faqat real muhit 
+.C) Real va virtual obyekt 
+D) Server va tarmoq tizim 
+48. 
+VR interfeys asosiy xususiyati nima? 
+A) Oddiy monitor ko‘rsatish 
+B) Tarmoq grafik uzatish 
+C) Server 3D hisoblash 
+.D) To‘liq immersiv muhit 
+49. 
+Immersion nimani bildiradi? 
+.A) Foydalanuvchi muhitga sho‘ng‘ish 
+B) Kod bajarilish tezlik 
+C) Server yuk daraja 
+D) Tarmoq trafik oshish 
+50. 
+Presence tushunchasi nimani anglatadi? 
+A) Rang aniqlik daraja 
+.B) Virtual muhitda mavjudlik hissi 
+C) Server ulanish daraja 
+D) Tarmoq uzilish daraja 
+51. 
+Sensorli interfeys nimaga asoslanadi? 
+A) Kod buyruq kiritish 
+B) Ovozli buyruq kiritish 
+.C) Tegishli harakat aniqlash 
+D) Tarmoq signal o‘lchash 
+52. 
+Gesture recognition nimani anglatadi? 
+A) Kod yozish harakat 
+.B) Qo‘l harakat aniqlash 
+C) Server signal o‘lchash 
+D) Tarmoq paket tekshirish 
+53. 
+Affective computing nimani o‘rganadi? 
+A) Server ishlash tezlik 
+B) Tarmoq xavfsizlik 
+.C) Emotsiya aniqlash tizim 
+D) Kod optimallashtirish 
+54. 
+User frustration ko‘rsatkich nimaga bog‘liq? 
+A) Server tezlik pasayish 
+B) Tarmoq uzilish son 
+C) Kod xato miqdor 
+.D) Qulaylik daraja pasayish 
+55. 
+Cognitive walkthrough nimani baholaydi? 
+.A) Vazifa bajarish mantiq 
+B) Server ishlash tezlik 
+C) Tarmoq signal sifati 
+D) Kod bajarilish vaqt 
+56. 
+Modal interfeys nimani bildiradi? 
+A) Bir vaqt ko‘p rejim 
+.B) Bir vaqt bitta rejim 
+C) Cheksiz boshqaruv usul 
+D) Server parallel jarayon 
+57. 
+Interaction latency nimani anglatadi? 
+A) Rang o‘zgarish tezlik 
+B) Kod yozish tezlik 
+.C) Buyruq javob kechikish 
+D) Tarmoq signal kuch 
+58. 
+Direct manipulation tamoyili nimani anglatadi? 
+A) Kod orqali boshqarish 
+B) Buyruq satri boshqarish 
+C) Server sozlash boshqarish 
+.D) Obyektni bevosita boshqarish 
+59. 
+Affordance dizaynda nimani bildiradi? 
+.A) Amal imkon ko‘rsatish 
+B) Kod tuzilish ko‘rsatish 
+C) Server signal ko‘rsatish 
+D) Tarmoq tezlik ko‘rsatish 
+60. 
+Collaborative system asosiy vazifasi nima? 
+A) Yakka foydalanuvchi boshqaruv 
+B) Server resurs boshqaruv 
+C) Tarmoq xavfsizlik boshqaruv 
+.D) Ko‘p foydalanuvchi hamkorlik 
+61. 
+Usability metrikasi nimani o‘lchaydi? 
+.A) Foydalanish samaradorlik daraja 
+B) Server ishlash tezlik 
+C) Tarmoq signal sifati 
+D) Kod optimallik daraja 
+62. 
+A/B test nimani taqqoslaydi? 
+A) Server konfiguratsiya farq 
+.B) Ikki interfeys variant 
+C) Tarmoq protokol farq 
+D) Kod tuzilish farq 
+63. 
+Statistik ahamiyat nimani bildiradi? 
+A) Rang farq sezilish 
+B) Kod tezlik oshish 
+.C) Natija tasodifiy emas 
+D) Server yuk kamayish 
+64. 
+p-qiymat nimani ko‘rsatadi? 
+A) Server bandlik foiz 
+B) Tarmoq uzilish ehtimol 
+C) Kod xato ehtimol 
+.D) Tasodifiylik ehtimol daraja 
+65. 
+Nazorat guruhi nimaga kerak? 
+.A) Taqqoslash asos yaratish 
+B) Kod sinov tezlashtirish 
+C) Server xavfsizlik oshirish 
+D) Tarmoq tezlik oshirish 
+66. 
+Dependent variable nimani bildiradi? 
+A) Mustaqil omil 
+.B) O‘lchanadigan natija 
+C) Server parametri 
+D) Tarmoq ko‘rsatkich 
+67. 
+Independent variable nimani bildiradi? 
+A) O‘lchanadigan natija 
+B) Server ko‘rsatkich 
+.C) Tajriba o‘zgartirilgan omil 
+D) Tarmoq parametri 
+68. 
+Sample size oshsa nima ortadi? 
+A) Bias komponent 
+B) Server yuk 
+C) Tarmoq trafik 
+.D) Statistik ishonchlilik 
+69. 
+Likert shkalasi nimani o‘lchaydi? 
+.A) Fikr va munosabat daraja 
+B) Server tezlik daraja 
+C) Tarmoq signal daraja 
+D) Kod samaradorlik daraja 
+70. 
+Usability testda time on task nimani bildiradi? 
+A) Server ishlash vaqt 
+.B) Vazifa bajarish vaqt 
+C) Tarmoq uzatish vaqt 
+D) Kod kompilyatsiya vaqt 
+71. 
+Error rate nimani bildiradi? 
+A) Server xotira bandlik 
+B) Tarmoq uzilish foiz 
+.C) Xatolik yuz berish ulushi 
+D) Kod optimallik foiz 
+72. 
+Completion rate nimani anglatadi? 
+A) Server yuk foiz 
+.B) Vazifa tugatish ulushi 
+C) Tarmoq tezlik foiz 
+D) Kod yozish foiz 
+73. 
+Within-subject design nimani anglatadi? 
+A) Har guruh alohida test 
+B) Server alohida sozlash 
+.C) Bir ishtirokchi bir necha shart 
+D) Tarmoq alohida sinov 
+74. 
+Between-subject design nimani anglatadi? 
+A) Bitta ishtirokchi ko‘p shart 
+B) Server parallel sozlash 
+C) Tarmoq parallel sinov 
+.D) Har guruh alohida shart 
+75. 
+ANOVA testi nimani tekshiradi? 
+.A) Bir nechta guruh farq 
+B) Server yuk farq 
+C) Tarmoq tezlik farq 
+D) Kod satr farq 
+76. 
+Hypothesis testing nimani bildiradi? 
+A) Server xavfsizlik tekshiruv 
+.B) Ilmiy faraz tekshiruv 
+C) Tarmoq signal tekshiruv 
+D) Kod kompilyatsiya tekshiruv 
+77. 
+Confidence interval nimani anglatadi? 
+A) Server ishlash oralig‘ 
+B) Tarmoq tezlik oralig‘ 
+.C) Natija ishonch oralig‘ 
+D) Kod xato oralig‘ 
+78. 
+Usability benchmarking nimani bildiradi? 
+A) Server tezlik taqqoslash 
+B) Tarmoq signal taqqoslash 
+C) Kod murakkablik taqqoslash 
+.D) Interfeys sifat taqqoslash 
+79. 
+Heatmap tahlil nimani ko‘rsatadi? 
+.A) Ekran e’tibor joylashuv 
+B) Server yuk joylashuv 
+C) Tarmoq trafik joylashuv 
+D) Kod xato joylashuv 
+80. 
+Eye-tracking texnikasi nimani o‘lchaydi? 
+A) Server ishlash tezlik 
+B) Tarmoq signal harakat 
+C) Kod bajarilish yo‘nalish 
+.D) Ko‘z qarash yo‘nalish 
+81. 
+Instrumentation nimani anglatadi? 
+.A) Foydalanish log yig‘ish 
+B) Server yuk kamaytirish 
+C) Tarmoq paket filtrlash 
+D) Kod satr qisqartirish 
+82. 
+Event logging nimani yozib boradi? 
+A) Server konfiguratsiya holat 
+.B) Foydalanuvchi hodisa ketma 
+C) Tarmoq signal kuchi 
+D) Kod kompilyatsiya holat 
+83. 
+Session replay nimani beradi? 
+A) Kod versiya qaytarish 
+B) Server sozlash qaytarish 
+.C) Foydalanuvchi harakat qayd 
+D) Tarmoq uzilish qayd 
+84. 
+Funnel analysis nimani baholaydi? 
+A) Kod murakkablik o‘lchov 
+B) Server bandlik o‘lchov 
+C) Tarmoq trafik o‘lchov 
+.D) Bosqichdan o‘tish ulush 
+85. 
+Drop-off rate nimani bildiradi? 
+.A) Jarayondan chiqish ulush 
+B) Vazifa tugatish ulush 
+C) Ko‘z qarash ulush 
+D) Xatolik kamayish ulush 
+86. 
+Accessibility audit nimani tekshiradi? 
+A) Server xavfsizlik holat 
+.B) Nogiron foydalanuvchi moslik 
+C) Tarmoq uzatish sifati 
+D) Kod optimallik daraja 
+87. 
+WCAG standartlari nimaga tegishli? 
+A) Tarmoq protokol qoidalar 
+B) Server xavfsizlik qoidalar 
+.C) Veb accessibility qoidalar 
+D) Kod yozish qoidalar 
+88. 
+Contrast ratio nimani bildiradi? 
+A) Server signal nisbati 
+B) Tarmoq paket nisbati 
+C) Kod satr nisbati 
+.D) Matn fon farqi 
+89. 
+Keyboard navigation talabi nimani anglatadi? 
+.A) Klaviatura bilan boshqarish 
+B) Faqat sichqon boshqarish 
+C) Faqat ovoz boshqarish 
+D) Faqat teginish boshqarish 
+90. 
+ARIA atributlari nimaga xizmat qiladi? 
+A) Server log belgilash 
+.B) Screen reader semantika 
+C) Tarmoq paket belgilash 
+D) Kod optim belgilash 
+91. 
+Axe yoki Lighthouse nimani beradi? 
+A) Tarmoq tezlik test 
+B) Server yuk test 
+.C) Accessibility avtomat tekshiruv 
+D) Kod kompilyatsiya test 
+92. 
+Time-to-interactive nimani o‘lchaydi? 
+A) Server javob kechikish 
+.B) Sahifa interaktiv bo‘lish vaqt 
+C) Tarmoq signal yetish vaqt 
+D) Kod yozish tugash vaqt 
+93. 
+Latency UX ga qanday ta’sir qiladi? 
+A) Rang farq oshiradi 
+B) Kod satr oshiradi 
+.C) Javob sezgirlik pasaytiradi 
+D) Server xotira oshiradi 
+94. 
+Client-side telemetry nimani anglatadi? 
+A) Server ichki metrika 
+B) Tarmoq ichki metrika 
+C) Kod ichki metrika 
+.D) Brauzer ichki metrika 
+95. 
+Error boundary tushunchasi nimani bildiradi? 
+.A) UI xato ushlash mexanizm 
+B) Server xato yashirish 
+C) Tarmoq xato uzatish 
+D) Kod xato ko‘paytirish 
+96. 
+Dark pattern nimani anglatadi? 
+A) Rang qorong‘i dizayn 
+.B) Manipulyativ dizayn usul 
+C) Server yashirin sozlash 
+D) Tarmoq yashirin trafik 
+97. 
+Ethical UX nimani talab qiladi? 
+A) Server maksimal nazorat 
+B) Tarmoq maksimal cheklov 
+.C) Shaffof va halol dizayn 
+D) Kod maksimal murakkab 
+98. 
+Interaction loggingda privacy riski nima? 
+A) Server bandlik oshish 
+.B) Shaxsiy ma’lumot chiqish 
+C) Tarmoq tezlik pasayish 
+D) Kod xato ortish 
+99. 
+Cohort analysis nimani ko‘rsatadi? 
+.A) Guruh xatti o‘zgarish 
+B) Server yuk o‘zgarish 
+C) Tarmoq trafik o‘zgarish 
+D) Kod satr o‘zgarish 
+100. 
+Usability regression testing nimani anglatadi? 
+A) Server regressiya tekshiruv 
+B) Tarmoq regressiya tekshiruv 
+C) Kod regressiya tekshiruv 
+.D) UI qulaylik barqarorlik 
+101. 
+Interaction model nimani tasvirlaydi? 
+.A) Inson tizim aloqa jarayon 
+B) Server ichki hisob jarayon 
+C) Tarmoq paket uzatish jarayon 
+D) Kod kompilyatsiya jarayon 
+102. 
+Norman interaction cycle nechta bosqichdan iborat? 
+A) To‘rt bosqichli model 
+.B) Yetti bosqichli model 
+C) Uch bosqichli model 
+D) O‘n bosqichli model 
+103. 
+Execution gulf nimani bildiradi? 
+A) Server javob kechikish 
+B) Tarmoq uzilish masofa 
+.C) Maqsad va amal tafovut 
+D) Kod va natija tafovut 
+104. 
+Evaluation gulf nimani bildiradi? 
+A) Kod bajarish tafovut 
+B) Server signal tafovut 
+C) Tarmoq uzatish tafovut 
+.D) Natija va tushunish tafovut 
+105. 
+CSCW qisqartmasi nimani anglatadi? 
+.A) Kompyuter qo‘llovchi jamoa ish 
+B) Server markazli ish tizim 
+C) Tarmoq boshqaruv ish tizim 
+D) Kod markazli ish tizim 
+106. 
+Synchronous collaboration nimani anglatadi? 
+A) Turli vaqt ishlash 
+.B) Bir vaqt ishlash 
+C) Server orqali ishlash 
+D) Tarmoq orqali ishlash 
+107. 
+Asynchronous collaboration nimani anglatadi? 
+A) Bir vaqt ishlash 
+B) Real vaqt ishlash 
+.C) Turli vaqt ishlash 
+D) Server ichki ishlash 
+108. 
+Shared workspace nimani bildiradi? 
+A) Server umumiy xotira 
+B) Tarmoq umumiy kanal 
+C) Kod umumiy modul 
+.D) Umumiy virtual ish maydon 
+109. 
+Awareness tizimlari nimani ta’minlaydi? 
+.A) Hamkor holat xabardorlik 
+B) Server bandlik xabardorlik 
+C) Tarmoq trafik xabardorlik 
+D) Kod xato xabardorlik 
+110. 
+Conflict resolution mexanizmi nimani boshqaradi? 
+A) Server yuk muammo 
+.B) Bir vaqt tahrir muammo 
+C) Tarmoq uzilish muammo 
+D) Kod kompilyatsiya muammo 
+111. 
+Turn-taking mexanizmi nimani bildiradi? 
+A) Server navbat taqsim 
+B) Tarmoq navbat taqsim 
+.C) So‘zlash navbat boshqaruv 
+D) Kod navbat bajaruv 
+112. 
+Feedback loop nimani ta’minlaydi? 
+A) Server avtomat sozlash 
+B) Tarmoq signal aylanish 
+C) Kod qayta yozish 
+.D) Harakat va javob sikl 
+113. 
+Distributed cognition nimani anglatadi? 
+.A) Bilim jamoa ichida taqsim 
+B) Server xotira taqsim 
+C) Tarmoq paket taqsim 
+D) Kod modul taqsim 
+114. 
+Socio-technical system nimani bildiradi? 
+A) Faqat texnik tizim 
+B) Faqat ijtimoiy tizim 
+C) Server markaz tizim 
+.D) Ijtimoiy texnik integratsiya 
+115. 
+Workflow model nimani tavsiflaydi? 
+.A) Vazifa ketma jarayon 
+B) Server ketma jarayon 
+C) Tarmoq ketma jarayon 
+D) Kod ketma jarayon 
+116. 
+Human-in-the-loop nimani anglatadi? 
+A) Server avtomat boshqaruv 
+.B) Inson qaror jarayon 
+C) Tarmoq avtomat boshqaruv 
+D) Kod avtomat boshqaruv 
+117. 
+Adaptive interface nimani bildiradi? 
+A) Server moslashuv tizim 
+B) Tarmoq moslashuv tizim 
+.C) Foydalanuvchi moslashuv UI 
+D) Kod moslashuv tizim 
+118. 
+Personalization nimani anglatadi? 
+A) Server sozlash jarayon 
+B) Tarmoq sozlash jarayon 
+C) Kod sozlash jarayon 
+.D) Individual foydalanuvchi moslash 
+119. 
+Collaborative filtering nimani anglatadi? 
+.A) Foydalanuvchi xatti asos tavsiya 
+B) Server log asos tavsiya 
+C) Tarmoq trafik asos tavsiya 
+D) Kod modul asos tavsiya 
+120. 
+Interaction design arxitekturasi nimani belgilaydi? 
+A) Server apparat tuzilish 
+B) Tarmoq fizik tuzilish 
+C) Kod ichki algoritm 
+.D) Foydalanuvchi o‘zaro tuzilish 

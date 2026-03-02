@@ -1,0 +1,719 @@
+Timsol ehtimollik modeli sifatida qanday qaraladi? 
+.A) Tasodifiy belgilar vektori 
+B) Deterministik parametr modeli 
+C) Diskret sinf indeksi 
+D) Risk argument qiymati 
+2. 
+Bayes qaror qoidasi nimani maksimal qiladi? 
+A) Prior ehtimollik qiymati 
+.B) Posterior ehtimollik qiymati 
+C) Entropiya funksiyasi qiymati 
+D) Dispersiya nisbat qiymati 
+3. 
+Mahalanobis masofa nimaga bog‘liq? 
+A) Kovariatsiya determinant qiymati 
+B) Belgilar o‘rtacha qiymati 
+.C) Kovariatsiya teskari matritsa 
+D) Sinflar prior ehtimolligi 
+4. 
+O‘quv tanlanma qanday vazifani bajaradi? 
+A) Yakuniy model baholash 
+B) Umumlashuv sifat tekshirish 
+C) Xatolik miqdor hisoblash 
+.D) Parametrlarni baholash jarayoni 
+5. 
+Axborot yutug‘i nimaga asoslanadi? 
+.A) Entropiya kamayish miqdori 
+B) Dispersiya ortish miqdori 
+C) Prior ehtimollik o‘zgarishi 
+D) Risk funksiyasi o‘sishi 
+6. 
+Naive Bayes qanday farazga tayanadi? 
+A) Belgilar to‘liq bog‘liqligi 
+.B) Belgilar shartli mustaqilligi 
+C) Dispersiyalar tengligi 
+D) Prior nol qiymati 
+7. 
+Perseptron qachon konvergensiya qiladi? 
+A) Belgilar son ortishi 
+B) O‘qitish tezligi kichik 
+.C) Chiziqli ajratish mavjud 
+D) Prior teng taqsimlanish 
+8. 
+Kernel trick mohiyati nimada? 
+A) Belgilar son kamaytirish 
+B) Past o‘lcham o‘tkazish 
+C) Risk miqdor oshirish 
+.D) Yuqori fazo akslantirish 
+9. 
+k-NN da k=1 holati qanday xususiyat beradi? 
+.A) Yuqori varians qiymati 
+B) Yuqori bias qiymati 
+C) Minimal risk qiymati 
+D) Maksimal entropiya qiymati 
+10. 
+LDA algoritmi nimani maksimal qiladi? 
+A) Ichki dispersiya nisbat 
+.B) Sinflararo dispersiya nisbat 
+C) Belgilar son nisbat 
+D) Risk funksiyasi nisbat 
+11. 
+Cross-entropy qaysi masalada ishlatiladi? 
+A) Regressiya masalasi turi 
+B) Klasterlash masalasi turi 
+.C) Klassifikatsiya masalasi turi 
+D) Reduksiya masalasi turi 
+12. 
+Softmax funksiyasi qanday natija beradi? 
+A) Belgilar markazlash qiymati 
+B) Dispersiya kamayish qiymati 
+C) Risk minimallashtirish qiymati 
+.D) Ehtimollik taqsimot qiymati 
+13. 
+Overfitting qaysi holatda yuz beradi? 
+.A) O‘quv ma’lumot ortiq moslashuv 
+B) Model haddan soddalik 
+C) Belgilar son kamayish 
+D) Prior nol qiymat 
+14. 
+Regularizatsiya qanday maqsadga xizmat qiladi? 
+A) Belgilar son ko‘paytirish 
+.B) Model murakkablik cheklash 
+C) Entropiya maksimal qilish 
+D) Dispersiya ortish ta’minlash 
+15. 
+Mahalanobis masofa qachon Evklidga tenglashadi? 
+A) Dispersiya nol qiymat 
+B) Sinf bitta holat 
+.C) Kovariatsiya birlik matritsa 
+D) Prior teng taqsimot 
+16. 
+Backpropagation nimaga asoslanadi? 
+A) Tasodifiy og‘irlik yangilash 
+B) Entropiya maksimal qilish 
+C) Prior ehtimollik oshirish 
+.D) Gradient tushish algoritm 
+17. 
+Qaror chegarasi murakkablashsa nima ortadi? 
+.A) Varians komponent qiymati 
+B) Bias komponent qiymati 
+C) Prior komponent qiymati 
+D) Entropiya komponent qiymati 
+18. 
+ROC egri chizig‘i nimaga bog‘liq? 
+A) Entropiya risk qiymati 
+.B) TPR FPR ko‘rsatkich 
+C) Dispersiya o‘rtacha qiymat 
+D) Belgilar son ko‘rsatkich 
+19. 
+Potensial funksiyalar usuli nimaga asoslanadi? 
+A) Posterior maksimal qiymat 
+B) Entropiya minimal qiymat 
+.C) Potensial yig‘indi qiymat 
+D) Dispersiya farq qiymat 
+20. 
+Ko‘p qatlamli perseptron nimani yecha oladi? 
+A) Chiziqli masala turi 
+B) Regressiya masala turi 
+C) Klasterlash masala turi 
+.D) Nochiziqli masala turi 
+21. 
+Posterior ehtimollik formulasi nimaga asoslanadi? 
+.A) Bayes teorema formulasi 
+B) Chebishev tengsizlik formulasi 
+C) Laplas yaqinlash formulasi 
+D) Markov zanjir formulasi 
+22. 
+Likelihood funksiyasi nimani ifodalaydi? 
+A) Sinf ehtimollik qiymati 
+.B) Parametrga bog‘liq ehtimollik 
+C) Risk funksiyasi qiymati 
+D) Entropiya miqdor qiymati 
+23. 
+Empirik risk nimani bildiradi? 
+A) Nazariy xato ehtimol 
+B) Posterior ehtimol qiymat 
+.C) Tanlanma xatolik ulushi 
+D) Dispersiya nisbat qiymat 
+24. 
+Regularizatsiya L2 nimani penalizatsiya qiladi? 
+A) Og‘irlik modul yig‘indi 
+B) Entropiya qiymat yig‘indi 
+C) Posterior nisbat qiymat 
+.D) Og‘irlik kvadrat yig‘indi 
+25. 
+Log-likelihood nima beradi? 
+.A) Ko‘paytmani yig‘indiga aylantirish 
+B) Riskni nolga tenglash 
+C) Dispersiyani kamaytirish 
+D) Belgilar son oshirish 
+26. 
+Gradient tushish algoritmi nimani yangilaydi? 
+A) Prior ehtimollik qiymat 
+.B) Model og‘irlik parametr 
+C) Entropiya ko‘rsatkich qiymat 
+D) Sinf dispersiya nisbat 
+27. 
+Bias-varians kompromissi nimani bildiradi? 
+A) Prior posterior bog‘liqlik 
+B) Entropiya dispersiya nisbat 
+.C) Model murakkablik xato muvozanat 
+D) Belgilar son risk nisbat 
+28. 
+Gaussian taqsimot zichlik funksiyasi nimani o‘z ichiga oladi? 
+A) Faqat o‘rtacha qiymat 
+B) Faqat dispersiya qiymat 
+C) Faqat prior ehtimollik 
+.D) O‘rtacha va kovariatsiya 
+29. 
+Chiziqli diskriminant funksiyasi qanday ko‘rinishda bo‘ladi? 
+.A) Og‘irlik skalyar ko‘paytma 
+B) Kvadrat ko‘paytma tenglama 
+C) Logarifmik o‘zgarish tenglama 
+D) Eksponensial o‘zgarish tenglama 
+30. 
+SVM margin nimani bildiradi? 
+A) Dispersiya farq masofa 
+.B) Chegaragacha minimal masofa 
+C) Entropiya nisbat masofa 
+D) Prior ehtimol masofa 
+31. 
+Qattiq margin SVM qachon qo‘llaniladi? 
+A) Sinflar aralash holat 
+B) Shovqin mavjud holat 
+.C) To‘liq ajraluvchi holat 
+D) Prior teng bo‘lmagan 
+32. 
+RBF kernel nimaga asoslanadi? 
+A) Chiziqli ichki ko‘paytma 
+B) Polinom daraja ifoda 
+C) Logarifmik transform ifoda 
+.D) Eksponensial masofa ifoda 
+33. 
+Perseptron aktivatsiya funksiyasi qanday? 
+.A) Bosqichli qaror funksiya 
+B) Sinusoidal o‘zgarish funksiya 
+C) Logarifmik o‘zgarish funksiya 
+D) Polinom darajali funksiya 
+34. 
+Backpropagation xatoni qanday tarqatadi? 
+A) Kirishdan chiqish tomon 
+.B) Chiqishdan kirish tomon 
+C) Tasodifiy yo‘nalish tomon 
+D) Parallel qatlam tomon 
+35. 
+ReLU funksiyasi qanday aniqlanadi? 
+A) Sigmoid o‘zgarish funksiya 
+B) Tanh o‘zgarish funksiya 
+.C) Nol bilan maksimum funksiya 
+D) Kvadrat o‘zgarish funksiya 
+36. 
+Softmax chiqishi qanday shartni qanoatlantiradi? 
+A) Dispersiya birlik qiymat 
+B) Risk nol qiymat 
+C) Entropiya maksimal qiymat 
+.D) Ehtimollik yig‘indi birlik 
+37. 
+Overfitting qaysi komponent ortishi bilan bog‘liq? 
+.A) Varians komponent ortishi 
+B) Bias komponent ortishi 
+C) Prior komponent ortishi 
+D) Entropiya komponent ortishi 
+38. 
+Underfitting qaysi komponent ortishi bilan bog‘liq? 
+A) Varians komponent ortishi 
+.B) Bias komponent ortishi 
+C) Prior komponent ortishi 
+D) Entropiya komponent ortishi 
+39. 
+Klassifikatsiya xatosi nimani bildiradi? 
+A) Entropiya qiymat nisbat 
+B) Dispersiya qiymat nisbat 
+.C) Noto‘g‘ri tasnif ulushi 
+D) Prior ehtimol ulushi 
+40. 
+Belgilar normallashtirish maqsadi nima? 
+A) Risk oshirish jarayon 
+B) Entropiya kamaytirish jarayon 
+C) Sinf son ko‘paytirish jarayon 
+.D) Masshtab tenglashtirish jarayon 
+41. 
+Bayes minimal xato ehtimoli nimaga teng? 
+.A) Minimal nazariy xato ehtimol 
+B) Maksimal posterior ehtimol 
+C) Minimal dispersiya nisbat 
+D) Empirik xatolik ulushi 
+42. 
+Ikki sinfli qaror chegarasi qaysi shartda kvadratik bo‘ladi? 
+A) Kovariatsiya teng holat 
+.B) Kovariatsiya farqli holat 
+C) Prior nol holat 
+D) Entropiya teng holat 
+43. 
+Logistik regressiya qaror funksiyasi nimaga asoslanadi? 
+A) Kvadrat yo‘qotish funksiyasi 
+B) Eksponensial risk funksiyasi 
+.C) Sigmoid ehtimollik modeli 
+D) Polinom ajratish modeli 
+44. 
+Gradient tushish konvergensiyasi nimaga bog‘liq? 
+A) Belgilar son ortishi 
+B) Sinflar son ortishi 
+C) Entropiya qiymat ortishi 
+.D) O‘qitish tezlik tanlovi 
+45. 
+Klassifikatsiyada nol-bir yo‘qotish nimani bildiradi? 
+.A) To‘g‘ri noto‘g‘ri qaror bahosi 
+B) Dispersiya qiymat bahosi 
+C) Entropiya qiymat bahosi 
+D) Prior ehtimol bahosi 
+46. 
+Ajratuvchi tekislik normal vektori nimani bildiradi? 
+A) Entropiya yo‘nalish qiymat 
+.B) Chegara yo‘nalish koeffitsiyent 
+C) Risk o‘sish koeffitsiyent 
+D) Prior nisbat koeffitsiyent 
+47. 
+SVM dual masala nimani maksimal qiladi? 
+A) Risk funksiyasi qiymat 
+B) Entropiya nisbat qiymat 
+.C) Lagrange koeffitsiyent yig‘indi 
+D) Dispersiya farq qiymat 
+48. 
+Klassifikatsiya chegarasida margin kengaysa nima kamayadi? 
+A) Bias komponent qiymat 
+B) Prior komponent qiymat 
+C) Entropiya komponent qiymat 
+.D) Varians komponent qiymat 
+49. 
+Neyron tarmoqda og‘irlik yangilanish formulasi nimani o‘z ichiga oladi? 
+.A) Gradient va o‘qitish tezlik 
+B) Entropiya va prior nisbat 
+C) Dispersiya va risk nisbat 
+D) Sinf va belgilar nisbat 
+50. 
+Softmax chiqish funksiyasi qaysi transformatsiyaga asoslanadi? 
+A) Logarifmik transformatsiya 
+.B) Eksponensial normallashtirish 
+C) Polinom daraja oshirish 
+D) Kvadrat masofa o‘lchash 
+51. 
+Bayes klassifikator optimal bo‘lishi uchun nima kerak? 
+A) Empirik risk minimal 
+B) Belgilar son maksimal 
+.C) Haqiqiy ehtimollik taqsimot 
+D) Dispersiya nol qiymat 
+52. 
+Kovariatsiya matritsasi diagonal bo‘lsa nimani anglatadi? 
+A) Belgilar to‘liq bog‘liq 
+.B) Belgilar o‘zaro mustaqil 
+C) Dispersiya nol qiymat 
+D) Prior teng taqsimot 
+53. 
+Klassifikatsiyada threshold o‘zgarishi nimani o‘zgartiradi? 
+A) Entropiya maksimal qiymat 
+B) Dispersiya minimal qiymat 
+.C) TPR va FPR nisbat 
+D) Prior ehtimol nisbat 
+54. 
+Cross-entropy minimal bo‘lsa nimani anglatadi? 
+A) Dispersiya nol qiymat 
+B) Prior teng qiymat 
+C) Entropiya maksimal qiymat 
+.D) Bashorat haqiqiy taqsimot 
+55. 
+k-NN algoritmida katta k nimaga olib keladi? 
+.A) Yuqori bias komponent 
+B) Yuqori varians komponent 
+C) Minimal risk komponent 
+D) Maksimal entropiya komponent 
+56. 
+Gradient nolga teng bo‘lsa nimani bildiradi? 
+A) Entropiya maksimal nuqta 
+.B) Lokal ekstremum nuqta 
+C) Prior nol nuqta 
+D) Dispersiya minimal nuqta 
+57. 
+Bayes risk nimaga bog‘liq? 
+A) Faqat prior ehtimol 
+B) Faqat dispersiya qiymat 
+.C) Yo‘qotish va ehtimollik 
+D) Belgilar son qiymat 
+58. 
+Ajratish chegarasi chiziqli bo‘lishi nimaga bog‘liq? 
+A) Prior teng qiymat 
+B) Entropiya minimal qiymat 
+C) Belgilar son ortish 
+.D) Kovariatsiya teng holat 
+59. 
+Neyron tarmoqda overfittingni kamaytirish usuli nima? 
+A) Belgilar son oshirish 
+B) O‘qitish tezlik oshirish 
+.C) Dropout yoki regularizatsiya 
+D) Entropiya maksimal qilish 
+60. 
+Klassifikatsiya aniqligi qanday aniqlanadi? 
+A) Dispersiya nisbat qiymat 
+B) Entropiya nisbat qiymat 
+C) Prior ehtimol nisbat 
+.D) To‘g‘ri tasnif ulushi 
+61. 
+Log-likelihood maksimal nuqtasi nimani bildiradi? 
+.A) Parametr optimal baho 
+B) Dispersiya maksimal qiymat 
+C) Entropiya minimal qiymat 
+D) Prior nol qiymat 
+62. 
+Hessian matritsa nimani ifodalaydi? 
+A) Birinchi tartibli hosila 
+.B) Ikkinchi tartibli hosila 
+C) Posterior ehtimollik 
+D) Risk funksiyasi 
+63. 
+Kvadratik diskriminant tahlil qachon qo‘llaniladi? 
+A) Kovariatsiya teng bo‘lsa 
+B) Prior teng bo‘lsa 
+.C) Kovariatsiya farqli bo‘lsa 
+D) Entropiya nol bo‘lsa 
+64. 
+Gradient tushish algoritmida learning rate katta bo‘lsa nima yuz beradi? 
+A) Sekin konvergensiya 
+B) Minimal risk 
+C) Barqaror nuqta 
+.D) Divergensiya holat 
+65. 
+Empirik risk minimallashtirish nimani anglatadi? 
+.A) Tanlanma xatolik kamayish 
+B) Dispersiya ortish jarayon 
+C) Entropiya maksimal qiymat 
+D) Prior nol qiymat 
+66. 
+Bayes qaror chegarasi qaysi tenglikka asoslanadi? 
+A) Prior tenglik sharti 
+.B) Posterior tenglik sharti 
+C) Dispersiya tenglik sharti 
+D) Entropiya tenglik sharti 
+67. 
+Logistik regressiyada qaror chegarasi qanday ko‘rinishda bo‘ladi? 
+A) Kvadratik sirt tenglama 
+B) Eksponensial sirt tenglama 
+.C) Chiziqli tekislik tenglama 
+D) Logarifmik sirt tenglama 
+68. 
+Regularizatsiya parametri oshsa nima ortadi? 
+A) Varians komponent qiymat 
+B) Entropiya komponent qiymat 
+C) Prior komponent qiymat 
+.D) Bias komponent qiymat 
+69. 
+Naive Bayes da shartli mustaqillik nimani soddalashtiradi? 
+.A) Birgalik ehtimol hisoblash 
+B) Dispersiya qiymat hisoblash 
+C) Entropiya miqdor hisoblash 
+D) Risk funksiyasi hisoblash 
+70. 
+ROC egri chizig‘i ostidagi maydon nimani bildiradi? 
+A) Dispersiya farq ko‘rsatkich 
+.B) Ajratish sifat ko‘rsatkich 
+C) Entropiya maksimal ko‘rsatkich 
+D) Prior ehtimol ko‘rsatkich 
+71. 
+Backpropagation algoritmida zanjir qoidasi nimani beradi? 
+A) Entropiya maksimal nuqta 
+B) Dispersiya minimal nuqta 
+.C) Hosila hisoblash imkon 
+D) Prior tenglik sharti 
+72. 
+SVM da slack variable nimani bildiradi? 
+A) Entropiya farq qiymat 
+.B) Chegara buzilish miqdor 
+C) Dispersiya farq qiymat 
+D) Prior ehtimol farq 
+73. 
+L2 regularizatsiya nimani kamaytiradi? 
+A) Bias komponent qiymat 
+B) Prior komponent qiymat 
+.C) Og‘irlik kattalik qiymat 
+D) Entropiya komponent qiymat 
+74. 
+Decision boundary siljishi nimaga bog‘liq? 
+A) Belgilar son ortish 
+B) Entropiya ortish 
+C) Dispersiya kamayish 
+.D) Threshold qiymat o‘zgarish 
+75. 
+Klassifikatsiyada FPR nimani bildiradi? 
+.A) Noto‘g‘ri ijobiy ulush 
+B) To‘g‘ri ijobiy ulush 
+C) Noto‘g‘ri salbiy ulush 
+D) To‘g‘ri salbiy ulush 
+76. 
+Likelihood nisbat testi nimani solishtiradi? 
+A) Dispersiya nisbat qiymat 
+.B) Ikki model ehtimollik 
+C) Entropiya nisbat qiymat 
+D) Prior ehtimol nisbat 
+77. 
+Gradient nolga teng va Hessian musbat aniqlangan bo‘lsa nima? 
+A) Maksimal nuqta 
+B) Egri chiziq nuqta 
+.C) Lokal minimum nuqta 
+D) Saddel nuqta 
+78. 
+Neyron tarmoqda activation funksiyasi maqsadi nima? 
+A) Belgilar son oshirish 
+B) Entropiya maksimal qilish 
+C) Dispersiya kamaytirish 
+.D) Nochiziqlik kiritish 
+79. 
+Bayes risk integral nimani o‘z ichiga oladi? 
+.A) Yo‘qotish va ehtimollik 
+B) Dispersiya va prior 
+C) Entropiya va dispersiya 
+D) Belgilar va sinf 
+80. 
+Model umumlashuv xatosi nimaga bog‘liq? 
+A) Faqat empirik risk 
+B) Faqat prior ehtimol 
+C) Faqat dispersiya qiymat 
+.D) Bias va varians 
+81. 
+MLE baholashning asosiy maqsadi nima? 
+.A) Parametr ehtimol maksimal 
+B) Dispersiya qiymat maksimal 
+C) Entropiya qiymat minimal 
+D) Prior ehtimol nol 
+82. 
+MAP baholash MLE dan nimasi bilan farq qiladi? 
+A) Entropiya hisobga oladi 
+.B) Prior ehtimol hisobga oladi 
+C) Dispersiya nolga teng 
+D) Risk funksiyasi yo‘q 
+83. 
+Gauss modellarda LDA qachon optimal bo‘ladi? 
+A) Prior nol bo‘lsa 
+B) Kovariatsiya farqli bo‘lsa 
+.C) Kovariatsiya teng bo‘lsa 
+D) Entropiya teng bo‘lsa 
+84. 
+QDA qaror chegarasi qanday ko‘rinishda bo‘ladi? 
+A) Chiziqli tekislik tenglama 
+B) Logarifmik sirt tenglama 
+C) Eksponensial sirt tenglama 
+.D) Kvadratik sirt tenglama 
+85. 
+Kovariatsiya matritsa singulyar bo‘lsa nima muammo? 
+.A) Teskari matritsa yo‘q 
+B) Posterior doim bir 
+C) Risk doim nol 
+D) Entropiya doim nol 
+86. 
+k-NN da masofa metrikasi nimani belgilaydi? 
+A) Prior ehtimol qiymat 
+.B) Qo‘shnichilik tanlash qoidasi 
+C) Entropiya qiymat 
+D) Risk funksiyasi 
+87. 
+Minkowski masofa p=1 bo‘lsa nimaga teng? 
+A) Chebyshev masofa 
+B) Evklid masofa 
+.C) Manhattan masofa 
+D) Mahalanobis masofa 
+88. 
+Chebyshev masofa qaysi operatorga mos? 
+A) Yig‘indi operator 
+B) Kvadrat operator 
+C) Eksponens operator 
+.D) Maksimum operator 
+89. 
+Qaror daraxtida Gini indeksi nimani o‘lchaydi? 
+.A) Sinf aralashuv daraja 
+B) Dispersiya aralash daraja 
+C) Prior aralash daraja 
+D) Entropiya maksimal daraja 
+90. 
+Entropiya mezoni nimani maksimal qiladi? 
+A) Sinf ajralish daraja 
+.B) Axborot noaniqlik daraja 
+C) Dispersiya kamayish daraja 
+D) Risk nolga teng 
+91. 
+Backpropagationda lokal gradient nimani beradi? 
+A) Prior ehtimol qiymat 
+B) Entropiya qiymat 
+.C) Og‘irlik hosila qiymat 
+D) Dispersiya qiymat 
+92. 
+Vanishing gradient muammosi ko‘proq qaysida uchraydi? 
+A) ReLU aktivatsiya 
+.B) Sigmoid aktivatsiya 
+C) Lineer aktivatsiya 
+D) Softmax aktivatsiya 
+93. 
+Batch gradient tushish nimadan foydalanadi? 
+A) Bitta namunadan foydalanadi 
+B) Tasodifiy namunadan foydalanadi 
+.C) Butun tanlanmadan foydalanadi 
+D) Faqat nazoratdan foydalanadi 
+94. 
+SGD algoritmi nimani bildiradi? 
+A) Sinflar gradienti usuli 
+.B) Stoxastik gradient usuli 
+C) Statik gradient usuli 
+D) Simmetrik gradient usuli 
+95. 
+Dropout usuli nimaga xizmat qiladi? 
+.A) Overfitting kamaytirish usuli 
+B) Bias oshirish usuli 
+C) Dispersiya oshirish usuli 
+D) Prior tenglashtirish usuli 
+96. 
+Early stopping nimani anglatadi? 
+A) O‘qitishni tezlashtirish 
+.B) Validatsiyada to‘xtatish 
+C) Entropiyani oshirish 
+D) Riskni oshirish 
+97. 
+Precision ko‘rsatkichi nimani bildiradi? 
+A) To‘g‘ri salbiy ulush 
+B) To‘g‘ri ijobiy ulush 
+.C) Ijobiyda to‘g‘rilik ulush 
+D) Umumiy xato ulush 
+98. 
+Recall ko‘rsatkichi nimani bildiradi? 
+A) Noto‘g‘ri ijobiy ulush 
+.B) Haqiqiy ijobiy qamrov 
+C) Haqiqiy salbiy qamrov 
+D) Umumiy to‘g‘rilik 
+99. 
+F1-score nimaga asoslanadi? 
+.A) Precision va recall o‘rtacha 
+B) Entropiya va risk o‘rtacha 
+C) Dispersiya va prior o‘rtacha 
+D) Bias va varians o‘rtacha 
+100. 
+k-NN da k juda katta bo‘lsa nima yuz beradi? 
+A) Varians ortadi 
+B) Risk nol bo‘ladi 
+C) Overfitting kuchayadi 
+.D) Underfitting kuchayadi 
+101. 
+SVM primal masalada nimani minimallashtiradi? 
+.A) Margin teskari kvadrat 
+B) Entropiya qiymat minimal 
+C) Prior ehtimol minimal 
+D) Dispersiya nisbat minimal 
+102. 
+Dual masalada kernel nimani almashtiradi? 
+A) Dispersiya matritsa 
+.B) Ichki ko‘paytma amal 
+C) Prior ehtimol amal 
+D) Risk funksiyasi amal 
+103. 
+Mercer sharti nimani ta’minlaydi? 
+A) Dispersiya musbat qiymat 
+B) Prior ehtimol tenglik 
+.C) Kernel musbat yarim aniqlik 
+D) Entropiya maksimal qiymat 
+104. 
+Bayes risk nol bo‘lishi qachon mumkin? 
+A) Entropiya maksimal bo‘lsa 
+B) Prior teng bo‘lsa 
+C) Dispersiya nol bo‘lsa 
+.D) Sinflar to‘liq ajraluvchi 
+105. 
+Model sig‘imi ortsa nima ortadi? 
+.A) Varians komponent ortadi 
+B) Bias komponent ortadi 
+C) Prior komponent ortadi 
+D) Entropiya komponent ortadi 
+106. 
+Generativ model nimani o‘rganadi? 
+A) Qaror chegarasi tenglama 
+.B) Birgalik ehtimollik taqsimot 
+C) Risk funksiyasi tenglama 
+D) Entropiya minimallashtirish 
+107. 
+Diskriminativ model nimani o‘rganadi? 
+A) Birgalik ehtimollik taqsimot 
+B) Prior ehtimol qiymat 
+.C) To‘g‘ridan shartli ehtimollik 
+D) Dispersiya nisbat qiymat 
+108. 
+Klassifikatsiya chegarasi siljishi nimaga bog‘liq? 
+A) Entropiya qiymat o‘zgarish 
+B) Dispersiya qiymat o‘zgarish 
+C) Belgilar son o‘zgarish 
+.D) Qaror threshold o‘zgarish 
+109. 
+Cross-validation nimani baholaydi? 
+.A) Model umumlashuv sifati 
+B) Dispersiya maksimal qiymat 
+C) Prior ehtimol tenglik 
+D) Entropiya minimal qiymat 
+110. 
+Leave-one-out usuli nimani anglatadi? 
+A) Bitta sinfni ajratish 
+.B) Bitta namunani ajratish 
+C) Bitta parametr ajratish 
+D) Bitta belgini ajratish 
+111. 
+Qaror funksiyasi nolga teng nuqta nimani bildiradi? 
+A) Risk maksimal nuqta 
+B) Entropiya minimal nuqta 
+.C) Chegara nuqta holat 
+D) Prior nol nuqta 
+112. 
+Feature scaling nima uchun kerak? 
+A) Entropiya oshirish uchun 
+.B) Masofa hisoblash barqarorlik 
+C) Prior tenglashtirish uchun 
+D) Risk oshirish uchun 
+113. 
+Bias ortishi nimaga olib keladi? 
+A) Varians ortish 
+B) Risk minimal 
+.C) Underfitting kuchayish 
+D) Overfitting kuchayish 
+114. 
+Varians ortishi nimaga olib keladi? 
+A) Underfitting kuchayish 
+B) Risk minimal 
+C) Bias minimal 
+.D) Overfitting kuchayish 
+115. 
+Likelihood maksimal bo‘lsa nimani bildiradi? 
+.A) Parametr ma’lumotga mos 
+B) Dispersiya maksimal qiymat 
+C) Entropiya minimal qiymat 
+D) Prior nol qiymat 
+116. 
+ROC egri ideal modelda qanday bo‘ladi? 
+A) Diagonal chiziq shakl 
+.B) Yuqori chap burchak 
+C) Pastki o‘ng burchak 
+D) Gorizontal chiziq 
+117. 
+Confusion matrix asosiy vazifasi nima? 
+A) Entropiya baholash 
+B) Dispersiya hisoblash 
+.C) Tasnif natija taqsimot 
+D) Prior ehtimol hisoblash 
+118. 
+Mahalanobis masofa qanday farq qiladi? 
+A) Faqat o‘rtacha hisobga 
+B) Faqat dispersiya hisobga 
+C) Faqat prior hisobga 
+.D) Kovariatsiya hisobga oladi 
+119. 
+Backpropagationda learning rate juda kichik bo‘lsa nima yuz beradi? 
+.A) Juda sekin konvergensiya 
+B) Divergensiya holat 
+C) Risk nol bo‘lish 
+D) Entropiya maksimal 
+120. 
+Model arxitekturasi nimani belgilaydi? 
+A) Prior ehtimol qiymat 
+B) Entropiya minimal qiymat 
+C) Dispersiya maksimal qiymat 
+.D) Parametrlar tuzilish shakl 

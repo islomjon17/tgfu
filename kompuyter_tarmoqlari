@@ -1,0 +1,578 @@
+1. Kompyuter tarmoqlarining rivojlanishi qaysi loyihadan boshlangan?
+A) ARPANET ## 
+B) INTERNET
+C) ETHERNET
+D) WWW
+2. Internet ommaviy rivojlanishi qaysi yillarga to‘g‘ri keladi?
+A) 1970-yillar
+B) 1990-yillar##
+C) 2000-yillar
+D) 1992-yillar
+3. WWW texnologiyasi kim tomonidan taklif etilgan?
+A) Vinton Cerf
+B) Tim Berners-Lee##
+C) Bill Gates
+D) Linus Torvalds
+4. Dastlabki tarmoqlar qaysi turda bo‘lgan?
+A) Paketli##
+B) Kanalli
+C) Mobil
+D) Optik
+5. TCP/IP protokollar to‘plami qachon standart bo‘lgan?
+A) 1975-yilda ##
+B) 1983-yilda
+C) 1995-yilda
+D) 2005-yilda
+6. Dastlabki tarmoqlarda uzatish tezligi qanday edi?
+A) Juda past  ##
+B) Juda yuqori
+C) Cheksiz
+D) Optik darajada
+7. Internetning ajralmas qismi nima?
+A) OSI modeli
+B) TCP/IP ##
+C) BIOS
+D) GUI
+8. Ethernet texnologiyasi qaysi tarmoqlarda keng qo‘llaniladi?
+A) WAN
+B) MAN
+C) LAN ##
+D) PAN
+9. Token Ring texnologiyasining asosiy xususiyati?
+A) Paketli uzatish
+B) Belgili uzatish ##
+C) Simsiz aloqa
+D) Optik aloqa
+10. Fast Ethernet tezligi qancha? ##
+A) 10 Mbit/s
+B) 100 Mbit/s ##
+C) 10 Gbit/s
+D) 100 Gbit/s
+11. Gigabit Ethernet tezligi nechaga teng?
+A) 100 Mbit/s
+B) 1 Gbit/s ##
+C) 10 Gbit/s
+D) 40 Gbit/s
+12. IEEE 802.3 nimani bildiradi?
+A) Wi-Fi
+B) Ethernet ##
+C) Bluetooth
+D) ZigBee
+13. IEEE 802.11 standarti nimaga tegishli?
+A) Mobil aloqa
+B) Simsiz LAN ##
+C) Optik aloqa
+D) Kabel TV
+14. Standartlashning asosiy maqsadi?
+A) Qurilma narxini oshirish
+B) Moslashuvni ta’minlash ##
+C) Xavfsizlikni kamaytirish
+D) Tezlikni cheklash
+15. OSI etalon modeli nechta pog‘onadan iborat?
+A) 5 ta
+B) 6 ta
+C) 7 ta ##
+D) 8 ta
+16. OSI modelining eng quyi pog‘onasi qaysi?
+A) Kanal
+B) Tarmoq
+C) Fizik ##
+D) Transport
+17. OSI modelining eng yuqori pog‘onasi qaysi?
+A) Seans
+B) Taqdimot
+C) Transport
+D) Ilova ##
+18. Fizik pog‘ona nimani ta’minlaydi?
+A) Paketlarni marshrutlash
+B) Bitlarni uzatish ##
+C) Shifrlash
+D) Seans boshqaruvi
+19. Kanal pog‘onasi vazifasi nima?
+A) IP manzillarni uzatish
+B) Kadrlarni uzatish ##
+C) Ilova xizmatlari
+D) Fayllarni siqish
+20. Tarmoq pog‘onasining asosiy vazifasi qaysi?
+A) Kodlash
+B) Marshrutlash ##C) Signal uzatish
+D) Fayl almashish
+21. Qaysi protokol transport pog‘onasiga tegishli?
+A) IP
+B) TCP ##
+C) ARP
+D) ICMP
+22. Lokal tarmoq (LAN) nimani qamrab oladi?
+A) Qit’a
+B) Shahar
+C) Bino ##
+D) Davlat
+23. MAN tarmog‘i qaysi hududni qamrab oladi?
+A) Uy
+B) Binolarni
+C) Shaharni ##
+D) Qit’alarni
+24. Global tarmoqqa misol qaysi?
+A) Ethernet
+B) Intranet
+C) Internet ##
+D) Bluetooth
+25. LAN tarmoqlarda eng ko‘p ishlatiladigan texnologiya qaysi?
+A) Frame Relay
+B) Ethernet ##
+C) MPLS
+D) ATM
+26. LAN tarmog‘ida asosan qaysi qurilma ishlatiladi?
+A) Modem
+B) Router
+C) Switch ##
+D) Sun’iy yo‘ldosh
+27. MAN (Metropolitan Area Network) tarmoqlari odatda qaysi hududni qamrab oladi?
+A) Bir xonani
+B) Bir binoni
+C) Shaharni ##
+D) Bir davlatni
+28. WAN tarmoqlarida asosiy marshrutlash qurilmasi qaysi?
+A) Switch
+B) Hub
+C) Router ##
+D) Bridge
+29. LAN tarmoqlarda ma’lumotlar uzatish tezligi odatda qanday bo‘ladi?
+A) Juda past
+B) Past
+C) Yuqori ##
+D) Juda sekin
+30. Yulduz (Star) topologiyasining asosiy xususiyati qaysi?
+A) Barcha qurilmalar bitta kabelga ulanadi
+B) Markaziy qurilma orqali bog‘lanadi ##
+C) Halqa shaklida ulanadi
+D) To‘liq bog‘langan bo‘ladi
+31. Connectionless aloqa protokoliga qaysi misol bo‘ladi?
+A) TCP
+B) FTP
+C) UDP ##
+D) HTTP
+32. UDP protokolining afzalligi nimada?
+A) Juda ishonchli
+B) Tez va soddaroq ##
+C) Murakkab boshqaruv
+D) Xatoni tuzatadi
+33. IPv4 manzil uzunligi nechta bitdan iborat?
+A) 16 bit
+B) 32 bit ##
+D) 64 bit
+C) 128 bit
+34. IPv6 manzil uzunligi nechta bitdan iborat?
+A) 32 bit
+B) 64 bit
+C) 96 bit
+D) 128 bit ##
+35. IPv6 protokolining asosiy ustunligi qaysi?
+A) Kichik manzil maydoni
+B) Katta manzil maydoni ##
+C) Sekin uzatish
+D) Yopiq tizim
+36. IP protokoli OSI modelining qaysi pog‘onasiga tegishli?
+A) Kanal
+B) Transport
+C) Tarmoq ##
+D) Ilova
+37. IPv6 manzillari qanday yoziladi?
+A) Nuqtali o‘nlik
+B) O‘nlik
+C) O‘n oltilik ##
+D) Ikkilik
+38. IPv6 da NAT nima sababdan kerak emas?
+A) Xavfsizlik juda past
+B) Manzillar yetarli ##
+C) Tezlik juda past
+D) Protokollar yopiq
+39. Ping buyrug‘i qaysi protokolga asoslanadi?
+A) TCP
+B) UDP
+C) ICMP ##
+D) SNMP
+40. SNMP protokoli nima uchun ishlatiladi?
+A) Internet tezligini oshirish
+B) Tarmoqni boshqarish ##
+C) Paketlarni shifrlash
+D) Fayl uzatish
+41. SNMP qaysi modelda ishlaydi?
+A) Peer-to-peer
+B) Client-server ##
+C) Master-slave
+D) Token-ring
+42. DNS server nima qiladi?
+A) IP ni MAC ga aylantirib uzatadi
+B) Domenni IP ga aylantiradi ##
+D) Paketlarni uzatadi
+C) Marshrutlab uzatadi
+43. GSM qaysi avlodga tegishli?
+A) 1G
+B) 2G ##
+C) 3G
+D) 4G
+44. 3G texnologiyasining asosiy imkoniyati?
+A) Faqat ovozni uzatish
+B) Ma’lumot uzatish ##
+C) Faks jo‘natish
+D) Analog aloqa
+45. LTE qaysi texnologiyaga tegishli?
+A) 2G
+B) 3G
+C) 4G ##
+D) 5G
+46. 5G qaysi sohalarda keng qo‘llaniladi?
+A) IoT
+B) Avtonom transport
+C) Aqlli shaharlar
+D) Barchasida ##
+47. Mobil internet tezligiga nima ta’sir qiladi?
+A) Batareya
+B) Signal sifati ##
+C) Telefon rangi
+D) Operatsion tizim
+48. GPON qaysi texnologiyaga kiradi?
+A) xDSL
+B) PON ##
+C) 4G
+D) Ethernet
+49. Kabelli internet qaysi kabeldan foydalanadi?
+A) Optik
+B) Mis juft
+C) Koaksial ##
+D) Radio
+50. FTTH nimani anglatadi?
+A) Fiber to the Home ##
+B) Fast Transfer Hub
+C) Fixed Telephone Hub
+D) Fiber Token Host
+51. Abonent tarmoqlarida asosiy muammo qaysi?
+A) Tezlik cheklanishi ##
+B) Rang sifati
+C) Monitor o‘lchami
+D) Operatsion tizim
+52. Abonent qurilmasiga misol qaysi?
+A) Router
+B) ONU/ONT ##
+C) Core switch
+D) Server
+53. Peer-to-peer tarmoqlarning xususiyati?
+A) Markaziy server mavjud
+B) Teng huquqli tugunlar ##
+C) Faqat LAN
+D) Juda qimmat
+54. Klient-server arxitekturasining ustunligi?
+A) Oson boshqaruv ##
+B) Juda arzon
+C) Server yo‘q
+D) Past xavfsizlik
+55. DNS qaysi arxitekturaga asoslanadi?
+A) P2P
+B) Client-server ##
+C) Token ring
+D) Bus
+56. ICMP qaysi darajada ishlaydi?
+A) Transport
+B) Tarmoq ##C) Ilova
+D) Fizik
+57. Geterogen tarmoqlar nimani anglatadi?
+A) Bir xil texnologiyalar
+B) Turli texnologiyalar ##
+C) Faqat LAN
+D) Faqat WAN
+58. Simsiz sensor tarmoqlari (WSN) asosan nimadan tashkil topadi?
+A) Server va routerlardan
+B) Sensor tugunlardan ##
+C) Switch va hubdan
+D) Faqat modemlardan
+59. ZigBee texnologiyasi asosan qayerda qo‘llaniladi?
+A) WAN tarmoqlarida
+B) Mobil aloqa tarmoqlarida
+C) Simsiz sensor tarmoqlarida ##
+D) Optik tolali tarmoqlarda
+60. VoIP texnologiyasi nimaga asoslanadi?
+A) Analog signalga
+B) IP protokoliga ##
+C) Token Ring ga
+D) ATM ga
+61. SDN (Software Defined Networking) ning asosiy g‘oyasi nima?
+A) Tarmoqni apparatga bog‘lash
+B) Boshqaruvni dasturiy ajratish ##
+C) Faqat simsiz aloqa
+D) Analog tarmoq
+62. ARPANET loyihasi qaysi davlatda yaratilgan?
+A) Buyuk Britaniya
+B) AQSH ##
+C) Yaponiya
+D) Germaniya
+63. Kompyuter tarmoqlarining asosiy vazifasi nimadan iborat?
+A) O‘yinlarni ishga tushirish
+B) Ma’lumot almashish ##
+C) Faqat xat yuborish
+D) Kompyuterni tezlashtirish
+64. Ethernet texnologiyasi nima uchun ishlatiladi?
+A) Simsiz aloqa
+B) Lokal tarmoq ##
+C) Global tarmoq
+D) Mobil aloqa
+65. Bluetooth texnologiyasining afzalligi:
+A) Keng hudud
+B) Kam quvvat sarfi ##
+C) Juda yuqori tezlik
+D) Internet ulanishi
+66. Tarmoqning asosiy elementi qaysi?
+A) Printer
+B) Server ##
+C) Skener
+D) Proyektor
+67. Tarmoq adapteri kompyuterda nima uchun kerak?
+A) Elektr tokini uzatish
+B) Tarmoqka ulanish ##
+C) Monitorni bog‘lash
+D) Klaviaturani ulash
+68. Optik tolali kabelning asosiy afzalligi:
+A) Juda arzon
+B) Yuqori tezlik ##
+C) Oson buziladi
+D) Qisqa masofa
+69. LAN nima?
+A) Global tarmoq
+B) Mahalliy tarmoq ##
+C) Mobil tarmoq
+D) Televideniye tarmog‘i
+70. Kompyuter tarmoqlarida xavfsizlikni ta’minlovchi vosita:
+A) Antivirus
+B) Firewall ##
+C) Klaviatura
+D) Qo‘l telefon
+71. Arxitektura pog‘onalarida protokollar nima uchun kerak?
+A) Qurilma o‘lchamini belgilash
+B) Aloqa qoidalarini ta’minlash ##
+C) Kompyuter xotirasini orttirish
+D) IP raqamini o‘zgartirish
+72. Pog‘onali arxitektura afzalligi:
+A) Murakkablikni oshiradi
+B) Xatoliklarni aniqlash osonlashadi ##
+C) Internet topologiyasini o‘zgartiradi
+D) Qurilmalar qimmatlashadi
+73. Arxitekturaning eng ko‘p ishlatiladigan modeli:
+A) Apple modeli
+B) TCP/IP ##
+C) Redmi modeli
+D) Parallel model
+74. Star topologiyasining markaziy elementi:
+A) Printer
+B) Switch ##
+C) Kabel ulagichi
+D) Faqat server
+75. OSI modeli nechta pog‘onadan iborat?
+A) 4 pog‘ona
+B) 6 pog‘ona
+C) 7  pog‘ona ##
+D) 8 pog‘ona
+76. Network pog‘onasida ishlatiladigan asosiy protokol:
+A) HTTP
+B) FTP
+C) IP ##
+D) SMTP
+77. OSI modeli nima uchun yaratilgan?
+A) Kompyuter yig‘ish uchun
+B) Standartlashtirish uchun ##
+C) Telefon qo‘ng‘iroqlari
+D) O‘yin yaratish
+78. MAN tarmoqlarida eng ko‘p qo‘llaniladigan texnologiya:
+A) WiMAX ##
+B) Bluetooth
+C) DSL
+D) GSM
+79. WiMAX texnologiyasining maksimal masofasi:
+A) 10 metr
+B) 10 km
+C) 50 km ##
+D) 1 metr
+80. WAN tarmog‘i nimani anglatadi?
+A) Uydagi tarmoq
+B) Keng hududli tarmoq ##
+C) Bitta xonadagi tarmoq
+D) Qurilma ichidagi tarmoq
+81. WAN tarmoqlarida ishlatiladigan simli texnologiya:
+A) ADSL ##
+B) Wi-Fi
+C) Ethernet
+D) NFC
+82. WAN tarmoqlarida keng qo‘llaniladigan simsiz texnologiya:
+A) 5G ##
+B) Bluetooth
+C) Infrared
+D) ZigBee
+83. Global tarmoqlarda marshrutlashni kim amalga oshiradi?
+A) Switch
+B) Router ##
+C) Hub
+D) Access Point
+84. WAN liniyalari odatda qaysi kabeldan quriladi?
+A) Koaksial
+B) Fiber-optik ##
+C) Telefon simi
+D) USB kabel
+85. IPv4 paketining maksimal uzunligi:
+A) 1500 bayt
+B) 32 KB
+C) 64 KB ##
+D) 1 MB
+86. IPv6 paketining asosiy xususiyati:
+A) Paket uzunligi o‘zgarmaydi
+B) Qo‘shimcha sarlavha mavjud ##
+C) DNS talab etilmaydi
+D) MAC manzillar yaratiladi
+87. Kelajakda qaysi protokol ustun bo‘lishi kutilmoqda?
+A) IPv4
+B) IPv6 ##
+C) ARP
+D) DHCP
+88. 3G texnologiyasining to‘liq nomi:
+A) Third Global
+B) Third Generation ##
+C) Three Gigabyte
+D) Third Gateway
+89. 3G tarmoqlarining asosiy texnologiyasi:
+A) WiMAX
+B) WCDMA ##
+C) OFDMA
+D) GSM
+90. UMTS qaysi avlod mobil texnologiyasi?
+A) 2G
+B) 3G ##
+C) 4G
+D) 5G
+91. WCDMA nimaning asosiy texnologiyasi?
+A) GSM
+B) 3G ##
+C) LTE
+D) Wi-Fi
+92. 3G tarmoqlarining o‘rtacha tezligi:
+A) 100 Kbps
+B) 2 Mbps ##
+C) 50 Mbps
+D) 1 Gbps
+93. 3G tarmoqlari qaysi texnologiyaga asoslanadi?
+A) WiMAX
+B) WCDMA ##
+C) OFDMA
+D) CDMA1
+94. LTE nimani anglatadi?
+A) Light Transmission Energy
+B) Long Term Evolution ##
+C) Line Transfer Exchange
+D) Local Transfer Energy
+95. 4G texnologiyasi o‘rtacha tezligi:
+A) 1000 Mbps
+B) 100 Gbps
+C) 100 Mbps ##
+D) 100 Kbps
+96. WiMAX texnologiyasi qaysi avlodga mansub?
+A) 3G
+B) 4G ##
+C) 2G
+D) 1G
+97. LTE texnologiyasida qo‘llaniladigan modulyatsiya turi:
+A) AM
+B) QAM ##
+C) FM
+D) ASK
+98. 4G tarmoqlarining afzalligi:
+A) Past kechikish ##
+B) Sekin internet
+C) Ovozli aloqa yo‘q
+D) Signal sifati past
+99. 4G texnologiyasi nimani rivojlantirdi?
+A) To‘g‘ridan-to‘g‘ri ovozli aloqa
+B) Tezkor ma’lumot uzatish ##
+C) Koaksial kabel
+D) Faks
+100. PON texnologiyasida splitterning vazifasi:
+A) Signalni kuchaytiradi
+B) Optik signalni ajratadi ##
+C) Signalni bloklaydi
+D) Radio to‘lqin yaratadi
+101. 5G texnologiyasining asosiy ustunligi:
+A) Tarmoqning sekinligi
+B) Juda past kechikish ##
+C) Tor diapazon
+D) Analog aloqa
+102. Klient-server tizimining afzalligi:
+A) Nazorat markazlashgan ##
+B) Barcha qurilmalar teng
+C) Server talab qilmaydi
+D) Dastur o‘rnatilmaydi
+102. P2P tizimining afzalligi:
+A) Qimmat
+B) Resurslar bo‘linadi ##
+C) Serverga yuk tushmaydi
+D) Juda sekin
+103. P2P ilovalari misoli:
+A) WhatsApp
+B) Torrent ##
+C) YouTube
+D) Gmail
+104. P2P tarmoqlarining kamchiligi:
+A) Nazorat yo‘qligi ##
+B) Juda qimmat
+C) Server talab qiladi
+D) Faqat lokal ishlaydi
+105. P2P tarmog‘i qaysi xizmatga ko‘proq mos?
+A) Fayl almashish ##
+B) Bank axboroti
+C) Maxfiy ma’lumotlar
+D) Kassa tizimi
+106. Bulutli texnologiyaga misol:
+A) Gmail ##
+B) BIOS
+C) Flash karta
+D) Kommutator
+107. Lokal tarmoqlarning asosiy belgilovchi xususiyati qaysi?
+A) Keng geografik hududni qamrab olishi
+B) Yuqori tezlikda ma’lumot almashish ##
+C) Sun’iy yo‘ldosh orqali ishlashi
+D) Xalqaro trafikni boshqarishi
+108. LANda Wi-Fi routerning vazifasi?
+A) Kompyuterlarni sun’iy yo‘ldoshga ulash
+B) Lokal resurslarga kirishni cheklash
+C) Simli va simsiz qurilmalarni bog‘lash ##
+D) Arxivlash
+109. LANning afzalligi?
+A) Ishlash radiusi keng
+B) Narxi arzon ##
+C) Optik yo‘ldoshga ulanadi
+D) Kilometrlar bo‘ylab ishlaydi
+110. Global tarmoqlarning asosiy namunasi?
+A) LAN
+B) Internet ##
+C) Bluetooth
+D) Token Ring
+111. Global tarmoqlarda qaysi muhim markazlar bo‘ladi?
+A) Bosmaxonalar
+B) Data markazlar ##
+C) Maktab sinflari
+D) Televizorlar
+112. Global tarmoqlarning asosiy muammosi?
+A) Juda kichik hudud
+B) Xavfsizlik va barqarorlik ##
+C) Protsessorlar soni
+D) Elektr ta’minoti haddan ziyod
+113. LAN qurilishi qanday?
+A) Oson va arzon ##
+B) Juda murakkab
+C) Okean osti kabeli talab qiladi
+D) Sun’iy yo‘ldosh kerak
+114. AI yordamida tarmoq qanday bo‘ladi?
+A) Avtomatik boshqariladi ##
+B) Qattiq cheklovli
+C) Faqat qo‘lda boshqariladi
+D) O‘chiriladi
+115. Abonent kirish tarmoqlarining maqsadi:
+A) Telefonni sozlash
+B) Internetga ulash ##
+C) SIM o‘chirish
+D) Ekranni almashtirish

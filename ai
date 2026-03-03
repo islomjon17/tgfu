@@ -1,0 +1,1201 @@
+Umumiy savollar soni: 120
+Ekspert tizimda forward chaining qaysi yo‘nalishda ishlaydi?
+ 
+.Faktdan xulosaga 
+ 
+Maqsaddan faktga
+ 
+Modeldan natijaga
+ 
+Natijadan modelga
+--------------------------------------------------------------------
+Ekspert tizimda backward chaining qaysi yo‘nalishda ishlaydi?
+ 
+Faktdan xulosaga
+ 
+.Maqsaddan faktga 
+ 
+Modeldan natijaga
+ 
+Natijadan modelga
+--------------------------------------------------------------------
+Prologda unifikatsiya jarayoni nimani tekshiradi?
+ 
+Qoidalar ketma-ketligi
+ 
+Maqsadlar ustuvorligi
+ 
+.O‘zgaruvchi mosligi 
+ 
+Natija barqarorligi
+--------------------------------------------------------------------
+Prologda backtracking mexanizmi nimani bajaradi?
+ 
+Qoidani yangilaydi
+ 
+Faktni saqlaydi
+ 
+Xotirani tozalaydi
+ 
+.Yechimni qayta izlaydi 
+--------------------------------------------------------------------
+Knowledge bottleneck muammosi ko‘proq nimani cheklaydi?
+ 
+.Bilimni formalizatsiya 
+ 
+Grafikni vizuallashtirish
+ 
+Diskni optimallashtirish
+ 
+Rangni sozlashtirish
+--------------------------------------------------------------------
+CLIPS kabi qoidali tizimda conflict resolution nimani belgilaydi?
+ 
+Faktlar tartibini belgilaydi
+ 
+.Qoidalar ustuvorligini 
+ 
+Model aniqligini belgilaydi
+ 
+Natija tezligini belgilaydi
+--------------------------------------------------------------------
+Formal tilda Tip-3 (Chomsky) sinfi qaysi turga mos?
+ 
+Kontekstsiz tillar
+ 
+Kontekstga sezgir
+ 
+.Muntazam tillar 
+ 
+Cheksiz tillar
+--------------------------------------------------------------------
+Formal tilda Tip-2 (Chomsky) sinfi qaysi turga mos?
+ 
+Muntazam tillar
+ 
+Kontekstga sezgir
+ 
+.Cheksiz tillar
+ 
+Kontekstsiz tillar 
+--------------------------------------------------------------------
+Stekli avtomat odatda qaysi sinf tillarni taniydi?
+ 
+.Kontekstsiz tillar 
+ 
+Muntazam tillar
+ 
+Kontekstga sezgir
+ 
+Cheksiz tillar
+--------------------------------------------------------------------
+Chekli avtomat odatda qaysi sinf tillarni taniydi?
+ 
+Kontekstsiz tillar
+ 
+.Muntazam tillar 
+ 
+Kontekstga sezgir
+ 
+Cheksiz tillar
+--------------------------------------------------------------------
+Bilim grafiklari relyatsion modelga nisbatan qachon ustun bo‘ladi?
+ 
+Oddiy bog‘lanishda
+ 
+Past o‘lchamda
+ 
+.Ko‘p bog‘lanishda 
+ 
+Yassi jadvalda
+--------------------------------------------------------------------
+Relyatsion model bilim grafiklariga nisbatan qachon qulayroq bo‘ladi?
+ 
+Ko‘p bog‘lanishda
+ 
+Katta grafda
+ 
+Murakkab tarmoqda
+ 
+.Oddiy jadvalda 
+--------------------------------------------------------------------
+Neuro-simvolik yondashuvning asosiy maqsadi qaysi?
+ 
+.Izohli xulosa berish 
+ 
+Diskni tezlashtirish
+ 
+Rangni boshqarish
+ 
+Grafikni chizish
+--------------------------------------------------------------------
+Transformer arxitekturasida attention nimani yaxshilaydi?
+ 
+Disk yozish tezligini
+ 
+.Kontekst bog‘lanishini 
+ 
+Rang moslashishini
+ 
+Grafik yangilanishni
+--------------------------------------------------------------------
+LLM (ChatGPT) kabi modellarda javob tanlash ko‘proq nimaga tayangan?
+ 
+Qoidalar bazasiga
+ 
+Chiziqli tenglamaga
+ 
+.Ehtimollik taqsimotiga 
+ 
+Disk indeksiga
+--------------------------------------------------------------------
+RPA tizimlari qaysi vazifalarda eng samarali ishlaydi?
+ 
+Kreativ vazifalarda
+ 
+Noaniq vazifalarda
+ 
+Tasodifiy vazifalarda
+ 
+.Qoidali vazifalarda 
+--------------------------------------------------------------------
+Ekspert tizimda “bilimlar bazasi” odatda nimani saqlaydi?
+ 
+.Fakt va qoidani 
+ 
+Rang va shriftni
+ 
+Disk va blokni
+ 
+Grafik va audio
+--------------------------------------------------------------------
+Ekspert tizimda “inference engine” odatda nimani bajaradi?
+ 
+Rangni sozlaydi
+ 
+.Xulosa chiqaradi 
+ 
+Diskni formatlaydi
+ 
+Grafikni chizadi
+--------------------------------------------------------------------
+Kontekstsiz grammatikani matematik ifodalashda G=(V,T,P,S) da T nimani anglatadi?
+ 
+O‘zgaruvchi belgilar
+ 
+Qoidalar to‘plami
+ 
+.Terminal belgilar 
+ 
+Boshlang‘ich belgi
+--------------------------------------------------------------------
+Kontekstsiz grammatikani matematik ifodalashda G=(V,T,P,S) da S nimani anglatadi?
+ 
+Terminal belgilar
+ 
+O‘zgaruvchi belgilar
+ 
+Qoidalar to‘plami
+ 
+.Boshlang‘ich belgi 
+--------------------------------------------------------------------
+Prologda rekursiya to‘xtashi nimaga bog‘liq?
+ 
+Faktlar soniga
+ 
+.Bazaviy holatga 
+ 
+Grafik tezligiga
+ 
+Disk hajmiga
+--------------------------------------------------------------------
+Rezolutsiya usuli qaysi sohada qo‘llanadi?
+ 
+.Mantiqiy isbotda 
+ 
+Rang tahlilida
+ 
+Disk siqishda
+ 
+Grafik bezashda
+--------------------------------------------------------------------
+Tip-1 tillar qaysi model bilan taniladi?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+.Chiziqli avtomat 
+ 
+Regex modeli
+--------------------------------------------------------------------
+Tip-0 tillar qaysi model bilan bog‘liq?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Chiziqli avtomat
+ 
+.Turing mashinasi 
+--------------------------------------------------------------------
+Bilimlarni ifodalashda “fakt” nimani bildiradi?
+ 
+.Shartsiz tasdiqni bildiradi 
+ 
+Shartli bog‘lanishni bildiradi
+ 
+Grafik ko‘rinishni bildiradi
+ 
+Disk obyektni bildiradi
+--------------------------------------------------------------------
+Ekspert tizimda qoida qanday yoziladi?
+ 
+Grafik shaklda
+ 
+.IF-THEN shaklda 
+ 
+Rang jadvalda
+ 
+Disk blokda
+--------------------------------------------------------------------
+Knowledge representation nimani anglatadi?
+ 
+Rangni boshqarishni
+ 
+Diskni saqlashni
+ 
+Grafikni bezashni
+ 
+.Bilimni modelga o‘tkazishni 
+--------------------------------------------------------------------
+Forward chaining qachon samarali?
+ 
+Maqsad aniq bo‘lsa
+ 
+.Faktlar ko‘p bo‘lsa 
+ 
+Disk tez bo‘lsa
+ 
+Rang mos bo‘lsa
+--------------------------------------------------------------------
+Backward chaining qachon qulay?
+ 
+.Maqsad aniq bo‘lsa 
+ 
+Faktlar ko‘p bo‘lsa
+ 
+Grafik yuklama oshsa
+ 
+Disk hajmi katta bo‘lsa
+--------------------------------------------------------------------
+Inference strategiyasi nimaga ta’sir qiladi?
+ 
+Rang sifatiga
+ 
+Disk tezligiga
+ 
+.Xulosa tezligiga 
+ 
+Grafik o‘lchamiga
+--------------------------------------------------------------------
+Chomsky tasnifida muntazam tillar qaysi sinf?
+ 
+.Tip-3 sinf 
+ 
+Tip-2 sinf
+ 
+Tip-1 sinf
+ 
+Tip-0 sinf
+--------------------------------------------------------------------
+Kontekstsiz grammatika qaysi struktura bilan ishlaydi?
+ 
+Yassi struktura
+ 
+.Ierarxik struktura 
+ 
+Rangli struktura
+ 
+Diskli struktura
+--------------------------------------------------------------------
+Stekli avtomat nimadan foydalanadi?
+ 
+Navbatdan
+ 
+.Stekdan 
+ 
+Diskdan
+ 
+Rangdan
+--------------------------------------------------------------------
+Relyatsion model qaysi tuzilma uchun qulay?
+ 
+Ko‘p bog‘lanish
+ 
+Murakkab graf
+ 
+.Oddiy jadval 
+ 
+Tarmoqli model
+--------------------------------------------------------------------
+Neuro-simvolik model nimani birlashtiradi?
+ 
+Grafik va audio
+ 
+Disk va rang
+ 
+.Neyron va mantiq 
+ 
+Jadval va blok
+--------------------------------------------------------------------
+Transformer modelida kontekst qanday saqlanadi?
+ 
+.Attention orqali 
+ 
+Disk orqali
+ 
+Grafik orqali
+ 
+Rang orqali
+--------------------------------------------------------------------
+LLM modeli javobni qanday tanlaydi?
+ 
+Qoidaga ko‘ra
+ 
+.Ehtimollikka ko‘ra 
+ 
+Rangga ko‘ra
+ 
+Diskka ko‘ra
+--------------------------------------------------------------------
+RPA nimani avtomatlashtiradi?
+ 
+Kreativ jarayon
+ 
+Tasodifiy qaror
+ 
+Noaniq baho
+ 
+.Qoidali jarayon 
+--------------------------------------------------------------------
+Bilim grafiklari qaysi holatda samarali?
+ 
+.Ko‘p aloqa mavjud bo‘lsa 
+ 
+Yassi jadval bo‘lsa
+ 
+Rangli interfeys bo‘lsa
+ 
+Disk tez bo‘lsa
+--------------------------------------------------------------------
+Knowledge bottleneck nimani bildiradi?
+ 
+Grafik cheklov
+ 
+Disk cheklov
+ 
+Rang cheklov
+ 
+.Bilim yig‘ish qiyinligi 
+--------------------------------------------------------------------
+Ekspert tizimda faktlar bazasi nimani saqlaydi?
+ 
+.Joriy fakt ma’lumotini 
+ 
+Grafik interfeys sozlamasini
+ 
+Disk blok parametrini
+ 
+Rang kontrast qiymatini
+--------------------------------------------------------------------
+Backward chaining qaysi yo‘nalishda ishlaydi?
+ 
+Faktdan natijaga
+ 
+.Maqsaddan faktga 
+ 
+Rangdan modelga
+ 
+Diskdan grafikga
+--------------------------------------------------------------------
+Prologda unifikatsiya jarayoni nimani tekshiradi?
+ 
+Qoidalar tartibini
+ 
+Natija ustuvorligini
+ 
+.O‘zgaruvchi mosligini 
+ 
+Grafik tezligini
+--------------------------------------------------------------------
+Tip-0 tillar qaysi model bilan taniladi?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Chiziqli avtomat
+ 
+.Turing mashinasi 
+--------------------------------------------------------------------
+CLIPS tizimida conflict resolution nimani belgilaydi?
+ 
+.Qoidalar ustuvorligini 
+ 
+Grafik tezligini
+ 
+Disk hajmini
+ 
+Rang mosligini
+--------------------------------------------------------------------
+Knowledge bottleneck nimani cheklaydi?
+ 
+Grafik jarayonini
+ 
+.Bilim yig‘ish jarayonini 
+ 
+Disk tezligini
+ 
+Rang sozlashni
+--------------------------------------------------------------------
+Tip-2 tillar qaysi modelga mos?
+ 
+Chekli avtomat
+ 
+Regex modeli
+ 
+.Stekli avtomat 
+ 
+Disk modeli
+--------------------------------------------------------------------
+Transformer modelida attention nimani yaxshilaydi?
+ 
+Disk yozishni
+ 
+Rang kontrastini
+ 
+Grafik interfeysni
+ 
+.Kontekst bog‘lanishini 
+--------------------------------------------------------------------
+Bilim grafiklari qaysi vaziyatda samarali?
+ 
+.Ko‘p bog‘lanishda 
+ 
+Yassi jadvalda
+ 
+Rangli interfeysda
+ 
+Disk modelda
+--------------------------------------------------------------------
+RPA qaysi vazifada samarali ishlaydi?
+ 
+Kreativ vazifada
+ 
+.Qoidali vazifada 
+ 
+Tasodifiy vazifada
+ 
+Noaniq vazifada
+--------------------------------------------------------------------
+Formal grammatika G=(V,T,P,S) da P nimani bildiradi?
+ 
+Terminal belgini
+ 
+Boshlang‘ich belgini
+ 
+.Qoidalar to‘plamini 
+ 
+O‘zgaruvchi belgini
+--------------------------------------------------------------------
+Tip-1 tillar qaysi model bilan bog‘liq?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Regex modeli
+ 
+.Chiziqli avtomat 
+--------------------------------------------------------------------
+Neuro-simvolik model nimani birlashtiradi?
+ 
+.Neyron va mantiqni 
+ 
+Grafik va rangni
+ 
+Disk va blokni
+ 
+Jadval va interfeysni
+--------------------------------------------------------------------
+Inference engine nimani bajaradi?
+ 
+Rang sozlashni
+ 
+.Xulosa chiqarishni 
+ 
+Disk formatlashni
+ 
+Grafik chizishni
+--------------------------------------------------------------------
+Kontekstsiz grammatika qaysi struktura bilan ishlaydi?
+ 
+Yassi struktura
+ 
+Rangli struktura
+ 
+.Ierarxik struktura 
+ 
+Diskli struktura
+--------------------------------------------------------------------
+Stekli avtomat nimadan foydalanadi?
+ 
+Navbatdan
+ 
+Diskdan
+ 
+Rangdan
+ 
+.Stekdan 
+--------------------------------------------------------------------
+Ekspert tizimda qoida qanday yoziladi?
+ 
+.IF-THEN shaklda 
+ 
+Grafik shaklda
+ 
+Rang jadvalda
+ 
+Disk blokda
+--------------------------------------------------------------------
+LLM modeli javobni qanday tanlaydi?
+ 
+Qoidaga ko‘ra
+ 
+.Ehtimollikka ko‘ra 
+ 
+Rangga ko‘ra
+ 
+Diskka ko‘ra
+--------------------------------------------------------------------
+Forward chaining qachon samarali?
+ 
+Maqsad aniq bo‘lsa
+ 
+Disk tez bo‘lsa
+ 
+.Faktlar ko‘p bo‘lsa 
+ 
+Rang mos bo‘lsa
+--------------------------------------------------------------------
+Knowledge representation nimani anglatadi?
+ 
+Rangni boshqarishni
+ 
+Diskni saqlashni
+ 
+Grafikni bezashni
+ 
+.Bilimni modelga o‘tkazishni 
+--------------------------------------------------------------------
+Ekspert tizimda bilimlar bazasi nimani o‘z ichiga oladi?
+ 
+.Fakt va qoidalarni 
+ 
+Rang va shriftni
+ 
+Disk va blokni
+ 
+Grafik va audio
+--------------------------------------------------------------------
+Backward chaining qachon samaraliroq ishlaydi?
+ 
+Faktlar ko‘p bo‘lsa
+ 
+.Maqsad aniq bo‘lsa 
+ 
+Grafik yuklama oshsa
+ 
+Disk hajmi katta bo‘lsa
+--------------------------------------------------------------------
+Prologda fact nimani bildiradi?
+ 
+Shartli bog‘lanishni
+ 
+Grafik elementni
+ 
+.Shartsiz tasdiqni 
+ 
+Disk obyektni
+--------------------------------------------------------------------
+Tip-3 tillar qaysi model bilan taniladi?
+ 
+Stekli avtomat
+ 
+Turing mashinasi
+ 
+Chiziqli avtomat
+ 
+.Chekli avtomat 
+--------------------------------------------------------------------
+Bilimlarni formalizatsiya qilish nimani anglatadi?
+ 
+.Bilimni modelga o‘tkazishni anglatadi 
+ 
+Rangni standartlashni anglatadi
+ 
+Diskni formatlashni anglatadi
+ 
+Grafikni bezashni anglatadi
+--------------------------------------------------------------------
+Neuro-simvolik model qaysi ustunlikni beradi?
+ 
+Grafik tezlik ustunligini
+ 
+.Izohlanadigan natija ustunligini 
+ 
+Disk hajm ustunligini
+ 
+Rang sifat ustunligini
+--------------------------------------------------------------------
+Stekli avtomat qaysi strukturani tahlil qiladi?
+ 
+Rangli struktura
+ 
+Diskli struktura
+ 
+.Qavsli struktura 
+ 
+Yassi struktura
+--------------------------------------------------------------------
+Transformer modelida attention nimani ta’minlaydi?
+ 
+Disk siqishni
+ 
+Rang sozlashni
+ 
+Grafik boshqarishni
+ 
+.Kontekst bog‘lanishini 
+--------------------------------------------------------------------
+CLIPS tizimida qoidalar faollashuvi nimaga bog‘liq?
+ 
+.Faktlar mavjudligiga 
+ 
+Grafik o‘lchamiga
+ 
+Disk tezligiga
+ 
+Rang tanloviga
+--------------------------------------------------------------------
+RPA qaysi vazifada samarali?
+ 
+Kreativ vazifada
+ 
+.Qoidali vazifada 
+ 
+Tasodifiy vazifada
+ 
+Noaniq vazifada
+--------------------------------------------------------------------
+Formal grammatika G=(V,T,P,S) da V nimani bildiradi?
+ 
+Terminal belgini
+ 
+Qoidalar to‘plamini
+ 
+.O‘zgaruvchi belgini 
+ 
+Boshlang‘ich belgini
+--------------------------------------------------------------------
+Tip-2 tillar qaysi model bilan bog‘liq?
+ 
+Chekli avtomat
+ 
+Regex modeli
+ 
+Turing mashinasi
+ 
+.Stekli avtomat 
+--------------------------------------------------------------------
+Inference engine nimani bajaradi?
+ 
+.Qoidalar asosida xulosa chiqarishni 
+ 
+Grafik bezashni
+ 
+Disk saqlashni
+ 
+Rang sozlashni
+--------------------------------------------------------------------
+Knowledge bottleneck nimani bildiradi?
+ 
+Grafik cheklovni
+ 
+.Bilim yig‘ish qiyinligini 
+ 
+Disk tezlik pasayishini
+ 
+Rang sifat kamayishini
+--------------------------------------------------------------------
+Bilim grafiklari qaysi holatda samarali?
+ 
+Yassi jadvalda
+ 
+Rangli interfeysda
+ 
+.Ko‘p bog‘lanishda 
+ 
+Disk modelda
+--------------------------------------------------------------------
+Tip-0 tillar qaysi modelga mos?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Chiziqli avtomat
+ 
+.Turing mashinasi 
+--------------------------------------------------------------------
+Ekspert tizimda qoida qaysi shaklda yoziladi?
+ 
+.IF-THEN shaklda 
+ 
+Grafik shaklda
+ 
+Rang jadvalda
+ 
+Disk blokda
+--------------------------------------------------------------------
+LLM modeli javobni qanday tanlaydi?
+ 
+Qoidaga ko‘ra
+ 
+.Ehtimollikka ko‘ra 
+ 
+Rangga ko‘ra
+ 
+Diskka ko‘ra
+--------------------------------------------------------------------
+Kontekstsiz grammatika qaysi strukturani tahlil qiladi?
+ 
+Yassi strukturani
+ 
+Rangli strukturani
+ 
+.Ierarxik strukturani 
+ 
+Diskli strukturani
+--------------------------------------------------------------------
+Knowledge representation nimani anglatadi?
+ 
+Rang boshqarishni
+ 
+Disk saqlashni
+ 
+Grafik bezashni
+ 
+.Bilimni modelga o‘tkazishni 
+--------------------------------------------------------------------
+Ekspert tizimda inference engine nimaga asoslanadi?
+ 
+.Qoidalar va faktlarga asoslanadi 
+ 
+Grafik interfeysga asoslanadi
+ 
+Disk bloklarga asoslanadi
+ 
+Rang parametrga asoslanadi
+--------------------------------------------------------------------
+Forward chaining qaysi yo‘nalishda ishlaydi?
+ 
+Maqsaddan faktga
+ 
+.Faktdan xulosaga 
+ 
+Rangdan modelga
+ 
+Diskdan grafikga
+--------------------------------------------------------------------
+Prologda qoida qanday tuziladi?
+ 
+Grafik ko‘rinishda
+ 
+Rang jadvalda
+ 
+.Shart va natija ko‘rinishda 
+ 
+Disk blok shaklda
+--------------------------------------------------------------------
+Tip-1 tillar qaysi modelga mos?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Regex modeli
+ 
+.Chiziqli avtomat 
+--------------------------------------------------------------------
+Bilim grafiklari qaysi tuzilmalarda ustun?
+ 
+.Ko‘p bog‘lanish tuzilmalarda 
+ 
+Yassi jadval tuzilmalarda
+ 
+Rangli interfeys tuzilmalarda
+ 
+Disk blok tuzilmalarda
+--------------------------------------------------------------------
+Neuro-simvolik model nimani ta’minlaydi?
+ 
+Grafik tezlikni
+ 
+.Izohlanadigan natijani 
+ 
+Disk hajmni
+ 
+Rang sifatni
+--------------------------------------------------------------------
+Stekli avtomat nimani nazorat qiladi?
+ 
+Rang parametrni
+ 
+Disk blokni
+ 
+.Oxirgi elementni 
+ 
+Grafik oynani
+--------------------------------------------------------------------
+Transformer modelida attention nimani yaxshilaydi?
+ 
+Disk yozishni
+ 
+Rang kontrastni
+ 
+Grafik bezashni
+ 
+.Kontekst bog‘lanishni 
+--------------------------------------------------------------------
+Knowledge bottleneck nimani anglatadi?
+ 
+.Bilim yig‘ish qiyinligini 
+ 
+Grafik yuklama oshishini
+ 
+Disk tezlik kamayishini
+ 
+Rang moslik pasayishini
+--------------------------------------------------------------------
+RPA tizimi qaysi vazifada samarali?
+ 
+Kreativ vazifada
+ 
+.Qoidali vazifada 
+ 
+Tasodifiy vazifada
+ 
+Noaniq vazifada
+--------------------------------------------------------------------
+Formal grammatika G=(V,T,P,S) da T nimani bildiradi?
+ 
+O‘zgaruvchi belgini
+ 
+Qoidalar to‘plamini
+ 
+.Terminal belgini 
+ 
+Boshlang‘ich belgini
+--------------------------------------------------------------------
+Tip-3 tillar qaysi model bilan taniladi?
+ 
+Stekli avtomat
+ 
+Turing mashinasi
+ 
+Chiziqli avtomat
+ 
+.Chekli avtomat 
+--------------------------------------------------------------------
+Ekspert tizimda “fakt” nimani bildiradi?
+ 
+.Shartsiz tasdiqni bildiradi 
+ 
+Shartli bog‘lanishni bildiradi
+ 
+Grafik elementni bildiradi
+ 
+Disk obyektni bildiradi
+--------------------------------------------------------------------
+Backward chaining qachon samarali?
+ 
+Faktlar ko‘p bo‘lsa
+ 
+.Maqsad aniq bo‘lsa 
+ 
+Disk tez bo‘lsa
+ 
+Rang mos bo‘lsa
+--------------------------------------------------------------------
+Kontekstsiz grammatika qaysi strukturani tahlil qiladi?
+ 
+Yassi strukturani
+ 
+Rangli strukturani
+ 
+.Ierarxik strukturani 
+ 
+Diskli strukturani
+--------------------------------------------------------------------
+Tip-0 tillar qaysi modelga tegishli?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Chiziqli avtomat
+ 
+.Turing mashinasi 
+--------------------------------------------------------------------
+Knowledge representation nimani anglatadi?
+ 
+.Bilimni modelga o‘tkazishni anglatadi 
+ 
+Rangni boshqarishni anglatadi
+ 
+Diskni saqlashni anglatadi
+ 
+Grafikni bezashni anglatadi
+--------------------------------------------------------------------
+LLM modeli javobni qanday tanlaydi?
+ 
+Qoidaga ko‘ra
+ 
+.Ehtimollikka ko‘ra 
+ 
+Rangga ko‘ra
+ 
+Diskka ko‘ra
+--------------------------------------------------------------------
+Inference strategiyasi nimaga ta’sir qiladi?
+ 
+Grafik sifatiga
+ 
+Disk tezligiga
+ 
+.Xulosa tezligiga 
+ 
+Rang kontrastiga
+--------------------------------------------------------------------
+CLIPS tizimida conflict resolution nimani belgilaydi?
+ 
+Grafik ustuvorligini
+ 
+Disk ustuvorligini
+ 
+Rang ustuvorligini
+ 
+.Qoidalar ustuvorligini 
+--------------------------------------------------------------------
+Ekspert tizimda noto‘g‘ri xulosa ko‘proq qachon yuz beradi?
+ 
+.Qoidalar noto‘liq bo‘lganda 
+ 
+Grafik o‘zgarganda
+ 
+Disk to‘lganda
+ 
+Rang pasayganda
+--------------------------------------------------------------------
+Forward chaining qaysi yo‘nalishda ishlaydi?
+ 
+Maqsaddan faktga
+ 
+.Faktdan xulosaga 
+ 
+Rangdan modelga
+ 
+Diskdan grafikga
+--------------------------------------------------------------------
+Prologda rezolutsiya nimani bajaradi?
+ 
+Grafikni yangilaydi
+ 
+Diskni saqlaydi
+ 
+.Mantiqiy xulosa chiqaradi 
+ 
+Rangni sozlaydi
+--------------------------------------------------------------------
+Tip-2 tillar qaysi modelga mos?
+ 
+Chekli avtomat
+ 
+Regex modeli
+ 
+Chiziqli avtomat
+ 
+.Stekli avtomat 
+--------------------------------------------------------------------
+Bilim grafiklari qaysi holatda ustun?
+ 
+.Ko‘p bog‘lanish holatda 
+ 
+Oddiy jadval holatda
+ 
+Rangli interfeys holatda
+ 
+Disk blok holatda
+--------------------------------------------------------------------
+Neuro-simvolik model qaysi natijani kuchaytiradi?
+ 
+Grafik tezlikni
+ 
+.Izohlanadigan natijani 
+ 
+Disk sig‘imni
+ 
+Rang sifatni
+--------------------------------------------------------------------
+Knowledge bottleneck muammosi nimani sekinlashtiradi?
+ 
+Grafik chizishni
+ 
+Disk yozishni
+ 
+.Bilim yig‘ishni 
+ 
+Rang tanlashni
+--------------------------------------------------------------------
+Transformer modelida attention nimani yaxshilaydi?
+ 
+Disk siqishni
+ 
+Rang sozlashni
+ 
+Grafik bezashni
+ 
+.Kontekst bog‘lanishni 
+--------------------------------------------------------------------
+RPA qaysi vazifada samarali ishlaydi?
+ 
+.Qoidali vazifada 
+ 
+Kreativ vazifada
+ 
+Noaniq vazifada
+ 
+Tasodifiy vazifada
+--------------------------------------------------------------------
+LLM modeli javobni qanday tanlaydi?
+ 
+Qoidaga ko‘ra
+ 
+.Ehtimollikka ko‘ra 
+ 
+Rangga ko‘ra
+ 
+Diskka ko‘ra
+--------------------------------------------------------------------
+Formal grammatika G=(V,T,P,S) da S nimani bildiradi?
+ 
+Qoidalar to‘plamini
+ 
+Terminal belgini
+ 
+.Boshlang‘ich belgini 
+ 
+O‘zgaruvchi belgini
+--------------------------------------------------------------------
+Tip-3 tillar qaysi model bilan taniladi?
+ 
+Stekli avtomat
+ 
+Turing mashinasi
+ 
+Chiziqli avtomat
+ 
+.Chekli avtomat 
+--------------------------------------------------------------------
+Inference engine nimani bajaradi?
+ 
+.Qoidalardan xulosa chiqaradi 
+ 
+Grafikni bezaydi
+ 
+Diskni saqlaydi
+ 
+Rangni sozlaydi
+--------------------------------------------------------------------
+Backward chaining qachon samarali?
+ 
+Faktlar ko‘p bo‘lsa
+ 
+.Maqsad aniq bo‘lsa 
+ 
+Disk tez bo‘lsa
+ 
+Rang mos bo‘lsa
+--------------------------------------------------------------------
+Kontekstsiz grammatika qaysi strukturani tahlil qiladi?
+ 
+Yassi strukturani
+ 
+Rangli strukturani
+ 
+.Ierarxik strukturani 
+ 
+Diskli strukturani
+--------------------------------------------------------------------
+Tip-0 tillar qaysi modelga mos?
+ 
+Chekli avtomat
+ 
+Stekli avtomat
+ 
+Chiziqli avtomat
+ 
+.Turing mashinasi 
+--------------------------------------------------------------------
+Knowledge representation nimani anglatadi?
+ 
+.Bilimni modelga o‘tkazishni 
+ 
+Rangni standartlashni
+ 
+Diskni formatlashni
+ 
+Grafikni bezashni
+--------------------------------------------------------------------
+CLIPS tizimida conflict resolution nimani belgilaydi?
+ 
+Grafik ustuvorligini
+ 
+.Qoidalar ustuvorligini 
+ 
+Disk ustuvorligini
+ 
+Rang ustuvorligini
+--------------------------------------------------------------------
+Ekspert tizimda “fakt” nimani bildiradi?
+ 
+Shartli bog‘lanishni
+ 
+Grafik elementni
+ 
+.Shartsiz tasdiqni 
+ 
+Disk obyektni
+--------------------------------------------------------------------
+Stekli avtomat nimadan foydalanadi?
+ 
+Navbatdan
+ 
+Diskdan
+ 
+Rangdan
+ 
+.Stekdan 
+

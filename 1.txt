@@ -1,0 +1,1463 @@
+
+================================================================================
+                    4-FAN: INTELLEKTUAL TIZIMLAR (120 TA TEST)
+================================================================================
+
+1. Intellektual tizimning an’anaviy algoritmik tizimdan asosiy farqi nimada?
+A) Ma’lumotlarni qat’iy ketma-ketlikda qayta ishlashi
+B) Hisoblash jarayonlarini parallel tashkil etishi
+[TO'G'RI] C) Bilimlar asosida xulosa chiqarish va moslashuvchan qaror qabul qilishi
+D) Dastur buyruqlarini protsessor arxitekturasiga mos ravishda optimallashtirishi
+
+2. Intellektual tizim arxitekturasida bilimlar bazasi qanday vazifani bajaradi?
+[TO'G'RI] A) Predmet sohasiga oid bilim va qoidalarni saqlaydi
+B) Foydalanuvchi so‘rovlarini grafik shaklda tasvirlaydi
+C) Xulosa chiqarish jarayonining bajarilish tartibini boshqaradi
+D) Qaror qabul qilish natijalarini tashqi qurilmalarga uzatadi
+
+3. Intellektual tizimni loyihalashda predmet sohasini tahlil qilishning asosiy maqsadi nima?
+A) Tizimning dasturiy interfeysini shakllantirish
+B) Ma’lumotlar bazasining fizik tuzilishini belgilash
+C) Hisoblash resurslaridan foydalanish samaradorligini baholash
+[TO'G'RI] D) Muammoning chegaralari, tushunchalari va bilim manbalarini aniqlash
+
+4. Bilimlarni ifodalashda semantik tarmoq modelining asosiy xususiyati qaysi?
+A) Bilimlarni shart va natija ko‘rinishidagi qoidalar orqali ifodalash
+[TO'G'RI] B) Tushunchalar va ular o‘rtasidagi munosabatlarni graf shaklida tasvirlash
+C) Bilimlarni qat’iy ustun va satrlardan iborat jadvallarda saqlash
+D) Muammolarni baholash uchun ehtimollik taqsimotlaridan foydalanish
+
+5. Produktsion qoidalarga asoslangan bilimlar modelida bilimlar qanday ifodalanadi?
+[TO'G'RI] A) Shart–amal qoidalari orqali
+B) Obyektlar va ularning iyerarxiyasi orqali
+C) Tushunchalar orasidagi mantiqiy bog‘lanish grafigi orqali
+D) Hodisalar ehtimolini tavsiflovchi shartli taqsimotlar orqali
+
+6. Freym modeli asosida bilimlarni ifodalashning muhim xususiyati nimada?
+A) Bilimlarni ehtimollik taqsimotlari sifatida saqlashi
+B) Xulosalarni faqat mantiqiy rezolyutsiya orqali chiqarishi
+[TO'G'RI] C) Obyekt xususiyatlarini slotlar orqali tavsiflashi
+D) Bilimlarni neyronlar orasidagi vaznli bog‘lanishlar ko‘rinishida ifodalashi
+
+7. Bilimlarni formal mantiq asosida ifodalashning asosiy afzalligi nimada?
+A) Barcha noaniq bilimlarni sonli funksiyalarga aylantirish
+B) Bilimlar bazasidagi obyektlarni vizual diagrammaga joylashtirish
+C) Ma’lumotlarni o‘qitish namunalariga avtomatik ajratish
+[TO'G'RI] D) Formal qoidalar asosida xulosalarning mantiqiy asoslanganligini tekshirish
+
+8. Bilimlar bazasini shakllantirishda knowledge acquisition jarayoni nimani anglatadi?
+A) Qoidalarni bajarish tartibini optimallashtirish
+[TO'G'RI] B) Ekspert va boshqa manbalardan bilimlarni olish
+C) Bilimlarni grafik interfeys orqali vizuallashtirish
+D) Xulosa chiqarish mexanizmining hisoblash murakkabligini kamaytirish
+
+9. Bilimlar bazasida konsistentlik talabi nimani bildiradi?
+A) Barcha qoidalarning bir xil ustuvorlikda bajarilishini
+B) Bilimlarning faqat bitta ekspert tomonidan kiritilishini
+[TO'G'RI] C) Bilimlar to‘plamida o‘zaro mantiqiy ziddiyatlar bo‘lmasligini
+D) Qoidalar sonining predmet sohasidagi obyektlar soniga teng bo‘lishini
+
+10. Ekspert tizimining xulosa chiqarish mexanizmi qanday vazifani bajaradi?
+[TO'G'RI] A) Bilimlar va faktlarga qoidalarni qo‘llaydi
+B) Ekspertlardan bilimlarni to‘plashni tashkil qiladi
+C) Foydalanuvchiga muloqot interfeysini taqdim etadi
+D) Predmet sohasiga oid ma’lumotlarni doimiy tashqi xotirada saqlaydi
+
+11. Forward Chaining mexanizmining asosiy xususiyati qaysi?
+A) Xulosadan boshlab uni tasdiqlovchi shartlarni qidiradi
+B) Maqsadga bog‘liq bo‘lmagan barcha qoidalarni o‘chiradi
+C) Qoidalarni oldindan belgilangan teskari tartibda bajaradi
+[TO'G'RI] D) Mavjud faktlardan boshlab yangi xulosalarni hosil qiladi
+
+12. Backward Chaining mexanizmida xulosa chiqarish qanday amalga oshiriladi?
+A) Barcha mavjud faktlar navbat bilan qayta ishlanadi
+[TO'G'RI] B) Maqsadni tasdiqlovchi shartlar tekshiriladi
+C) Qoidalar qo‘llanilish chastotasiga qarab saralanadi
+D) Bilimlar bazasidagi barcha xulosalar oldindan hisoblab chiqiladi
+
+13. Ekspert tizimida explanation facility komponentining vazifasi nima?
+[TO'G'RI] A) Qabul qilingan xulosaning asoslarini tushuntirish
+B) Bilimlar bazasidagi qoidalarni avtomatik yaratish
+C) Ekspert bilimlarini matematik funksiyalarga aylantirish
+D) Xulosa chiqarish algoritmining vaqt murakkabligini kamaytirish
+
+14. Ekspert tizimida conflict resolution mexanizmi qachon zarur bo‘ladi?
+A) Bilimlar bazasida yangi obyekt yaratilganda
+B) Foydalanuvchi noto‘g‘ri ma’lumot kiritganda
+[TO'G'RI] C) Bir vaqtning o‘zida bir nechta qoida qo‘llanishi mumkin bo‘lganda
+D) Ekspert tizimining dasturiy interfeysi qayta ishga tushirilganda
+
+15. Loyqa mantiqda a’zolik funksiyasi qanday vazifani bajaradi?
+A) Hodisaning yuz berish ehtimolini statistik jihatdan hisoblaydi
+[TO'G'RI] B) Elementning loyqa to‘plamga tegishlilik darajasini belgilaydi
+C) Tizimdagi barcha qarorlarni ikkilik qiymatlarga aylantiradi
+D) Qoidalar bazasida mantiqiy ziddiyat mavjudligini aniqlaydi
+
+16. Fuzzification jarayoni nimani anglatadi?
+A) Loyqa natijani aniq sonli qiymatga aylantirish
+B) Qoidalarni mantiqiy ketma-ketlikda faollashtirish
+C) Bilimlar bazasidagi tushunchalarni semantik tarmoqqa joylashtirish
+[TO'G'RI] D) Aniq kirish qiymatlarini loyqa a’zolik darajalariga o‘tkazish
+
+17. Defuzzification jarayonining asosiy vazifasi nima?
+A) Kirish ma’lumotlarini statistik normalashtirish
+B) Loyqa qoidalarning ustuvorligini aniqlash
+[TO'G'RI] C) Loyqa xulosa natijasini aniq qiymatga aylantirish
+D) Tizimning noaniq bilimlarini ehtimollik modeli orqali qayta ifodalash
+
+18. Sun’iy neyron modelida aktivatsiya funksiyasi nima uchun qo‘llaniladi?
+[TO'G'RI] A) Neyron chiqishiga nochiziqlilik kiritish uchun
+B) Tarmoqning barcha vaznlarini bir xil qiymatga keltirish uchun
+C) O‘qitish ma’lumotlarini tasodifiy guruhlarga taqsimlash uchun
+D) Kirish ma’lumotlarini saqlash uchun yangi xotira strukturasini yaratish uchun
+
+19. Neyron tarmoqlarni o‘qitishda backpropagation algoritmining asosiy vazifasi qaysi?
+A) O‘qitish namunalarining sinf chegaralarini belgilash
+[TO'G'RI] B) Yo‘qotish funksiyasi gradientlarini hisoblash
+C) Neyronlar sonini avtomatik ravishda kamaytirish
+D) Tarmoqning barcha yashirin qatlamlarini mustaqil ekspert tizimlariga aylantirish
+
+20. Mashinali o‘qitishda overfitting holati qanday vaziyatni ifodalaydi?
+A) Modelning o‘qitish ma’lumotlaridagi asosiy qonuniyatlarni o‘zlashtira olmasligi
+B) Modelning barcha namunalar uchun bir xil bashorat qiymatini qaytarishi
+C) Model parametrlarining o‘qitish jarayonida yangilanmay qolishi
+[TO'G'RI] D) Model o‘qitish to‘plamiga ortiqcha moslashib, yangi ma’lumotlarda yomon ishlashi
+
+21. Intellektual tizimni loyihalashda bilimlar injeneriyasining asosiy vazifasi qaysi?
+A) Ma’lumotlarni dasturiy interfeysga moslashtirish
+B) Tizimning apparat resurslarini optimallashtirish
+[TO'G'RI] C) Ekspert bilimlarini formal modelga aylantirish
+D) Bilimlar bazasidagi barcha qoidalarni avtomatik bajarish tartibini belgilash
+
+22. Intellektual tizimlarni ishlab chiqishda prototiplash usulining asosiy afzalligi nimada?
+[TO'G'RI] A) Modelni erta sinab, talablarni aniqlashtirish
+B) Bilimlar bazasini ekspert ishtirokisiz shakllantirish
+C) Tizimning hisoblash murakkabligini nazariy jihatdan yo‘qotish
+D) Loyihalash yakunlanmasdan barcha funksional talablarni qat’iy tasdiqlash
+
+23. Bilimlarni ifodalashda ontologiya modelining asosiy tarkibiy qismlari qaysilar?
+A) Kirish signallari va aktivatsiya funksiyalari
+B) Ehtimollik taqsimotlari va tasodifiy o‘zgaruvchilar
+C) O‘qitish namunalarining belgilari va maqsad qiymatlari
+[TO'G'RI] D) Sinflar, munosabatlar va aksiomalar
+
+24. Intellektual tizimlarda deduktiv xulosa chiqarish qanday tamoyilga asoslanadi?
+A) Kuzatilgan namunalar asosida umumiy qoida ishlab chiqishga
+[TO'G'RI] B) Umumiy qoidalardan mantiqiy natija keltirib chiqarishga
+C) Noaniq ma’lumotlardan eng ehtimolli gipotezani tanlashga
+D) O‘xshash obyektlar asosida yangi obyektning xususiyatini taxmin qilishga
+
+25. Induktiv xulosa chiqarishning deduktiv xulosadan asosiy farqi nimada?
+[TO'G'RI] A) Alohida kuzatuvlardan umumiy qonuniyatni shakllantiradi
+B) Umumiy aksiomalardan mantiqiy zarur natijalarni hosil qiladi
+C) Qoidalar bazasida mavjud faktlarning izchilligini tekshiradi
+D) Oldindan berilgan maqsadga erishish uchun zarur shartlarni qidiradi
+
+26. Ekspert tizimida working memory qanday vazifani bajaradi?
+A) Bilimlar bazasidagi doimiy qoidalarni saqlaydi
+[TO'G'RI] B) Xulosa chiqarishdagi joriy faktlarni saqlaydi
+C) Ekspertlarning barcha tarixiy qarorlarini arxivlaydi
+D) Predmet sohasiga oid tushunchalarning doimiy iyerarxiyasini shakllantiradi
+
+27. Ekspert tizimida knowledge base va inference engine nima bilan farqlanadi?
+A) Bilimlar bazasi natijalarni baholaydi, mexanizm esa faktlarni to‘playdi
+B) Bilimlar bazasi interfeysni boshqaradi, mexanizm esa qoidalarni saqlaydi
+[TO'G'RI] C) Bilimlar bazasi bilimlarni saqlaydi, mexanizm ulardan xulosa chiqaradi
+D) Bilimlar bazasi foydalanuvchi so‘rovlarini qabul qiladi, mexanizm esa natijalarni arxivlaydi
+
+28. Qoidalarga asoslangan ekspert tizimida agenda qanday vazifani bajaradi?
+A) Bilimlar bazasidagi barcha tushunchalarni iyerarxik tartiblaydi
+B) Ekspertlardan olingan bilimlarning ishonchliligini baholaydi
+C) Foydalanuvchi so‘rovlarini ustuvorlik bo‘yicha guruhlaydi
+[TO'G'RI] D) Faollashishga tayyor qoidalarni boshqaradi
+
+29. Mantiqiy xulosa chiqarishda modus ponens qoidasining mohiyati nimada?
+[TO'G'RI] A) P va P → Q dan Q xulosasini olish
+B) P va Q dan P → Q xulosasini chiqarish
+C) Q va P → Q dan P xulosasini olish
+D) P → Q va Q → P dan ularning sababiy bog‘liqligini aniqlash
+
+30. Bilimlar bazasida monotonic reasoning qanday xususiyatga ega?
+A) Yangi faktlar kiritilganda oldingi barcha xulosalar bekor qilinadi
+B) Xulosalar faqat ehtimollik chegarasi o‘zgarganda yangilanadi
+[TO'G'RI] C) Yangi bilim qo‘shilishi avvalgi mantiqiy xulosalarni bekor qilmaydi
+D) Bilimlar bazasidagi barcha qoidalar ustuvorligi doimiy ravishda kamayadi
+
+31. Non-monotonic reasoning mexanizmining asosiy xususiyati qaysi?
+A) Qoidalar bazasining o‘zgarmas bo‘lishini ta’minlash
+[TO'G'RI] B) Yangi ma’lumot sabab avvalgi xulosani qayta ko‘rib chiqish
+C) Barcha xulosalarni qat’iy deduktiv usulda chiqarish
+D) Bilimlar bazasidagi faktlar soniga qarab mantiqiy qoidalarni avtomatik saralash
+
+32. Ekspert tizimida certainty factor mexanizmi qanday maqsadda qo‘llaniladi?
+A) Qoidalarning bajarilish tezligini o‘lchash
+B) Bilimlar bazasining hajmini baholash
+C) Qoidalar orasidagi mantiqiy bog‘lanishlarni indekslash
+[TO'G'RI] D) Gipotezaga ishonch darajasini ifodalash
+
+33. Loyqa mantiqda lingvistik o‘zgaruvchi qanday xususiyatga ega?
+[TO'G'RI] A) Qiymatlari til bilan ifodalangan loyqa to‘plamlarga mos keladi
+B) Qiymatlari faqat ikkilik mantiqiy konstantalardan tashkil topadi
+C) Qiymatlari statistik tanlanmaning chastotasiga asoslanadi
+D) Qiymatlari qat’iy mantiqiy aksiomalardan bevosita hosil qilinadi
+
+34. Loyqa mantiqda α-cut tushunchasi nimani bildiradi?
+A) A’zolik funksiyasining maksimal qiymatini
+B) Loyqa to‘plamning umumiy ehtimollik chegarasini
+[TO'G'RI] C) A’zolik darajasi α dan kam bo‘lmagan elementlar to‘plamini
+D) Loyqa qoidalarning faollashish ketma-ketligini belgilovchi parametrni
+
+35. Mamdani tipidagi loyqa xulosa chiqarish tizimida qoida natijasi odatda qanday ifodalanadi?
+A) Parametrlar bo‘yicha chiziqli regressiya tenglamasi orqali
+[TO'G'RI] B) Chiqish o‘zgaruvchisining loyqa to‘plami orqali
+C) Ehtimollik zichligining diskret taqsimoti orqali
+D) Neyron tarmoqning chiqish qatlamidagi vaznlar yig‘indisi orqali
+
+36. Sugeno loyqa modelining Mamdani modelidan muhim farqi nimada?
+A) Kirish o‘zgaruvchilarida a’zolik funksiyalari ishlatilmasligida
+B) Barcha qoidalar faqat ikkilik mantiq asosida shakllantirilishida
+C) Qoidalar faollashishida mantiqiy operatorlar qo‘llanmasligida
+[TO'G'RI] D) Qoida natijasining konstanta yoki matematik funksiya bo‘lishida
+
+37. Sun’iy neyron tarmoqda gradient vanishing muammosi qanday holatni bildiradi?
+[TO'G'RI] A) Vaznlarni yangilashda gradientlarning juda kichrayib ketishini
+B) O‘qitish namunalarining belgilari o‘zaro kuchli korrelyatsiyalanishini
+C) Aktivatsiya funksiyasining chiqish qiymatlari normallashtirilishini
+D) Tarmoqning chiqish qatlamida xatolik funksiyasi doimiy ravishda ortishini
+
+38. Neyron tarmoqlarni o‘qitishda learning rate parametri nimani boshqaradi?
+A) Yashirin qatlamlarning umumiy sonini
+B) O‘qitish ma’lumotlarining sinflar bo‘yicha taqsimotini
+[TO'G'RI] C) Parametrlarni yangilash qadami kattaligini
+D) Tarmoqning kirish va chiqish o‘lchamlari o‘rtasidagi bog‘lanishni
+
+39. Neyron tarmoqlarda regularization usullarining asosiy maqsadi qaysi?
+A) O‘qitish to‘plamidagi xatolikni doimo nolga tushirish
+[TO'G'RI] B) Modelning umumlashtirish qobiliyatini yaxshilash
+C) Gradient hisoblash jarayonini barcha qatlamlarda bekor qilish
+D) Tarmoqdagi barcha parametrlarni bir xil boshlang‘ich qiymatga keltirish
+
+40. Mashinali o‘qitishda cross-validation usuli qanday maqsadda ishlatiladi?
+A) Modelning barcha parametrlarini avtomatik optimallashtirish
+B) O‘qitish namunalarini faqat bitta belgi bo‘yicha tartiblash
+C) Ma’lumotlar to‘plamidagi barcha nomuvofiq qiymatlarni olib tashlash
+[TO'G'RI] D) Modelning umumlashtirish sifatini turli bo‘linmalarda baholash
+
+41. Intellektual tizimlarni loyihalashda verifikatsiya jarayonining asosiy vazifasi nimadan iborat?
+A) Tizimning foydalanuvchi ehtiyojlariga mosligini baholash
+B) Bilimlar bazasini yangi ekspert ma’lumotlari bilan boyitish
+[TO'G'RI] C) Tizimning belgilangan spetsifikatsiyaga mosligini tekshirish
+D) Qaror qabul qilish sifatini haqiqiy ish muhitida uzoq muddat kuzatish
+
+42. Intellektual tizimlarni validatsiya qilishda asosiy e’tibor nimaga qaratiladi?
+[TO'G'RI] A) Tizimning real muammoni to‘g‘ri hal qilishiga
+B) Dasturiy modullarning kodlash standartlariga mosligiga
+C) Bilimlar bazasidagi qoidalar sintaksisining to‘g‘riligiga
+D) Xulosa chiqarish algoritmining barcha ichki bosqichlari spetsifikatsiyaga mosligiga
+
+43. Bilimlarni ifodalashda birinchi tartibli predikatlar mantiqi mulohazalar mantiqidan nimasi bilan farqlanadi?
+A) Mantiqiy bog‘lovchilarni qo‘llashni cheklashi bilan
+B) Xulosalarni ehtimollik qiymatlari orqali baholashi bilan
+C) Har bir mulohazani alohida mustaqil fakt sifatida saqlashi bilan
+[TO'G'RI] D) Obyektlar, munosabatlar va kvantorlarni ifodalay olishi bilan
+
+44. Bilimlar bazasida unifikatsiya algoritmi qanday maqsadda qo‘llaniladi?
+A) Mantiqiy qoidalarning bajarilish ustuvorligini aniqlash
+[TO'G'RI] B) Mantiqiy ifodalarni moslashtiruvchi o‘rin bosishlarni topish
+C) Bilimlar bazasidagi qarama-qarshi xulosalarni avtomatik o‘chirish
+D) Predmet sohasidagi barcha tushunchalarni iyerarxik sinflarga ajratish
+
+45. Ekspert tizimida rezolyutsiya usulining asosiy mantiqiy vazifasi qaysi?
+A) Ekspert bilimlarining ishonchlilik darajasini aniqlash
+B) Qoidalar bazasidagi faktlarni xronologik tartibda joylashtirish
+[TO'G'RI] C) Klauzalardan yangi xulosa hosil qilib, zidlikni aniqlash
+D) Mantiqiy ifodalarni ehtimollik taqsimotlariga avtomatik aylantirish
+
+46. Bilimlar bazasida subsumption munosabati qanday ma’noni anglatadi?
+[TO'G'RI] A) Bir tushunchaning boshqa tushunchaga nisbatan umumiyroq ekanligini
+B) Ikki obyektning barcha atribut qiymatlari aynan bir xil ekanligini
+C) Bir qoida ikkinchi qoidadan yuqori bajarilish ustuvorligiga egaligini
+D) Bilimlar bazasidagi faktlarning vaqt bo‘yicha ketma-ket bog‘langanligini
+
+47. Ontologiyaga asoslangan intellektual tizimda open-world assumption qanday talqin qilinadi?
+A) Bilimlar bazasidagi barcha mavjud faktlar to‘liq deb hisoblanadi
+B) Bilimlar bazasiga kiritilmagan har qanday fakt noto‘g‘ri hisoblanadi
+C) Noma’lum faktlar avtomatik ravishda inkor etilgan faktlarga aylantiriladi
+[TO'G'RI] D) Faktning mavjud emasligi uning yolg‘onligini anglatmaydi
+
+48. Closed-world assumption yondashuvi qaysi holatga asoslanadi?
+A) Har bir noma’lum fakt mustaqil gipoteza sifatida baholanadi
+[TO'G'RI] B) Ma’lum deb tasdiqlanmagan fakt odatda yolg‘on deb qabul qilinadi
+C) Qoidalar bazasidagi har bir fakt ehtimollik koeffitsiyenti bilan ifodalanadi
+D) Bilimlar faqat ekspert tomonidan tasdiqlangan mantiqiy aksiomalardan olinadi
+
+49. Intellektual qidiruv tizimlarida evristik funksiya qanday vazifani bajaradi?
+[TO'G'RI] A) Qidiruv tugunining maqsadga yaqinligini baholaydi
+B) Qidiruv daraxtidagi barcha tugunlarni xotirada saqlaydi
+C) Oldingi holatlarga qaytish imkoniyatini butunlay cheklaydi
+D) Har bir qidiruv bosqichida barcha mumkin bo‘lgan yechimlarni to‘liq tekshiradi
+
+50. A* qidiruv algoritmida f(n) = g(n) + h(n) ifodasining mohiyati nimada?
+A) Faqat tugunning maqsadgacha bo‘lgan taxminiy masofasini hisoblashda
+B) Tugun chuqurligini uning tarmoqlanish koeffitsiyentiga ko‘paytirishda
+[TO'G'RI] C) Bosib o‘tilgan yo‘l xarajati va qolgan xarajat bahosini birlashtirishda
+D) Har bir tugun uchun barcha qo‘shni holatlar ehtimolini hisoblashda
+
+51. A* algoritmida admissible heuristic qanday xususiyatga ega?
+A) Har bir holat uchun haqiqiy xarajatdan katta baho beradi
+[TO'G'RI] B) Maqsadgacha haqiqiy minimal xarajatni oshirib baholamaydi
+C) Barcha holatlar uchun bir xil musbat qiymat qaytaradi
+D) Qidiruv daraxtidagi tugunlarni faqat chuqurligiga ko‘ra tartiblaydi
+
+52. Intellektual tizimlarda abductive reasoning qanday xulosa chiqarish usulidir?
+A) Umumiy qoidadan mantiqiy zarur natijani olish
+B) Alohida kuzatuvlardan umumiy qonuniyatni shakllantirish
+C) Berilgan aksiomalardan barcha mumkin bo‘lgan teoremalarni chiqarish
+[TO'G'RI] D) Kuzatilgan natija uchun ehtimoliy izoh yoki sababni topish
+
+53. Bayes tarmog‘ida yo‘naltirilgan qirralar qanday vazifani bajaradi?
+[TO'G'RI] A) O‘zgaruvchilar orasidagi bevosita ehtimoliy bog‘liqliklarni ifodalaydi
+B) Tarmoqdagi barcha hodisalarni bir xil ehtimollik bilan baholaydi
+C) Tugunlar orasidagi faqat mantiqiy ekvivalentlik munosabatini belgilaydi
+D) O‘zgaruvchilarning qiymatlarini oldindan belgilangan ketma-ketlikda almashtiradi
+
+54. Bayes tarmog‘ida shartli mustaqillik tushunchasi nima uchun muhim?
+A) Barcha tasodifiy o‘zgaruvchilarning taqsimotini bir xil qiladi
+B) Har bir o‘zgaruvchini boshqalardan mutlaqo mustaqil deb belgilaydi
+[TO'G'RI] C) Qo‘shma ehtimollik taqsimotini ixcham ifodalash imkonini beradi
+D) Ehtimollik hisoblashda kuzatilgan dalillarni modeldan chiqarib tashlaydi
+
+55. Intellektual tizimlarda Dempster–Shafer nazariyasi qanday maqsadda qo‘llaniladi?
+A) Neyron tarmoqlarning gradientlarini hisoblash uchun
+[TO'G'RI] B) Dalillar va noaniqlik darajalarini ifodalash uchun
+C) Qidiruv algoritmlarida tugunlar chuqurligini cheklash uchun
+D) Mantiqiy qoidalarni faqat ikkilik qiymatlar asosida boshqarish uchun
+
+56. Loyqa boshqaruv tizimida qoida bazasining to‘liqligi nimani anglatadi?
+A) Har bir kirish o‘zgaruvchisi bir xil a’zolik funksiyasiga ega bo‘lishini
+B) Barcha qoidalar bir xil chiqish qiymatini shakllantirishini
+C) Tizimda faqat bitta kirish va bitta chiqish o‘zgaruvchisi mavjudligini
+[TO'G'RI] D) Ko‘zda tutilgan kirish holatlari uchun tegishli boshqaruv qoidalari mavjudligini
+
+57. Loyqa boshqaruv tizimida centroid defuzzification usuli nimaga asoslanadi?
+[TO'G'RI] A) Chiqish loyqa to‘plamining og‘irlik markazini aniqlashga
+B) Eng yuqori faollashgan qoidaning indeksini tanlashga
+C) Kirish o‘zgaruvchilarining o‘rtacha arifmetik qiymatini olishga
+D) Barcha a’zolik funksiyalarining maksimal nuqtalarini ketma-ket taqqoslashga
+
+58. Sun’iy neyron tarmoqlarda softmax aktivatsiya funksiyasi qanday vazifani bajaradi?
+A) Kirish signallarini manfiy qiymatlardan tozalaydi
+B) Har bir neyron chiqishini mustaqil ikkilik qiymatga aylantiradi
+[TO'G'RI] C) Chiqish qiymatlarini yig‘indisi birga teng taqsimotga aylantiradi
+D) Barcha yashirin qatlamlarda gradient qiymatlarini avtomatik tenglashtiradi
+
+59. Neyron tarmoqlarni o‘qitishda batch normalization mexanizmining asosiy vazifasi qaysi?
+A) O‘qitish namunalarining sinf yorliqlarini qayta belgilash
+[TO'G'RI] B) Qatlam aktivatsiyalarini normallashtirish
+C) Tarmoqdagi barcha vaznlarni qat’iy bir xil qiymatda saqlash
+D) Yo‘qotish funksiyasining gradientlarini hisoblashni butunlay bekor qilish
+
+60. Mashinali o‘qitishda bias–variance tradeoff tushunchasi nimani ifodalaydi?
+A) Modelning hisoblash tezligi va xotira talabi o‘rtasidagi bog‘liqlikni
+B) O‘qitish ma’lumotlari hajmi va sinflar soni o‘rtasidagi munosabatni
+C) Modelning aniqligi va o‘qitish vaqtining to‘g‘ri proporsionalligini
+[TO'G'RI] D) Modelning soddalikdan keladigan xatosi va o‘zgaruvchanligi o‘rtasidagi muvozanatni
+
+61. Intellektual tizimlarni loyihalashda bilimlar bazasining modullarga ajratilishi qanday afzallik beradi?
+A) Xulosa chiqarishning barcha bosqichlarini parallel bajaradi
+B) Bilimlar bazasini yagona mantiqiy qoida bilan cheklaydi
+[TO'G'RI] C) Bilimlarni yangilash va boshqarishni soddalashtiradi
+D) Qoidalar o‘rtasidagi bog‘lanishlarni faqat statistik baholash orqali aniqlaydi
+
+62. Ekspert tizimida knowledge elicitation jarayonining asosiy murakkabligi nimada?
+[TO'G'RI] A) Ekspertning yashirin amaliy bilimlarini aniqlash
+B) Ma’lumotlar bazasining fizik tuzilishini optimallashtirish
+C) Tizimning dasturiy interfeysini barcha qurilmalarga moslashtirish
+D) Xulosa chiqarish algoritmlarining hisoblash tezligini apparat darajasida oshirish
+
+63. Intellektual tizimlarda case-based reasoning qanday tamoyilga asoslanadi?
+A) Umumiy aksiomalardan zaruriy xulosalarni chiqarishga
+B) Bilimlarni qat’iy mantiqiy formulalarga aylantirishga
+C) Qoidalar bazasidagi barcha shartlarni ketma-ket tekshirishga
+[TO'G'RI] D) Oldingi o‘xshash holatlar yechimlaridan foydalanishga
+
+64. Case-based reasoning tizimida adaptation bosqichining vazifasi qaysi?
+A) Mavjud holatlarni o‘xshashlik bo‘yicha saralash
+[TO'G'RI] B) Topilgan yechimni yangi vaziyatga moslashtirish
+C) Bilimlar bazasidagi barcha tarixiy holatlarni qayta indekslash
+D) Muammoning yangi belgilarini avtomatik tarzda ma’lumotlar bazasidan chiqarish
+
+65. Intellektual tizimda truth maintenance system (TMS) qanday vazifani bajaradi?
+A) Bilimlar bazasidagi qoidalarni ehtimollik bo‘yicha saralaydi
+B) Xulosa chiqarish mexanizmining barcha qadamlarini tezlashtiradi
+[TO'G'RI] C) Xulosalarning asoslarini va bog‘liqliklarini kuzatadi
+D) Foydalanuvchi tomonidan kiritilgan yangi bilimlarni avtomatik tasdiqlaydi
+
+66. Intellektual tizimlarda production rule conflict set tushunchasi nimani bildiradi?
+[TO'G'RI] A) Shartlari joriy faktlarga mos kelgan qoidalar to‘plamini
+B) Bilimlar bazasidagi o‘zaro inkor qiluvchi aksiomalar ro‘yxatini
+C) Xulosa chiqarish natijasida rad etilgan barcha gipotezalarni
+D) Foydalanuvchi so‘rovi bilan mos kelmaydigan ma’lumotlar to‘plamini
+
+67. Rete algoritmining qoidalarga asoslangan tizimlardagi asosiy afzalligi nimada?
+A) Qoidalar bazasini mantiqiy formulalarsiz bajarishida
+B) Barcha qoidalarni har safar boshidan to‘liq tekshirishida
+C) Yangi faktlar kiritilganda avvalgi barcha natijalarni o‘chirishida
+[TO'G'RI] D) Qisman mosliklarni saqlab, takroriy tekshiruvlarni kamaytirishida
+
+68. Intellektual tizimlarda knowledge graph modelining asosiy xususiyati qaysi?
+A) Bilimlarni chiziqli tenglamalar tizimi shaklida ifodalashi
+[TO'G'RI] B) Obyektlar va ularning munosabatlarini bog‘langan grafda ifodalashi
+C) Barcha bilimlarni faqat qat’iy vaqt ketma-ketligi asosida saqlashi
+D) Har bir obyekt uchun mustaqil neyron tarmoq arxitekturasini shakllantirishi
+
+69. Intellektual tizimda ontology alignment jarayoni qanday maqsadda bajariladi?
+[TO'G'RI] A) Turli ontologiyalardagi mos tushunchalarni aniqlash
+B) Ontologiya sinflarini ma’lumotlar hajmiga ko‘ra saralash
+C) Mantiqiy qoidalarning bajarilish ustuvorligini oshirish
+D) Bilimlar bazasidagi barcha obyektlarni yagona sinfga birlashtirish
+
+70. Intellektual tizimlarda semantik interoperability qanday imkoniyatni anglatadi?
+A) Turli tizimlarning bir xil apparat platformasida ishlashini
+B) Tizimlar o‘rtasida ma’lumotlarni faqat bitta formatda uzatishni
+[TO'G'RI] C) Turli tizimlar almashilgan ma’lumotning ma’nosini mos tushunishini
+D) Intellektual algoritmlarning hisoblash vaqtini apparat resurslari asosida tenglashtirishni
+
+71. Noaniq bilimlarni ifodalashda ehtimollik va loyqa a’zolik darajasi o‘rtasidagi asosiy farq nimada?
+A) Ehtimollik faqat mantiqiy qoidalarga, a’zolik esa statistik tanlanmaga asoslanadi
+[TO'G'RI] B) Ehtimollik hodisa noaniqligini, a’zolik esa tushunchaga moslik darajasini ifodalaydi
+C) Ehtimollik faqat ekspert bahosini, a’zolik esa kuzatilgan chastotani bildiradi
+D) Ehtimollik qiymati faqat diskret, a’zolik darajasi esa doim uzluksiz bo‘ladi
+
+72. Loyqa mantiqda t-norm operatori odatda qaysi vazifani bajaradi?
+A) Loyqa natijani aniq qiymatga o‘tkazadi
+B) Bir nechta qoida natijasini og‘irlik bo‘yicha birlashtiradi
+C) Loyqa to‘plamning chegaraviy elementlarini tanlaydi
+[TO'G'RI] D) Loyqa AND amalini ifodalaydi
+
+73. Loyqa mantiqda t-conorm operatorining asosiy vazifasi nima?
+[TO'G'RI] A) Loyqa OR amalini ifodalash
+B) A’zolik funksiyasining shaklini normallashtirish
+C) Loyqa natijaning og‘irlik markazini hisoblash
+D) Kirish o‘zgaruvchilarini statistik ehtimollik qiymatlariga aylantirish
+
+74. Loyqa boshqaruv tizimida rule firing strength nimani bildiradi?
+A) Boshqaruv tizimining protsessor yuklamasini
+[TO'G'RI] B) Loyqa qoidaning faollashish darajasini
+C) Chiqish signalining maksimal fizik chegarasini
+D) Barcha a’zolik funksiyalarining o‘rtacha parametrik qiymatini
+
+75. Neyron tarmoqlarda Xavier initialization usulining asosiy maqsadi qaysi?
+A) Tarmoqdagi barcha vaznlarni nolga tenglashtirish
+B) O‘qitish namunalarini sinflar bo‘yicha qayta guruhlash
+[TO'G'RI] C) Qatlamlar bo‘ylab signal dispersiyasini muvozanatlashga yordam berish
+D) Tarmoqdagi barcha neyronlarning chiqish qiymatlarini bir xil saqlash
+
+76. Neyron tarmoqlarda dropout mexanizmi qanday maqsadda qo‘llaniladi?
+A) Har bir qatlamning o‘lchamini o‘qitish davomida doimiy oshirish
+B) Barcha vaznlarni yagona qiymatga keltirish
+C) Gradient hisoblashni chiqish qatlamida to‘xtatish
+[TO'G'RI] D) O‘qitishda ayrim neyron chiqishlarini tasodifiy o‘chirib, umumlashtirishni yaxshilash
+
+77. Neyron tarmoqlarda gradient clipping qanday muammoni kamaytirish uchun ishlatiladi?
+[TO'G'RI] A) Gradientlarning haddan tashqari kattalashishini
+B) O‘qitish ma’lumotlaridagi sinflar nomutanosibligini
+C) Tarmoqdagi kirish belgilarining o‘zaro korrelyatsiyasini
+D) Aktivatsiya funksiyalarining chiqish qiymatlari manfiy bo‘lishini
+
+78. Mashinali o‘qitishda data leakage hodisasi nimani anglatadi?
+A) O‘qitish jarayonida ayrim namunalar tasodifiy o‘chirilishini
+B) Model vaznlarining optimallashtirish davomida o‘zgarishini
+[TO'G'RI] C) Bashorat vaqtida mavjud bo‘lmaydigan axborotning o‘qitish yoki baholashga sizib kirishini
+D) Ma’lumotlar to‘plamidagi barcha belgilar oldindan normalashtirilishini
+
+79. Mashinali o‘qitishda class imbalance muammosi qanday holatni bildiradi?
+A) Model parametrlarining turli qatlamlarda teng taqsimlanmasligini
+[TO'G'RI] B) Sinflarga tegishli namunalar sonining sezilarli farqlanishini
+C) Ma’lumotlar belgilarining turli o‘lchov birliklarida ifodalanishini
+D) Modelning o‘qitish va test to‘plamlarida bir xil xatolik ko‘rsatishini
+
+80. Mashinali o‘qitishda concept drift hodisasi nimani anglatadi?
+A) Modelning o‘qitish davomida parametrlar sonini kamaytirishini
+B) Belgilarni tanlash algoritmining muhim bo‘lmagan atributlarni olib tashlashini
+C) Ma’lumotlarni normalashtirish natijasida qiymatlar oralig‘ining o‘zgarishini
+[TO'G'RI] D) Kirishlar va maqsad o‘rtasidagi bog‘lanishning vaqt davomida o‘zgarishini
+
+81. Intellektual agent arxitekturasida utility-based agent qanday tamoyil asosida qaror qabul qiladi?
+A) Oldindan belgilangan qoidalar ketma-ketligi bo‘yicha
+B) Joriy holatga mos keladigan birinchi amalni tanlash orqali
+[TO'G'RI] C) Kutilayotgan foydalilikni maksimal darajaga yetkazish orqali
+D) Maqsadga olib boruvchi barcha mumkin bo‘lgan harakatlarni to‘liq tekshirish orqali
+
+82. Model-based reflex agent oddiy reflex agentdan nimasi bilan farqlanadi?
+[TO'G'RI] A) Muhitning ichki holati haqidagi modeldan foydalanadi
+B) Qarorlarni faqat oldindan berilgan mukofotlar asosida tanlaydi
+C) Har bir harakat uchun ehtimollik taqsimotini qayta hisoblaydi
+D) Barcha mumkin bo‘lgan holatlar ketma-ketligini to‘liq qidiruv daraxtida saqlaydi
+
+83. Qisman kuzatiladigan muhitda intellektual agent nima uchun belief state dan foydalanadi?
+A) Harakatlarning hisoblash murakkabligini doimiy kamaytirish uchun
+B) Barcha kuzatuvlarni yagona qat’iy mantiqiy qiymatga aylantirish uchun
+C) Oldingi harakatlarning bajarilish vaqtini nazorat qilish uchun
+[TO'G'RI] D) Muhitning ehtimoliy holatlari haqidagi tasavvurni saqlash uchun
+
+84. Markov Decision Process (MDP) modelining asosiy tarkibiy qismlari qaysilar?
+A) Sinflar, atributlar, qoidalar va aksiomalar
+[TO'G'RI] B) Holatlar, harakatlar, o‘tish ehtimolliklari va mukofotlar
+C) Neyronlar, aktivatsiyalar, gradientlar va yo‘qotish funksiyalari
+D) Belgilar, o‘qitish namunalari, sinf yorliqlari va optimallashtirish mezonlari
+
+85. Bellman optimality equation intellektual qaror qabul qilishda qanday vazifani bajaradi?
+A) Muhitdagi barcha holatlarni ehtimollik bo‘yicha saralaydi
+B) Mukofot funksiyasining parametrlarini statistik baholaydi
+[TO'G'RI] C) Optimal qiymatni keyingi holatlar qiymatlari bilan bog‘laydi
+D) Harakatlarni bajarish uchun zarur hisoblash resurslarini avtomatik taqsimlaydi
+
+86. Reinforcement Learning yondashuvining supervised learningdan asosiy farqi nimada?
+[TO'G'RI] A) Agent harakatlari natijasidagi mukofot signali asosida o‘rganadi
+B) Model oldindan belgilangan sinf yorliqlari asosida parametrlarini yangilaydi
+C) O‘qitish jarayonida ma’lumotlarni klasterlarga mustaqil ajratadi
+D) Modelning barcha qarorlari ekspert tomonidan kiritilgan mantiqiy qoidalar asosida tekshiriladi
+
+87. Q-learning algoritmida Q(s,a) qiymati nimani baholaydi?
+A) Holatning ehtimollik taqsimotini
+[TO'G'RI] B) Berilgan holatdagi harakatning kutilayotgan diskontlangan mukofotini
+C) Muhit modelidagi kuzatilmagan o‘zgaruvchilar sonini
+D) Agentning barcha oldingi harakatlari uchun olingan mukofotlarning oddiy yig‘indisini
+
+88. Reinforcement Learningda exploration va exploitation o‘rtasidagi muvozanat nimani anglatadi?
+A) Agentning kirish signallarini oldindan normalashtirishini
+B) Mukofot funksiyasini holatlar soniga qarab qayta belgilashini
+C) Harakatlar ketma-ketligini faqat tasodifiy tanlashini
+[TO'G'RI] D) Yangi imkoniyatlarni sinash va ma’lum foydali harakatlardan foydalanishni muvozanatlashni
+
+89. Q-learning algoritmining off-policy xususiyati nimani anglatadi?
+A) Agentning muhit haqidagi modelni bilishini
+B) Harakatlarni tanlashda mukofot signali ishlatilmasligini
+[TO'G'RI] C) O‘rganilayotgan siyosat xatti-harakatlarni hosil qilgan siyosatdan farqlanishi mumkinligini
+D) Agentning holat qiymatlarini faqat yakuniy mukofot asosida hisoblashini
+
+90. Temporal Difference (TD) learning algoritmlarining asosiy xususiyati qaysi?
+[TO'G'RI] A) Baholarni keyingi holat haqidagi joriy bahodan foydalanib yangilaydi
+B) Qiymat funksiyasini faqat epizod yakunlangandan keyin hisoblaydi
+C) Barcha holatlar uchun o‘tish ehtimolliklarini oldindan talab qiladi
+D) Har bir harakat uchun muhitning barcha mumkin bo‘lgan natijalarini to‘liq modellashtiradi
+
+91. Intellektual tizimlarda minimax algoritmi qanday muammolar uchun mo‘ljallangan?
+A) Belgilanmagan ma’lumotlarni klasterlarga ajratish
+[TO'G'RI] B) Nol yig‘indili ikki tomonli o‘yinlarda qaror tanlash
+C) Neyron tarmoq parametrlarini gradient usulida optimallashtirish
+D) Ehtimollik graflarida yashirin o‘zgaruvchilar taqsimotini hisoblash
+
+92. Alpha-beta pruning algoritmining minimaxga nisbatan asosiy afzalligi nimada?
+A) Barcha o‘yin holatlari uchun foydalilikni qayta aniqlaydi
+B) Har bir harakatning bajarilish ehtimolini oldindan baholaydi
+C) O‘yin daraxtini qat’iy kenglik bo‘yicha qidirish tartibiga o‘tkazadi
+[TO'G'RI] D) Natijaga ta’sir qilmaydigan shoxlarni qidiruvdan chiqaradi
+
+93. Constraint Satisfaction Problem (CSP) modelida constraint qanday vazifani bajaradi?
+[TO'G'RI] A) O‘zgaruvchilar qiymatlarining ruxsat etilgan kombinatsiyalarini belgilaydi
+B) Qidiruv tugunlarining hisoblash vaqtini qayd etadi
+C) O‘zgaruvchilarni ehtimollik qiymatlariga ko‘ra saralaydi
+D) Har bir o‘zgaruvchi uchun gradient yo‘nalishini aniqlaydi
+
+94. CSP masalalarida Minimum Remaining Values (MRV) evristikasi qanday o‘zgaruvchini tanlaydi?
+A) Eng ko‘p qo‘shni o‘zgaruvchiga ega bo‘lganini
+B) Domenida eng katta qiymatlar to‘plami mavjud bo‘lganini
+[TO'G'RI] C) Eng kam ruxsat etilgan qiymati qolgan o‘zgaruvchini
+D) Cheklovlar grafigida eng uzoq masofada joylashgan o‘zgaruvchini
+
+95. CSP masalalarida arc consistency qanday shartni ifodalaydi?
+A) Har bir o‘zgaruvchi faqat bitta qiymatga ega bo‘lishini
+[TO'G'RI] B) Har bir domen qiymati qo‘shni domenda mos qiymat bilan qo‘llab-quvvatlanishini
+C) O‘zgaruvchilar orasidagi barcha cheklovlarning mantiqiy mustaqilligini
+D) Qidiruv davomida barcha domenlarning bir xil hajmda saqlanishini
+
+96. Intellektual tizimlarda Genetic Algorithmning crossover operatori qanday vazifani bajaradi?
+A) Populyatsiyadagi eng past moslikdagi individlarni o‘chiradi
+B) Har bir individning moslik funksiyasini qayta hisoblaydi
+C) Tanlangan individ parametrlarini mutatsiya ehtimoli bilan o‘zgartiradi
+[TO'G'RI] D) Ota-ona yechimlarining genetik qismlarini birlashtiradi
+
+97. Genetic Algorithmda selection pressure juda yuqori bo‘lishi qanday salbiy oqibatga olib kelishi mumkin?
+[TO'G'RI] A) Populyatsiya xilma-xilligining erta kamayishiga
+B) Mutatsiya operatorining matematik jihatdan aniqlanmasligiga
+C) Moslik funksiyasi qiymatlarining majburiy normallashtirilishiga
+D) Har bir avlodda populyatsiya hajmining eksponensial ravishda oshishiga
+
+98. Mashinali o‘qitishda ensemble learning usulining asosiy g‘oyasi nimada?
+A) Bitta modelning barcha parametrlarini qat’iy nolga tenglashtirish
+B) O‘qitish namunalarini mustaqil sinflarga oldindan ajratish
+[TO'G'RI] C) Bir nechta model natijalarini birlashtirish
+D) Modelning barcha belgilari uchun yagona chiziqli bog‘lanishni majburiy o‘rnatish
+
+99. Random Forest algoritmida tasodifiy belgilar tanlashning asosiy maqsadi nima?
+A) Barcha qaror daraxtlarini bir xil tuzilishga keltirish
+[TO'G'RI] B) Daraxtlar orasidagi korrelyatsiyani kamaytirish
+C) Har bir daraxtning chuqurligini majburiy birga tenglashtirish
+D) O‘qitish to‘plamidagi har bir namunani yagona barg tuguniga biriktirish
+
+100. Gradient Boosting algoritmi qanday tamoyil asosida ishlaydi?
+A) Mustaqil modellarni o‘qitib, natijalarining oddiy o‘rtachasini hisoblaydi
+B) Barcha o‘qitish namunalarini oldindan bir xil og‘irlikda klasterlarga ajratadi
+C) Har bir modelning natijasini tasodifiy model bilan almashtirib boradi
+[TO'G'RI] D) Yangi modellarni yo‘qotish funksiyasini kamaytirishga yo‘naltirib ketma-ket qo‘shadi
+
+101. Intellektual tizimlarda transfer learning texnologiyasining asosiy afzalligi nimada?
+A) Modelni har bir yangi vazifa uchun noldan o‘qitish
+B) Yangi vazifa uchun barcha parametrlarni tasodifiy boshlash
+[TO'G'RI] C) Oldindan o‘rganilgan bilimlarni boshqa vazifaga moslashtirish
+D) Oldingi modelning barcha chiqishlarini yangi vazifada o‘zgartirmasdan qo‘llash
+
+102. Mashinali o‘qitishda fine-tuning jarayoni nimani anglatadi?
+[TO'G'RI] A) Oldindan o‘qitilgan model parametrlarini yangi vazifaga moslab yangilash
+B) Modelning barcha parametrlarini qat’iy muzlatib qo‘yish
+C) O‘qitish namunalarini klasterlash orqali yangi sinflarga ajratish
+D) O‘qitilgan modelni baholash uchun test to‘plamini qayta shakllantirish
+
+103. Neyron tarmoqlarda attention mexanizmining asosiy vazifasi nima?
+A) Kirish ketma-ketligidagi barcha elementlarni bir xil baholash
+B) Tarmoqdagi barcha vaznlarni bitta umumiy koeffitsiyentga aylantirish
+C) O‘qitish davomida barcha yashirin holatlarni o‘zgarmas saqlash
+[TO'G'RI] D) Muhim elementlarga kontekstga bog‘liq vaznlar berish
+
+104. Transformer arxitekturasida self-attention qanday imkoniyat yaratadi?
+A) Har bir tokenni faqat oldingi token bilan solishtirish
+[TO'G'RI] B) Ketma-ketlik elementlari orasidagi bog‘liqliklarni baholash
+C) Kirish ma’lumotlarini qat’iy sinf chegaralari bo‘yicha ajratish
+D) Har bir token uchun alohida mustaqil neyron tarmoqni noldan o‘qitish
+
+105. Transformer modelida positional encoding nima uchun qo‘llaniladi?
+A) Modelning yo‘qotish funksiyasini oldindan hisoblash uchun
+B) Barcha tokenlarning embeddinglarini bir xil qiymatga keltirish uchun
+[TO'G'RI] C) Tokenlarning ketma-ketlikdagi o‘rni haqida axborot berish uchun
+D) Model parametrlarini optimallashtirishda gradient yo‘nalishini o‘zgartirish uchun
+
+106. Intellektual tizimlarda embedding tushunchasi nimani bildiradi?
+[TO'G'RI] A) Obyektning uzluksiz vektorli ifodasini
+B) Bilimlar bazasidagi mantiqiy qoidalar ketma-ketligini
+C) Ekspert tizimining xulosa chiqarish daraxtini
+D) Obyektning barcha xususiyatlarini qat’iy ikkilik qoidalar orqali tasvirlashni
+
+107. Mashinali o‘qitishda cosine similarity qanday maqsadda ishlatiladi?
+A) Vektorlarning Evklid masofasini hisoblash uchun
+[TO'G'RI] B) Vektorlar yo‘nalishi o‘xshashligini baholash uchun
+C) Ma’lumotlar to‘plamidagi belgilar dispersiyasini hisoblash uchun
+D) Neyron tarmoqdagi aktivatsiya funksiyalarining hosilalarini aniqlash uchun
+
+108. Retrieval-Augmented Generation (RAG) arxitekturasining asosiy xususiyati nimada?
+A) Modelning barcha bilimlarini faqat parametrlarda saqlashi
+B) Har bir so‘rov uchun modelni boshidan qayta o‘qitishi
+C) Generatsiya jarayonida tashqi ma’lumotlardan foydalanishni cheklashi
+[TO'G'RI] D) Qidirib topilgan ma’lumotlarni generativ model kontekstiga qo‘shishi
+
+109. Intellektual tizimlarda knowledge distillation qanday maqsadda qo‘llaniladi?
+[TO'G'RI] A) Katta model bilimlarini kichikroq modelga o‘tkazish
+B) Ma’lumotlar bazasidagi takroriy yozuvlarni olib tashlash
+C) Neyron tarmoqning barcha yashirin qatlamlarini birlashtirish
+D) Ekspert tizimining qoidalar bazasini grafik shaklda qayta tashkil etish
+
+110. Neyron tarmoqlarda quantization texnologiyasi qanday vazifani bajaradi?
+A) O‘qitish namunalarining sinf sonini kamaytiradi
+B) Barcha aktivatsiya funksiyalarini chiziqli funksiyaga aylantiradi
+[TO'G'RI] C) Model sonlarini pastroq aniqlikda ifodalaydi
+D) Modelning barcha vaznlarini bir xil haqiqiy qiymatga majburiy tenglashtiradi
+
+111. Intellektual tizimlarda explainable AI (XAI) yondashuvining asosiy maqsadi nima?
+A) Modelning barcha parametrlarini foydalanuvchidan yashirish
+[TO'G'RI] B) Model qarorlarining sabablarini tushuntirish
+C) Tizimning hisoblash tezligini apparat darajasida oshirish
+D) Intellektual tizimni o‘qitish ma’lumotlarisiz mustaqil ishga tushirish
+
+112. SHAP usuli model bashoratini tushuntirishda qanday tamoyilga asoslanadi?
+A) Har bir belgini boshqa belgilardan mustaqil tasodifiy almashtirishga
+B) Modelning barcha yashirin qatlamlaridagi gradientlarni to‘liq yig‘ishga
+C) Kirish belgilarini faqat ularning statistik dispersiyasi bo‘yicha tartiblashga
+[TO'G'RI] D) Belgilar hissasini Shapley qiymatlari orqali baholashga
+
+113. LIME algoritmining model qarorlarini tushuntirishdagi asosiy xususiyati qaysi?
+[TO'G'RI] A) Muayyan bashorat atrofida sodda lokal model qurish
+B) Murakkab modelning barcha parametrlarini global qoidalarga aylantirish
+C) Modelning barcha bashoratlarini faqat ehtimollik taqsimoti orqali izohlash
+D) Neyron tarmoqning har bir qatlamiga alohida ekspert tizimini biriktirish
+
+114. Intellektual tizimlarda adversarial example qanday holatni ifodalaydi?
+A) Modelni o‘qitishda tasodifiy tanlangan oddiy namunani
+B) Belgilari yetishmaydigan va oldindan qayta ishlangan ma’lumotni
+[TO'G'RI] C) Kichik, maqsadli o‘zgarish orqali modelni chalg‘ituvchi namunani
+D) Modelning o‘qitish va test to‘plamlarida bir xil natija bergan namunani
+
+115. Adversarial training usulining asosiy maqsadi nima?
+A) Modelni faqat yuqori aniqlikdagi tasvirlarda o‘qitish
+[TO'G'RI] B) Modelning adversarial o‘zgarishlarga chidamliligini oshirish
+C) O‘qitish jarayonida barcha noto‘g‘ri tasniflangan namunalarni o‘chirish
+D) Modelning barcha parametrlarini o‘zgarmas qiymatlarda saqlash
+
+116. Intellektual tizimlarda differential privacy texnologiyasining asosiy vazifasi nimada?
+A) Ma’lumotlar to‘plamidagi barcha yozuvlarni yagona kalit bilan shifrlash
+B) O‘qitish ma’lumotlarining fizik joylashuvini foydalanuvchidan yashirish
+C) Modelning hisoblash natijalarini faqat administratorga ko‘rsatish
+[TO'G'RI] D) Alohida yozuvning natijaga ta’siri haqida oshkor bo‘ladigan axborotni chegaralash
+
+117. Federated Learning yondashuvining asosiy xususiyati qaysi?
+[TO'G'RI] A) Modelni markazga xom ma’lumotlarni yig‘masdan o‘qitish
+B) Barcha ma’lumotlarni yagona serverga to‘liq ko‘chirib qayta ishlash
+C) Neyron tarmoqni faqat bitta qurilmada mustaqil optimallashtirish
+D) Model parametrlarini yangilamasdan faqat tayyor bashoratlardan foydalanish
+
+118. Mashinali o‘qitishda catastrophic forgetting muammosi nimani anglatadi?
+A) Modelning boshlang‘ich parametrlarini tasodifiy tanlashini
+B) O‘qitish namunalarining ayrim belgilarini yo‘qotishini
+[TO'G'RI] C) Yangi vazifani o‘rganishda avvalgi bilimlarning yomonlashishini
+D) O‘qitish davomida ma’lumotlar to‘plamining hajmi kamayib borishini
+
+119. Intellektual tizimlarda multi-task learning qanday yondashuv hisoblanadi?
+A) Har bir vazifani mutlaqo mustaqil modelda o‘qitish
+[TO'G'RI] B) Bir nechta vazifani umumiy ifodalar yordamida birgalikda o‘rganish
+C) Bitta vazifani bir nechta protsessorda ketma-ket bajarish
+D) Turli vazifalar uchun barcha model parametrlarini tasodifiy almashtirish
+
+120. Intellektual tizimlarda model monitoring jarayonining asosiy maqsadi nima?
+A) Modelni har bir so‘rovdan oldin to‘liq qayta o‘qitish
+B) Tizimdagi barcha foydalanuvchi so‘rovlarini o‘zgarmas saqlash
+C) Model parametrlarini ishga tushirilgandan keyin o‘zgartirishni taqiqlash
+[TO'G'RI] D) Ishlash sifati va ma’lumotlar o‘zgarishini kuzatib borish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+                 2-FAN: SIGNALLARNI QAYTA ISHLASH (120 TA TEST)
+================================================================================
+
+1. Signalning vaqt sohasidagi tasviri qaysi bog‘lanishni ifodalaydi?
+[TO'G'RI] A) Amplitudaning vaqtga bog‘liqligini
+B) Spektrning chastotaga taqsimlanishini
+C) Kvantlash darajalarining kodlar bilan bog‘lanishini
+D) Chastota komponentlarining o‘zaro nisbatini
+
+2. Signal chastota sohasida tahlil qilinganda qaysi ma’lumot asosiy hisoblanadi?
+A) Signalning vaqt bo‘yicha davomiyligi
+B) Amplitudaning diskret qiymatlari
+[TO'G'RI] C) Spektral komponentlarning taqsimlanishi
+D) Signalning kodlangan raqamli ketma-ketligi
+
+3. Analog signalni raqamli ko‘rinishga o‘tkazishda diskretlash qaysi jarayonni bajaradi?
+A) Amplitudani belgilangan sathlarga ajratadi
+[TO'G'RI] B) Vaqt bo‘yicha qiymatlar oladi
+C) Signal tarkibidagi shovqinni kamaytiradi
+D) Olingan qiymatlarni raqamli kodlarga almashtiradi
+
+4. Kvantlash natijasida signalda qanday o‘zgarish yuz beradi?
+A) Signal alohida vaqt qismlariga bo‘linadi
+B) Spektral komponentlar tartiblanadi
+C) Diskret nuqtalar orasidagi qiymatlar tiklanadi
+[TO'G'RI] D) Amplituda belgilangan sathlarga moslashtiriladi
+
+5. Diskretlash va kvantlash o‘rtasidagi asosiy farq qaysi?
+[TO'G'RI] A) Birinchisi vaqt, ikkinchisi amplituda bilan bog‘liq
+B) Birinchisi spektr, ikkinchisi vaqt bilan bog‘liq
+C) Birinchisi filtrlash, ikkinchisi kodlashni bajaradi
+D) Birinchisi amplitudani, ikkinchisi chastotani o‘zgartiradi
+
+6. Signalga vaqt doirasida ishlov berishda qaysi xususiyat bevosita kuzatiladi?
+A) Spektral tashkil etuvchilarning chastota bo‘yicha joylashuvi
+[TO'G'RI] B) Signal qiymatlarining vaqt davomida o‘zgarishi
+C) Protsessor xotirasidagi ma’lumotlarning adreslanishi
+D) Bazis funksiyalarining spektrga ta’siri
+
+7. Segmentlashdan foydalanishning asosiy sababi qaysi?
+A) Signal amplitudasini oshirish
+B) Barcha chastotalarni bitta qiymatga keltirish
+[TO'G'RI] C) Signalni tahlil qilinadigan qismlarga ajratish
+D) Raqamli signalni uzluksiz signalga aylantirish
+
+8. Freymlash signalga ishlov berishda qaysi yondashuvga yaqin?
+[TO'G'RI] A) Signalni vaqt bo‘yicha bloklarda ko‘rib chiqish
+B) Signalning barcha chastotalarini olib tashlash
+C) Amplitudani faqat maksimal qiymatga keltirish
+D) Protsessor adreslarini ketma-ket almashtirish
+
+9. Ikki signal ustida svyortka bajarilishining muhim natijasi nima?
+A) Signalning kodlash darajasi aniqlanadi
+[TO'G'RI] B) Tizim javobini aniqlash imkoniyati hosil bo‘ladi
+C) Diskret signal avtomatik ravishda analogga aylanadi
+D) Signalning barcha spektral komponentlari yo‘qotiladi
+
+10. Korrelyatsiya algoritmi svyortka bilan bir mavzuda o‘rganilishining asosiy sababi qaysi?
+A) Ikkalasi faqat signalni kodlash uchun xizmat qiladi
+B) Ikkalasi signal amplitudasini bir xil qiymatga keltiradi
+[TO'G'RI] C) Ikkalasi vaqt doirasidagi signallar ustida ishlov berishga tegishli
+D) Ikkalasi faqat analog qurilmalar yordamida bajariladi
+
+11. Raqamli filtrlash natijasida qanday holat kutiladi?
+[TO'G'RI] A) Foydali signal saqlanib, keraksiz komponentlar kamayadi
+B) Signalning barcha chastota komponentlari kuchaytiriladi
+C) Diskret qiymatlar uzluksiz qiymatlarga almashtiriladi
+D) Signal protsessorining xotira hajmi oshiriladi
+
+12. Analog va raqamli filtrlarni ajratishda qaysi mezon muhim?
+A) Signalning faqat amplituda qiymati
+[TO'G'RI] B) Filtr ishlov beradigan signal ko‘rinishi
+C) Protsessorning takt chastotasi va yadrolari soni
+D) Signal saqlanadigan faylning umumiy hajmi
+
+13. Filtr koeffitsientlarini noto‘g‘ri tanlash eng avvalo nimaga ta’sir qiladi?
+A) Signal protsessorining fizik o‘lchamiga
+B) Diskretlash jarayonining mavjudligiga
+[TO'G'RI] C) Filtrning signalga ishlov berish xususiyatiga
+D) Operatsion tizimning yuklanish tezligiga
+
+14. Filtr koeffitsientlarini hisoblashda faylda qaysi usullar misol sifatida keltirilgan?
+A) Segmentlash va freymlash
+B) Svyortka va korrelyatsiya
+C) Diskretlash va kodlash
+[TO'G'RI] D) Minimaks va o‘rtacha kvadrat xato
+
+15. Interpolyatsiya qaysi vaziyatda qo‘llanilishi maqsadga muvofiq?
+[TO'G'RI] A) Diskret nuqtalar orasidagi qiymatlar kerak bo‘lganda
+B) Signalni butunlay chastota sohasidan chiqarishda
+C) Protsessor xotirasini qayta adreslash talab qilinganda
+D) Signalning barcha amplitudalarini nolga tushirishda
+
+16. Signalni chastota muhitida tahlil qilishdan ko‘zlangan asosiy natija nima?
+A) Vaqt bo‘yicha freymlar sonini ko‘paytirish
+[TO'G'RI] B) Signalning spektral tarkibini ajratish
+C) Kvantlash darajalarini bitta qiymatga keltirish
+D) Signal protsessorining adreslash usulini o‘zgartirish
+
+17. Spektr tushunchasi signalning qaysi xususiyatini ifodalaydi?
+A) Vaqt nuqtalarining kodlanish tartibini
+B) Signalning xotirada joylashish ketma-ketligini
+[TO'G'RI] C) Turli chastotalar bo‘yicha tarkibini
+D) Kvantlashdan keyingi raqamli kodlar sonini
+
+18. Bazis funksiyalardan spektral tahlilda foydalanishdan maqsad nima?
+[TO'G'RI] A) Signalning spektral komponentlarini ifodalash
+B) Protsessorning asosiy xotirasini kengaytirish
+C) Signalni faqat vaqt bo‘yicha segmentlarga ajratish
+D) Analog signal amplitudasini doimiy saqlash
+
+19. Wavelet o‘zgartirish boshqa ko‘plab spektral yondashuvlardan qaysi jihati bilan ajralib turadi?
+A) Faqat amplituda qiymatlarini kodlashi bilan
+[TO'G'RI] B) Vaqt va chastotani birgalikda tahlil qilishi bilan
+C) Signalni faqat uzluksiz ko‘rinishda qayta ishlashi bilan
+D) Barcha spektral komponentlarni bitta chastotaga birlashtirishi bilan
+
+20. Signalda qisqa vaqt oralig‘ida yuz beradigan mahalliy o‘zgarishlarni tahlil qilishda qaysi yondashuv mosroq?
+A) Faqat kvantlash darajalarini ko‘paytirish
+B) Oddiy kodlash jarayonini takrorlash
+C) Signalni faqat xotirada saqlash
+[TO'G'RI] D) Wavelet o‘zgartirishdan foydalanish
+
+21. Raqamli filtrning signalga ta’siri eng to‘g‘ri qaysi javobda ifodalangan?
+[TO'G'RI] A) Tanlangan komponentlarni o‘zgartiradi
+B) Barcha chastotalarni bir xil darajada kuchaytiradi
+C) Diskret signalni doimo analog ko‘rinishga qaytaradi
+D) Signalning vaqt davomiyligini avtomatik qisqartiradi
+
+22. Chekli va cheksiz impuls xarakteristikali filtrlar qaysi belgi asosida farqlanadi?
+A) Signalning kodlash usuli bo‘yicha
+[TO'G'RI] B) Impuls javobining xususiyati bo‘yicha
+C) Faqat diskretlash chastotasi bo‘yicha
+D) Protsessor xotirasining umumiy hajmi bo‘yicha
+
+23. Filtr koeffitsientlari amalda nimani belgilashda muhim hisoblanadi?
+A) Signalning fayldagi saqlanish formatini
+B) Protsessorning fizik tuzilishini
+[TO'G'RI] C) Filtrning ishlov berish xususiyatlarini
+D) Signal uzatiladigan kanalning uzunligini
+
+24. O‘rtacha kvadrat xato usuli filtr koeffitsientlarini tanlashda nima bilan bog‘liq?
+A) Signalni vaqt bo‘yicha segmentlash bilan
+B) Protsessor adreslarini aniqlash bilan
+C) Chastotalarni raqamli kodlash bilan
+[TO'G'RI] D) Xatolik mezoni asosida yechim tanlash bilan
+
+25. Interpolyatsiya bajarilganda dastlabki diskret nuqtalar orasida nima aniqlanadi?
+[TO'G'RI] A) Oraliq qiymatlar
+B) Faqat maksimal chastotalar
+C) Signal protsessorining yangi adreslari
+D) Filtrning apparat qismlari
+
+26. Chastota muhitiga o‘tish signal haqida qaysi ma’lumotni aniqroq o‘rganishga imkon beradi?
+A) Signalning xotirada joylashishini
+[TO'G'RI] B) Spektral tarkibini
+C) Protsessor buyruqlarining bajarilish tartibini
+D) Raqamli kodlarning fayldagi hajmini
+
+27. Signalning ayrim chastota komponentlarini tahlil qilish uchun qaysi yondashuv mos keladi?
+A) Faqat vaqt bo‘yicha kodlash
+B) Xotira adreslarini o‘zgartirish
+[TO'G'RI] C) Spektral ishlov berish
+D) Kvantlash darajalarini kamaytirish
+
+28. Integral bazis tizimlarining spektral tahlildagi vazifasi qaysi?
+A) Signalni raqamli kodga aylantirish
+B) Vaqt segmentlarini xotirada saqlash
+C) Protsessorning hisoblash tezligini oshirish
+[TO'G'RI] D) Signalni bazis funksiyalar orqali ifodalash
+
+29. Bazisli spektral o‘zgartirishning mohiyati nimaga asoslanadi?
+[TO'G'RI] A) Signalni bazis funksiyalar yordamida tahlil qilishga
+B) Signalning barcha qiymatlarini bitta sathga keltirishga
+C) Faqat vaqt oralig‘ini qisqartirishga
+D) Xotira adreslarini qayta taqsimlashga
+
+30. Wavelet usuli qaysi turdagi tahlil uchun ayniqsa qulay?
+A) Faqat doimiy amplitudali signalni tekshirish
+[TO'G'RI] B) Mahalliy o‘zgarishlarni aniqlash
+C) Protsessor buyruqlarini ketma-ket bajarish
+D) Signalni faqat raqamli kodlarga almashtirish
+
+31. Wavelet o‘zgartirishda signal haqidagi qaysi ikki xususiyat birgalikda kuzatiladi?
+A) Kod va adres
+B) Amplituda va xotira
+[TO'G'RI] C) Vaqt va chastota
+D) Segment va protsessor
+
+32. Spektral ishlov berish tizimida shovqinni kamaytirish nimaga tayanishi mumkin?
+A) Protsessor adreslarini almashtirishga
+B) Signalni faqat kodlashga
+C) Barcha komponentlarni kuchaytirishga
+[TO'G'RI] D) Keraksiz spektral komponentlarni boshqarishga
+
+33. Spektral ishlov berish tizimlarining vazifalari qatorini aniqlang.
+[TO'G'RI] A) Filtrlash, siqish va shovqinni kamaytirish
+B) Adreslash, kod yozish va xotirani kengaytirish
+C) Diskretlash, protsessor almashtirish va freymlash
+D) Faqat analog signalni uzatish va saqlash
+
+34. Real vaqt tizimida signalni qayta ishlashning muhim jihati qaysi?
+A) Faqat katta hajmdagi xotiradan foydalanish
+[TO'G'RI] B) Natijani talab etilgan vaqtda olish
+C) Signalni barcha holatlarda siqib saqlash
+D) Faqat analog qurilmalar bilan ishlash
+
+35. Signal protsessorlarida parallel hisoblash imkoniyati nima uchun muhim?
+A) Signalni analog ko‘rinishda saqlash uchun
+B) Xotira adreslarini kamaytirish uchun
+[TO'G'RI] C) Hisoblashlarni tezkor bajarish uchun
+D) Faqat operatsion tizimni ishga tushirish uchun
+
+36. Signal protsessorining xotira tashkiloti qanday vazifani qo‘llab-quvvatlaydi?
+A) Signalning fizik chastotasini avtomatik o‘zgartirishni
+B) Faqat analog ma’lumotlarni uzoq muddat saqlashni
+C) Barcha signallarni bir xil formatga aylantirishni
+[TO'G'RI] D) Ma’lumotlardan tezkor foydalanishni
+
+37. Signal protsessorlari uchun maxsus dasturlar yaratishda nimani hisobga olish muhim?
+[TO'G'RI] A) Protsessor arxitekturasi va imkoniyatlarini
+B) Faqat monitorning ekran o‘lchamini
+C) Signal faylining nomlanish tartibini
+D) Tarmoqdagi foydalanuvchilar sonini
+
+38. QNX tizimining real vaqt masalalariga mos keladigan xususiyati qaysi?
+A) Faqat grafik ma’lumotlarni qayta ishlashi
+[TO'G'RI] B) Mikroyadro arxitekturasiga asoslanishi
+C) Faqat analog signallar bilan ishlashi
+D) Spektral filtr sifatida qo‘llanilishi
+
+39. DSP oddiy umumiy maqsadli hisoblashdan qaysi jihati bilan ajralib turadi?
+A) Faqat ma’lumotlarni saqlashga mo‘ljallanganligi bilan
+B) Analog signalni o‘zgartirmasdan uzatishi bilan
+[TO'G'RI] C) Signal hisoblashlariga moslashtirilganligi bilan
+D) Faqat operatsion tizim vazifalarini bajarishi bilan
+
+40. Raqamli signal protsessorlarining apparat vositalari qanday maqsadga yo‘naltirilgan?
+A) Faqat matnli ma’lumotlarni kodlashga
+B) Xotirani tashqi qurilmalardan ajratishga
+C) Signalning fizik manbasini yaratishga
+[TO'G'RI] D) Signalga tez va samarali ishlov berishga
+
+41. Signal protsessorida ma’lumotlarni raqamli formatda ifodalashning asosiy sababi qaysi?
+[TO'G'RI] A) Hisoblash algoritmlarini samarali bajarish
+B) Signalni faqat analog qurilmalarga uzatish
+C) Xotira adreslarini butunlay yo‘qotish
+D) Protsessor arxitekturasini avtomatik almashtirish
+
+42. Signal protsessorlarida butun son va o‘nlik kasr ko‘rinishidagi ma’lumotlar nimani ifodalaydi?
+A) Protsessorning apparat avlodini
+[TO'G'RI] B) Raqamli ma’lumot formatlarini
+C) Signalning uzatish muhitini
+D) Operatsion tizim yadrosining tuzilishini
+
+43. FFT algoritmining signal protsessorlarida qo‘llanilishi qaysi jarayon bilan bog‘liq?
+A) Signalni faqat vaqt bo‘yicha segmentlash bilan
+B) Xotirani fizik jihatdan kengaytirish bilan
+[TO'G'RI] C) Spektral tahlilni bajarish bilan
+D) Analog qurilmalarni bevosita boshqarish bilan
+
+44. Signal protsessorlaridagi algoritmlarni optimallashtirishdan ko‘zlangan asosiy maqsad nima?
+A) Signalning amplitudasini doimo oshirish
+B) Ma’lumot formatlarini analog ko‘rinishga o‘tkazish
+C) Faqat xotira adreslari sonini kamaytirish
+[TO'G'RI] D) Ishlov berishni tez va samarali bajarish
+
+45. Signal protsessorining maxsus arxitekturasi qaysi vazifaga ko‘proq moslashtirilgan?
+[TO'G'RI] A) Takrorlanuvchi signal hisoblashlarini bajarishga
+B) Faqat matnli fayllarni uzoq muddat saqlashga
+C) Analog signallarni o‘zgartirmasdan uzatishga
+D) Operatsion tizim interfeysini yaratishga
+
+46. Signal protsessorida adreslash usullarining mavjudligi eng avvalo nima bilan bog‘liq?
+A) Signalning fizik manbasini aniqlash bilan
+[TO'G'RI] B) Ma’lumotlarga murojaat qilish bilan
+C) Chastota qiymatlarini analoglashtirish bilan
+D) Filtrning tashqi apparat qismini almashtirish bilan
+
+47. Signal protsessorining xotirasi ko‘p qatlamli tashkil etilishi qanday afzallik beradi?
+A) Signalni avtomatik ravishda analoglashtiradi
+B) Faqat katta hajmdagi fayllarni siqadi
+[TO'G'RI] C) Ma’lumotlarga tezkor kirishni qo‘llab-quvvatlaydi
+D) Spektral komponentlarni bir xil qiymatga keltiradi
+
+48. Tezkor keshdan foydalanish signal protsessorida qaysi maqsadga mos keladi?
+A) Analog signalning amplitudasini oshirishga
+B) Signalni faqat tashqi xotirada saqlashga
+C) Kvantlash sathlarini avtomatik kamaytirishga
+[TO'G'RI] D) Zarur ma’lumotga tez murojaat qilishga
+
+49. Real vaqt tizimida yuqori hisoblash tezligining o‘zi yetarli bo‘lmasligiga sabab nima?
+[TO'G'RI] A) Natija kerakli vaqtda olinishi ham zarur
+B) Barcha signallar analog bo‘lishi talab qilinadi
+C) Har bir signal albatta siqilishi kerak
+D) Xotira faqat bitta qatlamdan tashkil topadi
+
+50. QNXning mikroyadro arxitekturasi faylda qaysi tizim turi bilan bog‘langan?
+A) Spektral o‘zgartirish tizimi bilan
+[TO'G'RI] B) Real vaqt operatsion tizimi bilan
+C) Analog filtrlash qurilmasi bilan
+D) Signalni interpolyatsiyalash algoritmi bilan
+
+51. Tizimli dasturlar signal protsessorida qanday vazifani qo‘llab-quvvatlaydi?
+A) Signal manbasining fizik xususiyatlarini o‘zgartiradi
+B) Faqat tashqi qurilmalarni analog usulda boshqaradi
+[TO'G'RI] C) Algoritmlarning optimal bajarilishini ta’minlaydi
+D) Barcha raqamli signallarni uzluksiz ko‘rinishga keltiradi
+
+52. DSPning maxsus arxitekturaga ega bo‘lishidan ko‘zlangan asosiy natija qaysi?
+A) Faqat operatsion tizimni saqlash
+B) Signal chastotasini fizik jihatdan oshirish
+C) Barcha ma’lumotlarni analog shaklda ifodalash
+[TO'G'RI] D) Raqamli signallarga samarali ishlov berish
+
+53. SHARC oilasidagi protsessorlarning yuqori hisoblash imkoniyati qaysi vazifalarga mos keladi?
+[TO'G'RI] A) Murakkab signal ishlov berish jarayonlariga
+B) Faqat oddiy matnlarni saqlash vazifalariga
+C) Signalni o‘zgartirmasdan uzatish jarayonlariga
+D) Analog qurilmalarning quvvatini boshqarishga
+
+54. SHARC protsessorlarining ko‘p yadroli arxitekturasi nimani qo‘llab-quvvatlaydi?
+A) Faqat bitta signal qiymatini saqlashni
+[TO'G'RI] B) Yuqori hisoblash imkoniyatlarini
+C) Analog signalni qo‘lda diskretlashni
+D) Xotira adreslaridan foydalanmaslikni
+
+55. Faylda SHARC protsessorlarining qo‘llanish sohalaridan qaysilari keltirilgan?
+A) Matn muharrirlari va elektron jadvallar
+B) Faqat ma’lumotlar bazasini boshqarish
+[TO'G'RI] C) Audio, video va telekommunikatsiya
+D) Faqat veb-sahifalarni shakllantirish
+
+56. Nutq signaliga ishlov berishda qaysi vazifalar o‘zaro bog‘liq holda keltirilgan?
+A) Adreslash, kvantlash va xotirani kengaytirish
+B) Segmentlash, protsessorlash va kodni kompilyatsiya qilish
+C) Diskretlash, operatsion tizim va apparat adreslash
+[TO'G'RI] D) Nutqni tanish, siqish va shovqinni kamaytirish
+
+57. Tibbiy signallarga ishlov berish algoritmlarining vazifasi qaysi holatga mos keladi?
+[TO'G'RI] A) Biologik signallarni tahlil qilish
+B) Protsessor yadrolari sonini aniqlash
+C) Analog qurilmalarni tarmoq orqali ulash
+D) Xotira adreslarini avtomatik ko‘paytirish
+
+58. EEG signali faylda qaysi yo‘nalishga misol sifatida berilgan?
+A) Telekommunikatsiya signalini siqishga
+[TO'G'RI] B) Tibbiy signal tahliliga
+C) Protsessor xotirasini tashkil etishga
+D) QNX tizimini dasturlashga
+
+59. Nutq signalidagi shovqinni kamaytirish qaysi umumiy vazifaga tegishli?
+A) Protsessorning fizik arxitekturasini o‘zgartirishga
+B) Xotirani ko‘p qatlamli tashkil qilishga
+[TO'G'RI] C) Foydali signal sifatini yaxshilashga
+D) Signalni boshqa apparat turiga aylantirishga
+
+60. DSP, FFT va spektral tahlil tushunchalarini bog‘lovchi eng mos fikr qaysi?
+A) Ular faqat analog signal hosil qilishga xizmat qiladi
+B) Ularning barchasi xotira adreslash usullari hisoblanadi
+C) Ular faqat real vaqt operatsion tizimini boshqaradi
+[TO'G'RI] D) DSP ushbu signal algoritmlarini samarali bajarishga moslashtirilgan
+
+61. Signal protsessorlarida parallel hisoblash imkoniyatidan foydalanish qanday natijaga xizmat qiladi?
+[TO'G'RI] A) Signalga ishlov berish tezligini oshirishga
+B) Barcha ma’lumotlarni analog formatda saqlashga
+C) Xotira qatlamlarini butunlay bekor qilishga
+D) Signal amplitudasini o‘zgarmas holatda ushlab turishga
+
+62. Real vaqt tizimida signalga ishlov berish samaradorligini baholashda qaysi omil muhim?
+A) Signal faylining nomlanish tartibi
+[TO'G'RI] B) Natijaning o‘z vaqtida olinishi
+C) Protsessordagi barcha xotiraning band bo‘lishi
+D) Signalning faqat analog shaklda uzatilishi
+
+63. Signal protsessorining xotira tashkiloti ko‘p qatlamli bo‘lishi nimani ta’minlashga qaratilgan?
+A) Signal chastotasini avtomatik pasaytirishni
+B) Analog filtrlarning sonini ko‘paytirishni
+[TO'G'RI] C) Ma’lumotlardan samarali foydalanishni
+D) Barcha algoritmlarni bitta buyruqqa aylantirishni
+
+64. Signal protsessorida adreslash usullari qaysi jarayon uchun zarur hisoblanadi?
+A) Signal spektrini fizik jihatdan o‘zgartirish uchun
+B) Analog signalni kuchaytirish uchun
+C) Filtr koeffitsientlarini apparatda yaratish uchun
+[TO'G'RI] D) Xotiradagi ma’lumotlarga murojaat qilish uchun
+
+65. Signal protsessorlari uchun tizimli dasturlarning samaradorligi nimaga bog‘liq?
+[TO'G'RI] A) Protsessor imkoniyatlarini hisobga olishga
+B) Faqat signalning analog shaklda bo‘lishiga
+C) Xotira adreslaridan foydalanmaslikka
+D) Barcha chastotalarni bir xil darajada saqlashga
+
+66. Signal protsessoriga mo‘ljallangan dastur oddiy dasturdan qaysi jihati bilan farqlanishi mumkin?
+A) Faqat grafik interfeysga ega bo‘lishi bilan
+[TO'G'RI] B) Signal algoritmlariga mos optimallashtirilishi bilan
+C) Barcha ma’lumotlarni matn shaklida saqlashi bilan
+D) Analog signalni qayta ishlamasdan uzatishi bilan
+
+67. QNXning real vaqt tizimlari tarkibida qo‘llanilishi qaysi talab bilan ko‘proq bog‘liq?
+A) Signalni faqat spektral ko‘rinishda saqlash bilan
+B) Protsessor xotirasini cheksiz kengaytirish bilan
+[TO'G'RI] C) Tezkor va barqaror javobni ta’minlash bilan
+D) Barcha signallarni analog ko‘rinishga aylantirish bilan
+
+68. QNXning mikroyadro asosida tashkil etilishi qaysi tushunchaga tegishli?
+A) Signalning kvantlash usuliga
+B) Raqamli filtr koeffitsientlariga
+C) Spektral o‘zgartirish algoritmiga
+[TO'G'RI] D) Operatsion tizim arxitekturasiga
+
+69. DSP protsessorining umumiy vazifasini eng aniq ifodalovchi javobni aniqlang.
+[TO'G'RI] A) Raqamli signallarga tezkor ishlov berish
+B) Faqat analog signallarni xotirada saqlash
+C) Operatsion tizimning grafik qismini boshqarish
+D) Signal manbasining fizik parametrlarini o‘zgartirish
+
+70. DSPning maxsus arxitekturasi nima uchun signalga ishlov berishda afzallik beradi?
+A) Barcha hisoblashlarni tashqi qurilmaga uzatadi
+[TO'G'RI] B) Signal algoritmlarini samarali bajaradi
+C) Faqat bitta turdagi ma’lumotni saqlaydi
+D) Raqamli signalni qayta ishlash zaruratini yo‘qotadi
+
+71. Signal protsessorida FFT algoritmining mavjudligi qaysi vazifani bajarishga imkon beradi?
+A) Xotira adreslarini fizik jihatdan ko‘paytirishni
+B) Analog signalni uzluksiz saqlashni
+[TO'G'RI] C) Spektral tahlilni samarali bajarishni
+D) Operatsion tizim yadrosini almashtirishni
+
+72. Signal protsessorlaridagi ishlov berish algoritmlarining optimallashtirilishi nimaga yo‘naltiriladi?
+A) Signal manbasini apparat jihatdan almashtirishga
+B) Faqat xotiraning umumiy hajmini oshirishga
+C) Analog signalni diskretlashsiz qayta ishlashga
+[TO'G'RI] D) Hisoblashlarni tez va samarali bajarishga
+
+73. Signal protsessorlarida ma’lumotni butun son shaklida ifodalash nimaga misol bo‘ladi?
+[TO'G'RI] A) Raqamli ma’lumot formatiga
+B) Analog filtrlash usuliga
+C) Real vaqt operatsion tizimiga
+D) Spektral bazis funksiyasiga
+
+74. Signal protsessorida o‘nlik kasr ko‘rinishidagi qiymatlar qaysi tushuncha bilan bog‘liq?
+A) Signalning apparat manbasi bilan
+[TO'G'RI] B) Ma’lumotlarni raqamli ifodalash bilan
+C) Operatsion tizimning mikroyadrosi bilan
+D) Analog filtrning fizik tuzilishi bilan
+
+75. SHARC oilasining signal protsessorlari qaysi xususiyati bilan ajralib turadi?
+A) Faqat analog signallarni saqlashi bilan
+B) Hisoblashlardan foydalanmasligi bilan
+[TO'G'RI] C) Yuqori hisoblash imkoniyati bilan
+D) Faqat operatsion tizim vazifalarini bajarishi bilan
+
+76. Ko‘p yadroli SHARC arxitekturasidan foydalanish qaysi vazifaga ko‘proq mos keladi?
+A) Faqat signal fayllarini nomlashga
+B) Oddiy matnlarni ketma-ket saqlashga
+C) Analog signallarni o‘zgartirmasdan uzatishga
+[TO'G'RI] D) Murakkab signal hisoblashlarini bajarishga
+
+77. Audio, video va telekommunikatsiyada SHARC protsessorlaridan foydalanishning asosiy sababi qaysi?
+[TO'G'RI] A) Murakkab signal ishloviga mosligi
+B) Faqat matnli ma’lumotlarni saqlashi
+C) Signalni qayta ishlamasdan uzatishi
+D) Xotira adreslaridan foydalanmasligi
+
+78. Nutqni tanish jarayoni faylda qaysi yo‘nalishning qo‘llanilishi sifatida keltirilgan?
+A) Signal protsessorining xotira tashkiloti
+[TO'G'RI] B) Nutq signallariga ishlov berish
+C) QNX mikroyadro arxitekturasi
+D) Filtr koeffitsientlarini hisoblash
+
+79. Tibbiy signallarni tahlil qilishga qaysi misol bevosita mos keladi?
+A) Telekommunikatsiya kanalini adreslash
+B) Audio faylni apparat darajasida siqish
+[TO'G'RI] C) EEG signalini qayta ishlash
+D) Protsessor yadrolarini boshqarish
+
+80. Nutq va tibbiy signallarga ishlov berishni birlashtiruvchi umumiy xususiyat qaysi?
+A) Faqat analog qurilmalardan foydalanilishi
+B) Xotira adreslarining bir xil bo‘lishi
+C) QNX tizimining majburiy qo‘llanilishi
+[TO'G'RI] D) Maxsus signal algoritmlaridan foydalanilishi
+
+81. Signalni vaqt va chastota sohalarida o‘rganish o‘rtasidagi asosiy farq qaysi?
+[TO'G'RI] A) Signalning turli xususiyatlari tahlil qilinadi
+B) Har ikkala sohada faqat amplituda qiymati aniqlanadi
+C) Chastota sohasida signal faqat vaqt bo‘yicha kuzatiladi
+D) Vaqt sohasida spektral komponentlargina o‘rganiladi
+
+82. Signalni diskretlashdan keyin kvantlash qo‘llanilishining sababi nima?
+A) Signalni vaqt bo‘yicha uzluksiz holatga qaytarish
+[TO'G'RI] B) Amplitudani belgilangan darajalarga moslashtirish
+C) Signal tarkibidagi barcha shovqinni olib tashlash
+D) Spektral komponentlarni bazis funksiyalarga ajratish
+
+83. Signalni segmentlash va freymlash usullarining umumiy jihati qaysi?
+A) Signalni faqat chastota bo‘yicha o‘zgartiradi
+B) Kvantlash darajalarini avtomatik ravishda oshiradi
+[TO'G'RI] C) Signalni qismlar asosida qayta ishlashga yordam beradi
+D) Analog signalning fizik xususiyatlarini o‘zgartiradi
+
+84. Vaqt doirasidagi bazaviy signal operatsiyalariga qaysi amallar tegishli?
+A) Adreslash, keshlash va kodlash
+B) Diskretlash, spektral tahlil va siqish
+C) Filtrlash, xotiralash va adreslash
+[TO'G'RI] D) Qo‘shish, ko‘paytirish va o‘zgartirish
+
+85. Svyortka algoritmidan tizimlarni tahlil qilishda foydalanishning muhim sababi qaysi?
+[TO'G'RI] A) Tizim javobini aniqlashga yordam beradi
+B) Signalning barcha chastotalarini bir xil qiladi
+C) Raqamli signalni analog ko‘rinishga o‘tkazadi
+D) Protsessor xotirasidagi adreslarni qayta tashkil qiladi
+
+86. Signalga vaqt doirasida ishlov berish jarayonida shovqinni kamaytirish nimaga xizmat qiladi?
+A) Signalning barcha komponentlarini yo‘qotishga
+[TO'G'RI] B) Foydali ma’lumotni yaxshiroq ajratishga
+C) Xotiradagi ma’lumotlar hajmini doimo oshirishga
+D) Signalni faqat chastota sohasida ifodalashga
+
+87. Raqamli filtrning analog filtrdan farqlanishini qaysi xususiyat aniqroq ko‘rsatadi?
+A) Faqat yuqori chastotalarni o‘tkazishi
+B) Signal amplitudasini doimo kamaytirishi
+[TO'G'RI] C) Diskret signalga ishlov berishi
+D) Filtr koeffitsientlaridan foydalanmasligi
+
+88. Filtr koeffitsientlarini hisoblashda matematik algoritmlardan foydalanishning sababi nima?
+A) Protsessorning fizik tuzilishini aniqlash
+B) Signalning vaqt davomiyligini o‘zgartirish
+C) Barcha diskret qiymatlarni o‘chirib tashlash
+[TO'G'RI] D) Kerakli filtr xususiyatlarini hosil qilish
+
+89. Interpolyatsiya diskret signalga qanday imkoniyat beradi?
+[TO'G'RI] A) Oraliq nuqtalarni hisoblash
+B) Signal protsessorining yadrolarini boshqarish
+C) Barcha spektral komponentlarni yo‘qotish
+D) Analog filtrning apparat tuzilishini aniqlash
+
+90. Signalni chastota domeniga o‘tkazish qaysi tahlilni amalga oshirishga imkon beradi?
+A) Protsessor adreslarini aniqlashni
+[TO'G'RI] B) Spektral tarkibni o‘rganishni
+C) Signal manbasini fizik almashtirishni
+D) Xotira qatlamlarini qayta tashkil etishni
+
+91. Spektral tahlilda signalning bazis funksiyalar yordamida ifodalanishi nimaga xizmat qiladi?
+A) Faqat signalning vaqt davomiyligini aniqlashga
+B) Xotira adreslarini tartiblashga
+[TO'G'RI] C) Spektral komponentlarni aniqlashga
+D) Analog qurilmalarning quvvatini boshqarishga
+
+92. Integral bazis tizimlari fayldagi izohga ko‘ra nimadan tashkil topadi?
+A) Diskret vaqt qiymatlarining chekli to‘plamidan
+B) Signal protsessorining apparat bloklaridan
+C) Kvantlash darajalari va raqamli kodlardan
+[TO'G'RI] D) Kontinuum bazis funksiyalar to‘plamidan
+
+93. Wavelet o‘zgartirishning mahalliy signal o‘zgarishlarini aniqlashdagi afzalligi nimaga bog‘liq?
+[TO'G'RI] A) Vaqt va chastotani birgalikda tahlil qilishiga
+B) Faqat signal amplitudasining maksimumini topishiga
+C) Barcha chastotalarni bitta qiymatga aylantirishiga
+D) Signal protsessorining xotirasini kengaytirishiga
+
+94. Spektral ishlov berish tizimida signal komponentlarini ajratish qanday imkoniyat yaratadi?
+A) Protsessor arxitekturasini avtomatik almashtirish
+[TO'G'RI] B) Ularning ta’sirini tahlil qilish va boshqarish
+C) Signalni faqat analog ko‘rinishda saqlash
+D) Xotiradagi barcha adreslardan voz kechish
+
+95. Real vaqt signal tizimida kechikishning nazorat qilinishi nima uchun muhim?
+A) Signalni faqat analog shaklda ifodalash uchun
+B) Spektral komponentlar sonini ko‘paytirish uchun
+[TO'G'RI] C) Tezkor ishlov berishni ta’minlash uchun
+D) Protsessor xotirasini doimo kengaytirish uchun
+
+96. Signal protsessorlarida parallel hisoblashdan foydalanish qaysi xususiyatni kuchaytiradi?
+A) Analog signalni bevosita hosil qilishni
+B) Kvantlash sathlarini fizik ko‘paytirishni
+C) Signalni faqat tashqi xotirada saqlashni
+[TO'G'RI] D) Ko‘p hisoblashlarni tez bajarishni
+
+97. Signal protsessorining kesh va asosiy xotiradan foydalanishi nimaga xizmat qiladi?
+[TO'G'RI] A) Ma’lumot almashinuvini samarali tashkil etishga
+B) Signalning fizik chastotasini avtomatik oshirishga
+C) Analog filtrlarning apparat sonini ko‘paytirishga
+D) Barcha algoritmlarni bitta operatsiyaga aylantirishga
+
+98. QNXning real vaqt tizimi sifatidagi vazifasiga qaysi holat mos keladi?
+A) Signalni faqat spektral ko‘rinishga o‘tkazish
+[TO'G'RI] B) Tezkor va barqaror ishlashni ta’minlash
+C) Analog filtr koeffitsientlarini fizik hisoblash
+D) Barcha ma’lumotlarni uzluksiz signalga aylantirish
+
+99. DSPda filtrlar va FFT kabi algoritmlarning qo‘llanilishi nimani ko‘rsatadi?
+A) DSP faqat ma’lumotlarni saqlash uchun ishlatilishini
+B) U faqat analog signallar bilan ishlashini
+[TO'G'RI] C) Signalga ishlov berishga moslashtirilganini
+D) Unda xotira adreslash usullari mavjud emasligini
+
+100. Nutq va tibbiy signallarga ishlov berishning umumiy jihatini aniqlang.
+A) Har ikkisi faqat SHARC protsessorida bajariladi
+B) Ikkalasida ham faqat analog filtr ishlatiladi
+C) Har ikkisi QNX tizimini majburiy talab qiladi
+[TO'G'RI] D) Maxsus tahlil algoritmlaridan foydalaniladi
+
+101. Signalga spektral ishlov berishda chastota komponentlarini alohida ko‘rib chiqish qanday imkoniyat beradi?
+[TO'G'RI] A) Ularning signalga ta’sirini tahlil qilishga
+B) Signalni faqat vaqt bo‘yicha segmentlashga
+C) Protsessor xotirasidagi adreslarni avtomatik almashtirishga
+D) Kvantlash sathlarini bitta qiymatga birlashtirishga
+
+102. Signalning spektral tarkibi deganda qaysi xususiyat nazarda tutiladi?
+A) Signal qiymatlarining xotirada joylashish tartibi
+[TO'G'RI] B) Chastota komponentlarining taqsimlanishi
+C) Diskret nuqtalarning raqamli kodlarga aylanishi
+D) Protsessor buyruqlarining bajarilish ketma-ketligi
+
+103. Signalni vaqt domenidan chastota domeniga o‘tkazishning asosiy sababi qaysi?
+A) Kvantlash darajalarini avtomatik kamaytirish
+B) Signalning vaqt davomiyligini uzaytirish
+[TO'G'RI] C) Spektral xususiyatlarni aniqlash
+D) Protsessorning asosiy xotirasini kengaytirish
+
+104. Bazisli spektral o‘zgartirishda bazis funksiyalarning vazifasi nimadan iborat?
+A) Signalning fizik manbasini o‘zgartirishdan
+B) Xotiradagi ma’lumotlarni adreslashdan
+C) Signalni faqat vaqt bo‘yicha qismlarga ajratishdan
+[TO'G'RI] D) Signalni spektral ko‘rinishda ifodalashdan
+
+105. Wavelet tahlili qaysi holatda ayniqsa foydali hisoblanadi?
+[TO'G'RI] A) Signalning mahalliy o‘zgarishlarini o‘rganishda
+B) Protsessor xotirasini fizik jihatdan kengaytirishda
+C) Barcha chastotalarni bir xil qiymatga keltirishda
+D) Analog signalni o‘zgartirmasdan uzatishda
+
+106. Wavelet o‘zgartirish signal haqida qanday tahlil imkoniyatini beradi?
+A) Faqat amplituda sathlarini taqqoslash imkoniyatini
+[TO'G'RI] B) Vaqt va chastotani birgalikda o‘rganish imkoniyatini
+C) Faqat protsessor adreslarini nazorat qilish imkoniyatini
+D) Signalning barcha komponentlarini bitta qiymatga keltirish imkoniyatini
+
+107. Spektral ishlov berish tizimida filtrlashdan foydalanish qaysi vazifaga mos keladi?
+A) Protsessor arxitekturasini qayta tashkil etishga
+B) Signalning barcha komponentlarini kuchaytirishga
+[TO'G'RI] C) Keraksiz komponentlar ta’sirini kamaytirishga
+D) Diskret qiymatlarni faqat analog ko‘rinishda saqlashga
+
+108. Signalni siqish spektral ishlov berish tizimlarida qaysi jarayonlardan biri sifatida keltirilgan?
+A) Xotirani apparat darajasida kengaytirish jarayoni
+B) Signal protsessorining yadrosini almashtirish jarayoni
+C) Analog filtrni raqamli filtrga ulash jarayoni
+[TO'G'RI] D) Signalga ishlov berish vazifalaridan biri
+
+109. Real vaqt tizimida signalning tezkor qayta ishlanishi nimani ta’minlashga qaratilgan?
+[TO'G'RI] A) Zarur natijani kechikishsiz olishga
+B) Signalni faqat analog ko‘rinishda saqlashga
+C) Barcha spektral komponentlarni birlashtirishga
+D) Protsessor xotirasidagi ma’lumotlarni o‘chirishga
+
+110. Signal protsessorining parallel hisoblash imkoniyati qaysi holatda muhimroq?
+A) Signalni faqat xotirada uzoq muddat saqlashda
+[TO'G'RI] B) Ko‘p hisoblashlarni tez bajarishda
+C) Analog signal manbasini fizik almashtirishda
+D) Kvantlash darajalarini qo‘lda belgilashda
+
+111. Signal protsessorining xotirasi tezkor keshdan asosiy xotiragacha tashkil etilishi nimani ko‘rsatadi?
+A) Signal faqat analog formatda saqlanishini
+B) Protsessor faqat bitta algoritmni bajarishini
+[TO'G'RI] C) Xotiraning ko‘p qatlamli tashkil etilganini
+D) Signalga spektral ishlov berish mumkin emasligini
+
+112. Signal protsessorida adreslash usullaridan foydalanishning zarurati nimaga bog‘liq?
+A) Signalning fizik amplitudasini oshirishga
+B) Barcha chastotalarni bir xil sathga keltirishga
+C) Analog filtrning tashqi tuzilishini o‘zgartirishga
+[TO'G'RI] D) Xotiradagi ma’lumotlarga murojaat qilishga
+
+113. Signal protsessorlari uchun tizimli dasturlarni optimallashtirishda asosiy omil qaysi?
+[TO'G'RI] A) Protsessor arxitekturasi va imkoniyatlari
+B) Faqat signal faylining umumiy hajmi
+C) Analog signal manbasining tashqi ko‘rinishi
+D) Monitorning tasvirni yangilash chastotasi
+
+114. Signal protsessorlari uchun amaliy dasturlar qanday maqsadga yo‘naltiriladi?
+A) Faqat operatsion tizim yadrosini almashtirishga
+[TO'G'RI] B) Signalga ishlov berish vazifalarini bajarishga
+C) Xotira adreslarini butunlay bekor qilishga
+D) Barcha raqamli signallarni analoglashtirishga
+
+115. Real vaqt operatsion tizimida barqarorlik bilan bir qatorda qaysi xususiyat muhim hisoblanadi?
+A) Faqat katta hajmdagi tashqi xotira
+B) Signalning doimo analog bo‘lishi
+[TO'G'RI] C) Tezkor javob berish
+D) Barcha ma’lumotlarning bitta adresda saqlanishi
+
+116. QNXning real vaqt vazifalariga moslashtirilganligi qaysi xususiyat bilan bog‘langan?
+A) Signalni faqat chastota sohasida ifodalashi bilan
+B) Filtr koeffitsientlarini avtomatik hisoblashi bilan
+C) Faqat tibbiy signallarni qayta ishlashi bilan
+[TO'G'RI] D) Mikroyadro arxitekturasiga asoslanishi bilan
+
+117. Raqamli signal protsessorining maxsus arxitekturasi qanday ustunlik yaratadi?
+[TO'G'RI] A) Signallarga yuqori tezlikda ishlov berish
+B) Barcha signallarni qayta ishlamasdan saqlash
+C) Analog filtrlarning fizik o‘lchamini kamaytirish
+D) Xotira adreslaridan foydalanishni bekor qilish
+
+118. DSPda signalga ishlov berish algoritmlarining optimallashtirilishi qanday natija beradi?
+A) Signalni faqat analog qurilmada saqlash imkonini
+[TO'G'RI] B) Samarali va tezkor qayta ishlashni
+C) Barcha spektral komponentlarni yo‘qotishni
+D) Protsessorning fizik yadrolarini almashtirishni
+
+119. FFT, filtrlar va spektral tahlilning signal protsessorida birgalikda uchrashi nimani anglatadi?
+A) Protsessor faqat xotirani boshqarishga mo‘ljallanganini
+B) Unda analog signallar saqlanmasligini
+[TO'G'RI] C) Turli signal algoritmlari bajarilishini
+D) QNXdan foydalanish majburiy ekanligini
+
+120. DSP apparat vositalarining maxsus tashkil etilishidan ko‘zlangan maqsad qaysi?
+A) Signalni faqat fayl ko‘rinishida saqlash
+B) Protsessor adreslarini foydalanishdan chiqarish
+C) Barcha signallarni bitta chastotaga o‘tkazish
+[TO'G'RI] D) Raqamli signallarga samarali ishlov berish
